@@ -102,7 +102,7 @@ Assignments are due by 23:59 pacific time on their due date, to be submitted on 
 
 Jan 16 - Welcome/Intro to Computation
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - DOS prompt guide
   - JupyterLab getting started and user guide
@@ -117,14 +117,14 @@ Pre-Survey
 
 Jan 23 - Collecting Data: Census, Websites, Portals
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Urdan ch. 1
   - Macdonald ACS 2006
   - https://data.census.gov/
   - LA city data portal
 
-Reading response 1 due midnight before class
+Reading response 1 due by 23:59 the night before class
 
 Group assignment 1 due following Wed: collecting data
 
@@ -134,12 +134,12 @@ Group assignment 1 due following Wed: collecting data
 
 Jan 30 - Coding Bootcamp I
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Python Is Eating the World
   - Downey ch. 1-3
 
-Reading response 2 due midnight before class
+Reading response 2 due by 23:59 the night before class
 
 
 
@@ -147,7 +147,7 @@ Reading response 2 due midnight before class
 
 Feb 06 - Coding Bootcamp II
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Wheelan ch. 1
   - Downey ch. 4-7
@@ -160,12 +160,12 @@ Group assignment 2 due following Wed: working with code
 
 Feb 13 - Data Cleaning and Descriptive Stats
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Wheelan ch. 2-4
   - Urdan ch. 2-3
 
-Reading response 3 due midnight before class
+Reading response 3 due by 23:59 the night before class
 
 
 
@@ -173,7 +173,7 @@ Reading response 3 due midnight before class
 
 Feb 20 - Data Visualization
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - seaborn user guide
 
@@ -185,7 +185,7 @@ Group assignment 3 due following Wed: descriptive stats and visualization
 
 Feb 27 - Spatial Analysis and Mapping
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - geopandas user guide
   - cartopy user guide
@@ -198,12 +198,12 @@ Group assignment 4 due following Wed: spatial data
 
 Mar 05 - APIs and Sentiment
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Wheelan ch. 5-8
   - Schweitzer twitter
 
-Reading response 4 due midnight before class
+Reading response 4 due by 23:59 the night before class
 
 
 
@@ -211,11 +211,11 @@ Reading response 4 due midnight before class
 
 Mar 12 - Mid-Term Exam
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Urdan ch. 4-5
 
-Reading response 5 due midnight before class
+Reading response 5 due by 23:59 the night before class
 
 
 
@@ -229,11 +229,11 @@ Mar 19 - No Class
 
 Mar 26 - Social Science and the Scientific Method
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Okasha ch. 1-4
 
-Reading response 6 due midnight before class
+Reading response 6 due by 23:59 the night before class
 
 
 
@@ -241,14 +241,14 @@ Reading response 6 due midnight before class
 
 Apr 02 - Inference, Confidence, Uncertainty
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Urdan ch. 6-7
   - Wheelan ch. 9-10
   - Jurjevich - Navigating Statistical Uncertainty
   - WSJ + CityObservatory (http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
-Reading response 7 due midnight before class
+Reading response 7 due by 23:59 the night before class
 
 
 
@@ -256,13 +256,13 @@ Reading response 7 due midnight before class
 
 Apr 09 - Hypotheses and Models
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Urdan ch. 8, 9, 13
   - Wheelan ch. 11-13
   - Sober: Why Is Simpler Better?
 
-Reading response 8 due midnight before class
+Reading response 8 due by 23:59 the night before class
 
 Group assignment 5 due following Wed: uncertainty and regression
 
@@ -272,12 +272,12 @@ Group assignment 5 due following Wed: uncertainty and regression
 
 Apr 16 - Politics, Ethics, Discourse, and Media
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Okasha ch. 5 & 7
   - Krizek 2009
 
-Reading response 9 due midnight before class
+Reading response 9 due by 23:59 the night before class
 
 
 
@@ -285,12 +285,12 @@ Reading response 9 due midnight before class
 
 Apr 23 - Smart Cities and Civic Tech
 
-Readings prior to class:
+Readings to be completed prior to class:
 
   - Mattern: A City Is Not a Computer
   - Mattern: Methodolatry
 
-Reading response 10 due midnight before class
+Reading response 10 due by 23:59 the night before class
 
 
 
