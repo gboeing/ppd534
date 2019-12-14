@@ -1,4 +1,4 @@
-# Data, Evidence, and Communication for the Public Good
+# Data, Evidence, and Communication
 
 USC PPD534 / Spring 2020 / 4 units
 
