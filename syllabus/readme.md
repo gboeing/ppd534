@@ -112,10 +112,8 @@ Assignments are due by 23:59 pacific time on their due date, to be submitted on 
 
 Readings to be completed prior to class:
 
-  - DOS prompt guide
-  - JupyterLab getting started and user guide
-  - Git handbook
-  - Docker getting started
+  - If you're on Windows, read the [command prompt guide](http://dosprompt.info/) "basics" and "folders" sections. If you're on Mac, read [navigating the terminal](https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855)
+  - JupyterLab user guide sections on the [interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) and the [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
 
 Pre-Survey
 
