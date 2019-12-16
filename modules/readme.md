@@ -4,15 +4,15 @@ This course is composed of weekly learning modules. Many of these modules includ
 
 ## How to launch a Jupyter notebook lecture
 
-You have two options. The first (Docker) is preferred. If you have trouble with the first option, you can fallback on the second option, which is easier but has significant limitations.
+Make sure you've completed the initial [software setup](../software/readme.md) instructions. You have two options to launch a Jupyter notebook lecture. Option 1 (Docker) is preferred. If you have trouble with option 1, you can fallback on option 2, which is easier but has significant limitations.
 
 ### Option 1: Docker
 
-First, make sure you've completed the initial [software setup](../software/readme.md) instructions. Then, when you come into class each day, before the lecture begins, do the following steps (takes <1 minute):
+When you come into class each day, before the lecture begins, do the following steps (takes <1 minute):
 
-  - Open a terminal window, change directories to the `ppd534` folder on your desktop
-  - Run `git pull` to bring your local version of the course files up to date with the server
-  - Launch JupyterLab via Docker:
+  - Open a terminal, change directories to the `ppd534` folder on your desktop
+  - In the terminal, run `git pull` to bring your local version of the course files up to date with the server
+  - Start the course's Docker container by running the OS-specific command below in your terminal:
      - On *Windows*, run `docker run --rm -it -p 8888:8888 -v "%cd%":/home/jovyan/work gboeing/ppd534:latest`
      - On *Mac*, run `docker run --rm -it -p 8888:8888 -v "$PWD":/home/jovyan/work gboeing/ppd534:latest`
   - In your web browser, visit http://localhost:8888

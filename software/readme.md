@@ -27,6 +27,8 @@ If you're on Mac: in the settings, go to "resources" > "file sharing" and ensure
 
 If you're on Windows: in the settings, go to "shared drives" make sure all your drives are ticked for sharing. If they aren't, tick them then apply.
 
+Finally, if you have enough memory in your computer (say, 8+ GB), consider increasing Docker's allocated memory (to 4096 MB or 4 GB) in the "advanced" settings section.
+
 
 ### Step 2: Git
 
@@ -40,3 +42,9 @@ Open a terminal, change directories to your desktop, and run `git clone https://
 When that has finished, run `docker pull gboeing/ppd534:latest` to download the course's docker image (might take a couple minutes)
 
 When that has finished, close your terminal window.
+
+
+
+## Troubleshooting
+
+If you have software problems/trouble down the road, uninstall Docker, then uninstall Git, then restart your computer, then re-do the "initial software setup" instructions above.
