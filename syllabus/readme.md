@@ -1,11 +1,11 @@
-# Data, Evidence, and Communication
+**Data, Evidence, and Communication for the Public Good**
 
 USC PPD534 / Spring 2020 / 4 units
 
 
 
 
-## Instructor Info
+# Instructor Info
 
 Prof. Geoff Boeing
 
@@ -15,12 +15,12 @@ Web: [https://geoffboeing.com](https://geoffboeing.com)
 
 Office hours: Thursday 12:00-13:00, RGL 201B ([sign-up online](https://www.wejoinin.com/sheets/vqcmr/))
 
-Thursdays 08:30-11:50. Classroom location and meeting times are [available here](https://classes.usc.edu/)
+Classroom location and meeting times are [available here](https://classes.usc.edu/)
 
 
 
 
-## Course Description
+# Course Description
 
 This course provides you with a toolkit for telling stories with urban data. Each week will focus on a single thematic learning module consisting of a lecture and a workshop. The former will introduce core concepts and methods for a specific skill and the latter allows the students to practice these skills together in class.
 
@@ -38,7 +38,7 @@ The course has no specific prerequisites, but students ideally have some prior e
 
 
 
-## Learning Objectives
+# Learning Objectives
 
   - Critically evaluate, interpret, and interrogate social science evidence
   - Write simple code to manipulate, analyze, and visualize data including from the census and open government portals
@@ -48,7 +48,7 @@ The course has no specific prerequisites, but students ideally have some prior e
 
 
 
-## Questions and Assistance
+# Questions and Assistance
 
 I am available if you need help throughout the semester and I am happy to answer your questions. By email, you should expect a reply typically within one working day. Office hours info is provided at the beginning of the syllabus. Given the nature of this course, I do expect a few things of you before you seek my assistance with code:
 
@@ -68,16 +68,16 @@ I do not ask for this to be pedantic. Rather, I need it to be able to help you s
 
 
 
-## Materials
+# Materials
 
 Due to copyrights, course reading materials will be shared on blackboard for enrolled students to freely download. The course lectures assume you that have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class.
 
-Coursework will be based on free open-source software like Anaconda Python, QGIS, Carto, Docker, Git.
+Coursework will be based on free open-source software.
 
 
 
 
-## Assignments and Evaluation
+# Assignments and Evaluation
 
 Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but this will comprise a mix of individual reading, individual writing assignments, and group assignments. Each assignment is assigned in the module listed in the schedule below and is due the following Wednesday by 23:59.
 
@@ -96,11 +96,11 @@ Assignments are due by 23:59 pacific time on their due date, to be submitted on 
 
 
 
-## Schedule
+# Schedule
 
-### Module 1
+## Module 1
 
-Jan 16 - Welcome/Intro to Computation
+**Jan 16 - Welcome/Intro to Computation**
 
 Readings to be completed prior to class:
 
@@ -113,9 +113,9 @@ Pre-Survey
 
 
 
-### Module 2
+## Module 2
 
-Jan 23 - Collecting Data: Census, Websites, Portals
+**Jan 23 - Collecting Data: Census, Websites, Portals**
 
 Readings to be completed prior to class:
 
@@ -124,92 +124,92 @@ Readings to be completed prior to class:
   - https://data.census.gov/
   - LA city data portal
 
-Reading response 1 due by 23:59 the night before class
+Reading response 1 due the night before class
 
-Group assignment 1 due following Wed: collecting data
+Group assignment 1 due the following Wed
 
 
 
-### Module 3
+## Module 3
 
-Jan 30 - Coding Bootcamp I
+**Jan 30 - Coding Bootcamp I**
 
 Readings to be completed prior to class:
 
   - Python Is Eating the World
   - Downey ch. 1-3
 
-Reading response 2 due by 23:59 the night before class
+Reading response 2 due the night before class
 
 
 
-### Module 4
+## Module 4
 
-Feb 06 - Coding Bootcamp II
+**Feb 06 - Coding Bootcamp II**
 
 Readings to be completed prior to class:
 
   - Wheelan ch. 1
   - Downey ch. 4-7
 
-Group assignment 2 due following Wed: working with code
+Group assignment 2 due the following Wed
 
 
 
-### Module 5
+## Module 5
 
-Feb 13 - Data Cleaning and Descriptive Stats
+**Feb 13 - Data Cleaning and Descriptive Stats**
 
 Readings to be completed prior to class:
 
   - Wheelan ch. 2-4
   - Urdan ch. 2-3
 
-Reading response 3 due by 23:59 the night before class
+Reading response 3 due the night before class
 
 
 
-### Module 6
+## Module 6
 
-Feb 20 - Data Visualization
+**Feb 20 - Data Visualization**
 
 Readings to be completed prior to class:
 
   - seaborn user guide
 
-Group assignment 3 due following Wed: descriptive stats and visualization
+Group assignment 3 due the following Wed
 
 
 
-### Module 7
+## Module 7
 
-Feb 27 - Spatial Analysis and Mapping
+**Feb 27 - Spatial Analysis and Mapping**
 
 Readings to be completed prior to class:
 
   - geopandas user guide
   - cartopy user guide
 
-Group assignment 4 due following Wed: spatial data
+Group assignment 4 due the following Wed
 
 
 
 ### Module 8
 
-Mar 05 - APIs and Sentiment
+**Mar 05 - APIs and Sentiment**
 
 Readings to be completed prior to class:
 
-  - Wheelan ch. 5-8
+  - Wheelan ch. 5-7
   - Schweitzer twitter
 
 Reading response 4 due by 23:59 the night before class
 
 
 
-### Module 9
+## Module 9
 
-Mar 12 - Mid-Term Exam
+**Mar 12 - Mid-Term Exam**
 
 Readings to be completed prior to class:
 
@@ -219,42 +219,42 @@ Reading response 5 due by 23:59 the night before class
 
 
 
-### Spring Break
+## Spring Break
 
-Mar 19 - No Class
+**Mar 19 - No Class**
 
 
 
-### Module 10
+## Module 10
 
-Mar 26 - Social Science and the Scientific Method
+**Mar 26 - Social Science and the Scientific Method**
 
 Readings to be completed prior to class:
 
   - Okasha ch. 1-4
 
-Reading response 6 due by 23:59 the night before class
+Reading response 6 due the night before class
 
 
 
-### Module 11
+## Module 11
 
-Apr 02 - Inference, Confidence, Uncertainty
+**Apr 02 - Hypotheses, Inference, Confidence, Uncertainty**
 
 Readings to be completed prior to class:
 
   - Urdan ch. 6-7
-  - Wheelan ch. 9-10
+  - Wheelan ch. 8-10
   - Jurjevich - Navigating Statistical Uncertainty
   - WSJ + CityObservatory (http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
-Reading response 7 due by 23:59 the night before class
+Reading response 7 due the night before class
 
 
 
-### Module 12
+## Module 12
 
-Apr 09 - Hypotheses and Models
+**Apr 09 - Statistical Models**
 
 Readings to be completed prior to class:
 
@@ -262,59 +262,59 @@ Readings to be completed prior to class:
   - Wheelan ch. 11-13
   - Sober: Why Is Simpler Better?
 
-Reading response 8 due by 23:59 the night before class
+Reading response 8 due the night before class
 
-Group assignment 5 due following Wed: uncertainty and regression
+Group assignment 5 due the following Wed
 
 
 
-### Module 13
+## Module 13
 
-Apr 16 - Politics, Ethics, Discourse, and Media
+**Apr 16 - Politics, Ethics, Discourse**
 
 Readings to be completed prior to class:
 
   - Okasha ch. 5 & 7
   - Krizek 2009
 
-Reading response 9 due by 23:59 the night before class
+Reading response 9 due the night before class
 
 
 
-### Module 14
+## Module 14
 
-Apr 23 - Smart Cities and Civic Tech
+**Apr 23 - Smart Cities and Civic Tech**
 
 Readings to be completed prior to class:
 
   - Mattern: A City Is Not a Computer
   - Mattern: Methodolatry
 
-Reading response 10 due by 23:59 the night before class
+Reading response 10 due the night before class
 
 
 
-### Module 15
+## Module 15
 
-Apr 30 - Group Presentations + Workshop
+**Apr 30 - Group Presentations + Workshop**
 
 
 
-### Exam Week
+## Exam Week
 
-May 05 - Final Group Projects Due
+**May 05 - Final Group Projects Due**
 
 Post-Survey
 
 
 
 
-## Academic Conduct and Support
+# Academic Conduct and Support
 
-### Accommodations and Extensions
+## Accommodations and Extensions
 
 Any student requesting academic accommodations based on a disability or ongoing mental health concern is required to register with Disability Services and Programs (DSP) each semester. A letter of verification for approved accommodations can be obtained from DSP. Please be sure the letter is delivered to the instructor as early in the semester as possible, as the accommodation can only be implemented upon receipt of the letter. Visit DSP's [web site](https://dsp.usc.edu/) for more details. For further support, I encourage you to contact USC Support and Advocacy (uscsupport@usc.edu). To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with these official accommodation letters. If you need to request a *one-time emergency* extension (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to the due date*: 1) provide written documentation (such as an official doctor's note) explaining that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
 
-### Academic Integrity
+## Academic Integrity
 
 USC seeks to maintain an optimal learning environment. General principles of academic honesty include the concept of respect for the intellectual property of others, the expectation that individual work will be submitted unless otherwise allowed by an instructor, and the obligations both to protect one's own academic work from misuse by others as well as to avoid using another's work as one's own. Plagiarism (presenting someone else's ideas or work as your own, either verbatim or recast in your own words) is a serious academic offense with serious consequences. This includes submitting code that someone else wrote. All students are expected to understand and abide by these principles. See the [student handbook](https://scampus.usc.edu) for more details.
