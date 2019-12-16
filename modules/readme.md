@@ -4,7 +4,7 @@ This course is composed of weekly learning modules. Many of these modules includ
 
 ## How to launch a Jupyter notebook lecture
 
-You have two options. The first (Docker) is preferred. If you trouble with the first, you can fallback on the second option, which is easier and reliable but has significant limitations. Details follow.
+You have two options. The first (Docker) is preferred. If you have trouble with the first option, you can fallback on the second option, which is easier but has significant limitations. Details follow.
 
 ### Option 1: Docker
 
