@@ -50,27 +50,35 @@ The course has no specific prerequisites, but students ideally have some prior e
 
 # Questions and Assistance
 
-I am available if you need help throughout the semester and I am happy to answer your questions. By email, you should expect a reply typically within one working day. Office hours info is provided at the beginning of the syllabus. Given the nature of this course, I do expect a few things of you before you seek my assistance with code:
+We are available if you need help throughout the semester and are happy to answer your questions. By email, you should expect a reply typically within approximately one working day. Office hours info is provided at the beginning of the syllabus.
+
+### Who to contact
+
+If you have a general question about the homework or lectures, contact the TA first. If you have a specific coding/software question or problem, contact the tutor first.
+
+### How to ask a coding question
+
+Given the nature of this course, we do expect a few things of you before you seek assistance with coding questions:
 
   1. Close all open programs, restart your computer, then try your task again
   2. Search google and stackoverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
   3. Go back through the relevant lecture materials to look for any insights
   4. Go back through the assigned reading materials to look for any insights
 
-If the above steps haven't solved your problem, shoot me an email (or drop by office hours) and include the following information:
+If the above steps haven't solved your problem, send an email (or drop by office hours) and include the following information:
 
   1. A detailed description of what you're trying to do, why, and how
-  2. A [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far
-  3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain to me the results of steps 1-4 above, including relevant links from stackoverflow etc)
+  2. A [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (do not send screenshots of code)
+  3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
 
-I do not ask for this to be pedantic. Rather, I need it to be able to help you solve your problem.
+We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your code problem.
 
 
 
 
 # Materials
 
-Due to copyrights, course reading materials will be shared on blackboard for enrolled students to freely download. The course lectures assume you that have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class.
+Due to copyright, course reading materials will be shared on blackboard for enrolled students to freely download. The course lectures assume you that have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class.
 
 Coursework will be based on free open-source software.
 
@@ -79,9 +87,9 @@ Coursework will be based on free open-source software.
 
 # Assignments and Evaluation
 
-Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but this will comprise a mix of individual reading, individual writing assignments, and group assignments. Each assignment is assigned in the module listed in the schedule below and is due the following Wednesday by 23:59.
+Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing assignments, and group data/code assignments. Assignments must be submitted via Blackboard by 23:59 on their due date. See the schedule below.
 
-Active participation is expected (and graded) in the classroom. Most weeks, the instructor will provide a set of in-class prompts derived from the assigned readings. The groups will have 30 minutes in-class to prepare a 10 minute presentation to answer those prompts, then present it. Every group member is expected to speak, at least briefly, as part of these exercises.
+Active participation is expected (and graded) in the classroom. Most weeks, the instructor will provide a set of in-class prompts derived from the assigned readings. Groups will have 30 minutes in-class to prepare a 10 minute presentation to answer those prompts, then present it. Every group member is expected to speak, at least briefly, as part of these exercises.
 
 Final grades will be assigned according to the following, for a total of 1000 points:
 
@@ -298,13 +306,13 @@ Reading response 10 due the night before class
 
 **Apr 30 - Group Presentations + Workshop**
 
+Post-Survey
 
 
 ## Exam Week
 
 **May 05 - Final Group Projects Due**
 
-Post-Survey
 
 
 
