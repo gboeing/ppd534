@@ -13,5 +13,9 @@ First you need to install docker desktop. If you're on Windows, you must have Mi
 
 Next you need to install [git](https://git-scm.com/downloads).
 
-Once git is installed, open a terminal window, change directories to your desktop, and run `git clone https://github.com/gboeing/ppd534.git`
+Once git is installed, open a terminal window, change directories to your desktop, and run:
+
+```
+git clone https://github.com/gboeing/ppd534.git
+```
 
