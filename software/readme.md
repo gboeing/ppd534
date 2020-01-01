@@ -23,7 +23,7 @@ First, download and install the version of [docker desktop](https://www.docker.c
 
 Restart your computer. Docker should start automatically after your computer restarts, but it might take a minute. Once Docker is running, you can find its icon in your menu bar/system tray (it looks like a whale). Right-click it and choose "preferences" or "settings" (names are slightly different on Mac vs Windows).
 
-If you're on Mac: in the settings, go to "resources" > "file sharing" and ensure /Users appears in the list. If it doesn't it, add it then apply.
+If you're on Mac: in the settings, go to "resources" > "file sharing" and ensure /Users appears in the list. If it doesn't, add it then apply.
 
 If you're on Windows: in the settings, go to "shared drives" make sure all your drives are ticked for sharing. If they aren't, tick them then apply.
 
@@ -39,7 +39,7 @@ Next, download and install [git](https://git-scm.com/downloads).
 
 Open a terminal, change directories to your desktop, and run `git clone https://github.com/gboeing/ppd534.git` to copy the course files to your desktop
 
-When that has finished, run `docker pull gboeing/ppd534:latest` to download the course's docker image (might take a couple minutes)
+When that has finished, run `docker pull gboeing/ppd534:latest` to download the course's docker image (might take a couple minutes to complete)
 
 When that has finished, close your terminal window.
 
@@ -47,4 +47,4 @@ When that has finished, close your terminal window.
 
 ## Troubleshooting
 
-If you have software problems/trouble down the road, uninstall Docker, then uninstall Git, then restart your computer, then re-do the "initial software setup" instructions above.
+If you have software problems/trouble down the road, close all open programs, restart your computer, then try your task again. If the problem persists, uninstall Docker, uninstall Git, restart your computer, then re-do the "initial software setup" instructions above.
