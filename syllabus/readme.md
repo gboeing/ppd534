@@ -87,7 +87,7 @@ Coursework will be based on free open-source software.
 
 # Assignments and Evaluation
 
-Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing assignments, and group data/code assignments. Assignments must be submitted via Blackboard by 23:59 on their due date. See the schedule below.
+Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing assignments, and group data/code assignments. Assignments must be submitted via Blackboard by 23:59 on their due date. See the schedule below for assignment due dates, and see the "assignments" folder for instructions.
 
 Active participation is expected (and graded) in the classroom. Most weeks, the instructor will provide a set of in-class prompts derived from the assigned readings. Groups will have 30 minutes in-class to prepare a 10 minute presentation to answer those prompts, then present it. Every group member is expected to speak, at least briefly, as part of these exercises.
 
@@ -209,7 +209,7 @@ Readings to be completed prior to class:
   - Wheelan ch. 5-7
   - Schweitzer twitter
 
-Reading response 4 due by 23:59 the night before class
+Reading response 4 due the night before class
 
 
 
@@ -221,7 +221,7 @@ Readings to be completed prior to class:
 
   - Urdan ch. 4-5
 
-Reading response 5 due by 23:59 the night before class
+Reading response 5 due the night before class
 
 
 
