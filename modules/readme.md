@@ -8,7 +8,7 @@ Make sure you've completed the initial [software setup](../software/readme.md) i
 
 ### Option 1: Docker
 
-When you come into class each day, before the lecture begins, do the following steps (takes <1 minute):
+When you come into class each day, before the lecture begins, do the following steps (takes 1 minute):
 
   - Open a terminal, change directories to the `ppd534` folder on your desktop
   - In the terminal, run `git pull` to bring your local version of the course files up to date with the server
@@ -17,7 +17,7 @@ When you come into class each day, before the lecture begins, do the following s
      - On *Mac*, run `docker run --rm -it -p 8888:8888 -v "$PWD":/home/jovyan/work gboeing/ppd534:latest`
   - In your web browser, visit http://localhost:8888
 
-Important! When you're all done using Jupyter at the end of the class session: to stop the running container, go to your terminal window where docker is running and hit `ctrl + c` then wait until everything shuts down and your terminal's cursor reappears. Do not just close your terminal window without stopping Docker first! If you do, you'll have to restart your computer before you can run docker again.
+Important! When you're all done using Jupyter at the end of the class session: to stop the running container, go to your terminal window where docker is running and hit `ctrl + c` then wait until everything shuts down and your terminal's cursor reappears. Do not just close your terminal window without stopping Docker first! If you do, you'll have to restart your computer before you can run docker again. Note that you can only type into a terminal window when its cursor is blinking. Otherwise it's busy.
 
 ### Option 2: Binder
 

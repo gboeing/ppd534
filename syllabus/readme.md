@@ -13,7 +13,7 @@ Email: boeing at usc dot edu
 
 Web: [https://geoffboeing.com](https://geoffboeing.com)
 
-Office hours: Thursday 12:00-13:00, RGL 201B ([sign-up online](https://www.wejoinin.com/sheets/vqcmr/))
+Office hours: Thursday 14:00-15:00, RGL 201B ([you must sign-up online](https://www.wejoinin.com/sheets/vqcmr/))
 
 Classroom location and meeting times are [available here](https://classes.usc.edu/)
 
