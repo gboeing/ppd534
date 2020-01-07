@@ -22,28 +22,28 @@ Classroom location and meeting times are [available here](https://classes.usc.ed
 
 # Course Description
 
-This course provides you with a toolkit for telling stories with urban data. Each week will focus on a single thematic learning module consisting of a lecture and a workshop. The former will introduce core concepts and methods for a specific skill and the latter allows the students to practice these skills together in class.
+This course provides you with a toolkit for telling stories with urban data. It will introduce basic code, stats, and reasoning with evidence.
 
-This course takes a computational social science approach to urban informatics. It uses Python and Jupyter notebooks to demonstrate coding and geospatial methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the fundamentals of coding, then move on to data wrangling and analysis, then on to the theory and practice of analytical visualization, web mapping, urban spatial analysis, and introductory spatial statistics. Building up core concepts in this way gives students some fundamental quick-wins before moving on to high-level informatics/analytics applications.
+The course takes a computational social science approach to working with data. It uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then on to basic statistics, then hypotheses and the scientific method, and finally a critical assessment of smart cities and urban informatics.
 
 Each week, students will be expected to:
 
   - Complete and discuss all assigned readings
   - Attend the lecture
-  - Participate in the workshop exercises following the lecture
-  - Complete and submit any assignments
+  - Complete and submit any assigned reading responses
+  - Complete and submit any assigned group projects
 
-The course has no specific prerequisites, but students ideally have some prior experience with GIS and/or basic statistics. Coding itself will be taught from the ground-up. However, this course requires a lot of patience. It is by nature experimental and will require lots of trial-and-error, self-direction, practice, repetition, and experimentation on your part. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
+The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, it course requires a lot of patience: learning to code will require lots of trial-and-error, self-direction, practice, repetition, and experimentation on your part. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
 
 
 
 # Learning Objectives
 
-  - Critically evaluate, interpret, and interrogate social science evidence
-  - Write simple code to manipulate, analyze, and visualize data including from the census and open government portals
+  - Write simple code to manipulate, analyze, and visualize urban data
+  - Understand how to use basic descriptive and inferential statistics to evaluate and interpret social science evidence
   - Tell stories using a combination of text and visuals about public issues using data and evidence
-  - Evaluate the politics and ethics underlying data as technology and innovation impact cities and planning processes
+  - Evaluate the politics and ethics underlying how technology and innovation impact cities and planning processes
 
 
 
@@ -54,7 +54,7 @@ We are available if you need help throughout the semester and are happy to answe
 
 ### Who to contact
 
-If you have a general question about the homework or lectures, contact the TA first. If you have a specific coding/software question or problem, contact the tutor first.
+If you have a general question about homework/grades or learning material, contact the TA first. If you have a coding/software question or problem, contact the tutor first, then the TA second if needed.
 
 ### How to ask a coding question
 
@@ -68,7 +68,7 @@ Given the nature of this course, we do expect a few things of you before you see
 If the above steps haven't solved your problem, send an email (or drop by office hours) and include the following information:
 
   1. A detailed description of what you're trying to do, why, and how
-  2. A [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (do not send screenshots of code)
+  2. A [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
   3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
 
 We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your code problem.
@@ -78,7 +78,7 @@ We do not ask for this to be pedantic. Rather, we need it to be able to help you
 
 # Materials
 
-Due to copyright, course reading materials will be shared on blackboard for enrolled students to freely download. The course lectures assume you that have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class.
+Due to copyright, course reading materials will be shared on blackboard for enrolled students to freely download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class.
 
 Coursework will be based on free open-source software.
 
@@ -93,13 +93,13 @@ Active participation is expected (and graded) in the classroom. Most weeks, the 
 
 Final grades will be assigned according to the following, for a total of 1000 points:
 
-  - 200: 10 individual reading responses (20 points each)
-  - 300: 5 group projects (60 points each)
-  - 200: midterm exam
-  - 200: final group project
-  - 100: active participation in classroom and team work
+  - 200 points: 10 individual reading responses @ 20 points each
+  - 300 points: 5 group projects @ 60 points each
+  - 200 points: midterm exam
+  - 200 points: final group project
+  - 100 points: active participation in classroom and team work
 
-Assignments are due by 23:59 pacific time on their due date, to be submitted on blackboard. Late assignment submissions will be deducted 20% per day. Late final project submissions will not be accepted or graded.
+Assignments are due by 23:59 pacific time on their due date, to be submitted via blackboard. Late assignment submissions will be deducted 20% per day. Late final project submissions will not be accepted or graded.
 
 
 
