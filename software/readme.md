@@ -57,4 +57,4 @@ When that has finished, close your terminal window.
 
 ## Troubleshooting
 
-If you have software problems/trouble down the road, close all open programs, restart your computer, then try your task again. If the problem persists, uninstall Docker, uninstall Git, restart your computer, then re-do the "initial software setup" instructions above. If the problem persists, contact the TA.
+If you have software problems/trouble down the road, close all open programs, restart your computer, then try your task again. If the problem persists, uninstall Docker, uninstall Git, restart your computer, then re-do the "initial software setup" instructions above. If the problem still persists, contact the TA.
