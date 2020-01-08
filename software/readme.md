@@ -39,9 +39,17 @@ Next, download and install [git](https://git-scm.com/downloads).
 
 ### Step 3: Wrapping up
 
-Open a terminal, change directories to your desktop, and run `git clone https://github.com/gboeing/ppd534.git` to copy the course files to your desktop
+Open a terminal, change directories to your desktop, and copy the course files to your desktop by running the following command in your terminal:
 
-When that has finished, run `docker pull gboeing/ppd534:latest` to download the course's docker image (might take a couple minutes to complete)
+```
+git clone https://github.com/gboeing/ppd534.git
+```
+
+When that has finished, download the course's docker image (might take a couple minutes to complete) by running the following command in your terminal:
+
+```
+docker pull gboeing/ppd534:latest
+```
 
 When that has finished, close your terminal window.
 
@@ -49,4 +57,4 @@ When that has finished, close your terminal window.
 
 ## Troubleshooting
 
-If you have software problems/trouble down the road, close all open programs, restart your computer, then try your task again. If the problem persists, uninstall Docker, uninstall Git, restart your computer, then re-do the "initial software setup" instructions above.
+If you have software problems/trouble down the road, close all open programs, restart your computer, then try your task again. If the problem persists, uninstall Docker, uninstall Git, restart your computer, then re-do the "initial software setup" instructions above. If the problem persists, contact the TA.
