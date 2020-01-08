@@ -12,7 +12,7 @@ Your computer comes with a "terminal" app that lets you type commands for your c
 
 ## Initial software setup
 
-At the beginning of the semester, you need to do a one-time setup process to install and configure the course software on your computer. The two important pieces of software that you need to install are docker and git. Docker is a virtualization tool that allows you to run the coure's Python environment in a self-contained sandbox called a container. Git is a tool that lets you pull in the latest versions of the course files each week. Install and configure the software by following the steps below.
+At the beginning of the semester, you need to do a one-time setup process to install and configure the course software on your computer. The two important pieces of software that you need to install are docker and git. Docker is a virtualization tool that allows you to run the course's Python environment in a self-contained sandbox called a container. Git is a tool that lets you pull in the latest versions of the course files each week. Install and configure the software by following the steps below.
 
 
 ### Step 1: Docker
