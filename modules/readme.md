@@ -10,7 +10,7 @@ First make sure you've completed the initial [software setup](../software/readme
 
 When you come into class each day, before the lecture begins, do the following steps (takes 1 minute):
 
-  1. Open a terminal, change directories to the `ppd534` folder on your desktop
+  1. Open a terminal, change directories to the ppd534 folder on your desktop that you created in the initial software setup.
   2. In the terminal, run `git pull` to bring your local version of the course files up to date with the server
   3. Start the course's Docker container by running the OS-specific command below in your terminal:
      - On *Windows*, run `docker run --rm -it -p 8888:8888 -v "%cd%":/home/jovyan/work gboeing/ppd534:latest`
@@ -21,6 +21,6 @@ Important! When you're all done using Jupyter at the end of the class session: t
 
 ### Option 2: Binder
 
-This option has three significant limitations. First, all the notebooks are read-only, meaning that you cannot save any changes you make, notes you take, or new files you create. Second, they time-out after approximately 10 minutes of inactivity. Third, you are limited to approximately 1 GB of memory on the server.
+Binder is a web service that lets you run these lecture notebooks in the cloud, but this option has three significant limitations. First, all the notebooks are read-only, meaning that you cannot save any changes you make, notes you take, or new files you create. Second, they time-out after approximately 10 minutes of inactivity. Third, you are limited to approximately 1 GB of memory on the server.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gboeing/ppd534/master?urlpath=lab)
