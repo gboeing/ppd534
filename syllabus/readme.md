@@ -28,9 +28,9 @@ The course takes a computational social science approach to working with data. I
 
 Each week, students will be expected to:
 
-  - Complete and discuss all assigned readings
-  - Attend the lecture
+  - Complete and be prepared to discuss all assigned readings
   - Complete and submit any assigned reading responses
+  - Attend the lecture
   - Complete and submit any assigned group projects
 
 The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, it course requires a lot of patience: learning to code will require lots of trial-and-error, self-direction, practice, repetition, and experimentation on your part. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
