@@ -9,8 +9,8 @@
 # >>> conda env export -n base > /home/jovyan/work/environment.yml
 #
 # Push the built image to hub so others can pull/run it:
-# >>> docker tag gboeing/ppd534 gboeing/ppd534:latest
 # >>> docker login
+# >>> docker tag gboeing/ppd534 gboeing/ppd534:latest
 # >>> docker push gboeing/ppd534
 #
 # Run jupyter lab in this container:
