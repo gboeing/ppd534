@@ -125,10 +125,9 @@ Pre-Survey
 
 Readings to be completed prior to class:
 
+  - Wheelan ch. 1
   - Urdan ch. 1
   - Macdonald ACS 2006
-  - https://data.census.gov/
-  - LA city data portal
 
 Reading response 1 due the night before class
 
@@ -155,7 +154,6 @@ Reading response 2 due the night before class
 
 Readings to be completed prior to class:
 
-  - Wheelan ch. 1
   - Downey ch. 4-7
 
 Group assignment 2 due the following Wed
