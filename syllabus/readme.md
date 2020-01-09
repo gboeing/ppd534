@@ -251,7 +251,7 @@ Readings to be completed prior to class:
   - Urdan ch. 6-7
   - Wheelan ch. 8-10
   - Jurjevich - Navigating Statistical Uncertainty
-  - WSJ + [CityObservatory](http://cityobservatory.org/no-youth_exodus_signal-noise/)
+  - WSJ article (on blackboard) + [CityObservatory](http://cityobservatory.org/no-youth_exodus_signal-noise/) response
 
 Reading response 7 due the night before class
 
@@ -279,7 +279,8 @@ Group assignment 5 due the following Wed
 Readings to be completed prior to class:
 
   - Okasha ch. 5 & 7
-  - Krizek 2009
+  - FiveThirtyEight: [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/)
+  - Krizek et al 2009
 
 Reading response 9 due the night before class
 
