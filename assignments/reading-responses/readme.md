@@ -16,3 +16,7 @@ The reading responses will be graded according to the following criteria:
 ### Reading Response 1
 
 First, identify three ways of sampling and briefly describe their differences and relative merits. Second, summarize the main differences and benefits/drawbacks of data from the American Community Survey vs the decennial census.
+
+### Reading Response 2
+
+TBD
