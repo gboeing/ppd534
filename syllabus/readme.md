@@ -193,7 +193,7 @@ Group assignment 3 due the following Wed
 
 Readings to be completed prior to class:
 
-  - O'Sullivan & Unwin ch. 1-3
+  - Gimond ch. 1, 2, 9
 
 Reading response 5 due the night before class
 
