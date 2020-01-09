@@ -125,9 +125,9 @@ Pre-Survey
 
 Readings to be completed prior to class:
 
-  - Wheelan ch. 1
+  - Wheelan intro + ch. 1
   - Urdan ch. 1
-  - Macdonald ACS 2006
+  - Macdonald ACS (2006)
 
 Reading response 1 due the night before class
 
@@ -166,7 +166,7 @@ Group assignment 2 due the following Wed
 
 Readings to be completed prior to class:
 
-  - Wheelan ch. 2-4
+  - Wheelan ch. 2-3
   - Urdan ch. 2-3
 
 Reading response 3 due the night before class
@@ -179,7 +179,9 @@ Reading response 3 due the night before class
 
 Readings to be completed prior to class:
 
-  - seaborn user guide
+  - Tufte ch. 1-3
+
+Reading response 4 due the night before class
 
 Group assignment 3 due the following Wed
 
@@ -191,8 +193,9 @@ Group assignment 3 due the following Wed
 
 Readings to be completed prior to class:
 
-  - geopandas user guide
-  - cartopy user guide
+  - O'Sullivan & Unwin ch. 1-3
+
+Reading response 5 due the night before class
 
 Group assignment 4 due the following Wed
 
@@ -207,8 +210,6 @@ Readings to be completed prior to class:
   - Wheelan ch. 5-7
   - Schweitzer twitter
 
-Reading response 4 due the night before class
-
 
 
 ## Module 9
@@ -218,8 +219,6 @@ Reading response 4 due the night before class
 Readings to be completed prior to class:
 
   - Urdan ch. 4-5
-
-Reading response 5 due the night before class
 
 
 
@@ -264,7 +263,6 @@ Readings to be completed prior to class:
 
   - Urdan ch. 8, 9, 13
   - Wheelan ch. 11-13
-  - Sober: Why Is Simpler Better?
 
 Reading response 8 due the night before class
 
