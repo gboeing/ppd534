@@ -6,7 +6,7 @@ The final project is a cumulative and applied assignment that requires you to us
 
 ## Instructions
 
-Develop a spatial research question that interests you.
+Develop an urban research question that interests your team.
 
 Collect data from two or more different sources, including but not limited to: census bureau, local data portals, FTP servers, or directly from an organization.
 
