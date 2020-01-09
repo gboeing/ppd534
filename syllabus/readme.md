@@ -220,6 +220,8 @@ Readings to be completed prior to class:
 
   - Urdan ch. 4-5
 
+In class: complete the mid-term exam. You are allowed to bring in a single 8.5x11 sheet of paper with hand-written notes. Exam will be pen + paper, with a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
+
 
 
 ## Spring Break

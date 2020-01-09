@@ -8,14 +8,14 @@ The reading responses will be graded according to the following criteria:
 
   - Did you make it clear you read and understood the week's assigned reading material
   - Did you reflect critically and creatively on the reading material in your own words
-  - Did you succinctly and directly respond to the prompt without repitition, filler, or fluff
+  - Did you succinctly and directly respond to the prompt without repetition, filler, or fluff
   - Did you follow the formatting and submission instructions
 
 ## Prompts
 
 ### Reading Response 1
 
-First, identify three ways of sampling and briefly describe their differences and relative merits. Second, summarize the main differences and benefits/drawbacks of data from the American Community Survey vs the decennial census.
+First, identify three ways of sampling and briefly describe their differences and relative merits. Second, summarize the main differences and benefits/drawbacks of data from the American Community Survey versus the decennial census.
 
 ### Reading Response 2
 
