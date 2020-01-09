@@ -251,7 +251,7 @@ Readings to be completed prior to class:
   - Urdan ch. 6-7
   - Wheelan ch. 8-10
   - Jurjevich - Navigating Statistical Uncertainty
-  - WSJ + CityObservatory (http://cityobservatory.org/no-youth_exodus_signal-noise/)
+  - WSJ + [CityObservatory](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
 Reading response 7 due the night before class
 
@@ -274,7 +274,7 @@ Group assignment 5 due the following Wed
 
 ## Module 13
 
-**Apr 16 - Politics, Ethics, Discourse**
+**Apr 16 - Scientific Discourse, Politics, and Evidence-Based Planning**
 
 Readings to be completed prior to class:
 
@@ -287,12 +287,13 @@ Reading response 9 due the night before class
 
 ## Module 14
 
-**Apr 23 - Smart Cities and Civic Tech**
+**Apr 23 - Smart Cities, Civic Tech, and Ethics**
 
 Readings to be completed prior to class:
 
-  - Mattern: A City Is Not a Computer
-  - Mattern: Methodolatry
+  - Kitchin: Ethics of Smart Cities
+  - Mattern: [A City Is Not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/)
+  - Mattern: [Methodolatry and the Art of Measure](https://placesjournal.org/article/methodolatry-and-the-art-of-measure/)
 
 Reading response 10 due the night before class
 
