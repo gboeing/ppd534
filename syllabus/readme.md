@@ -307,7 +307,7 @@ Post-Survey
 
 ## Exam Week
 
-**May 05 - Final Group Projects Due**
+**May 06 - Final Group Projects Due**
 
 
 

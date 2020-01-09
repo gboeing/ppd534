@@ -2,11 +2,9 @@
 
 Due Wed 26 Feb by 23:59 via Blackboard submission.
 
-First, get your hands on a data set. You can download one as a file or use some data set you're working with elsewhere in life. Whatever you'd like. But perhaps consider a data set that helps you move toward the final project.
+You will visualize the data you downloaded in assignment 1. Create a new Jupyter notebook. The first cell of your notebook should be markdown explaining where you found your data set and what it contains. 
 
-Create a new Jupyter notebook. The first cell of your notebook should be markdown explaining where you found your data set and what it contains. 
-
-Use pandas to load your data set and clean/process it as needed. Using the matplotlib techniques we learned in class, visualize interesting aspects of your data set. Create at least 4 visualizations using at least 3 different visualization types (such as bar charts, line charts, scatter plots, or anything else). Then use one other Python visualization library like seaborn or bokeh for at least one more visualization of any type. Each visualization should be followed by a markdown cell that succinctly explains what you are visualizing and why it is interesting.
+Use pandas to load your data set and clean/process it as needed. Identify at least two variables of interest and calculate relevant descriptive statistics. Using the techniques we learned in class, visualize interesting aspects of your data set. Create at least 4 visualizations using at least 3 different visualization types (such as bar charts, line charts, scatter plots, or anything else). Each visualization should be followed by a markdown cell that succinctly explains what you are visualizing and why it is interesting. What story does it tell? How do the visuals enrich, confirm, or contradict the descriptive statistics you calculated earlier?
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
