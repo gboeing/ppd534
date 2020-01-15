@@ -15,7 +15,7 @@ The reading responses will be graded according to the following criteria:
 
 ### Reading Response 1
 
-First, identify three ways of sampling and briefly describe their differences and relative merits. Second, summarize the main differences and benefits/drawbacks of data from the American Community Survey versus the decennial census.
+Briefly summarize Macdonald's social and political history of the ACS with a short paragraph in your own words. Then, in your own experience, reflect on how data collection, gathering, and interpretation are influenced by wider social, political, and cultural contexts and undercurrents.
 
 ### Reading Response 2
 
