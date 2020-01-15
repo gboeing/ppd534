@@ -52,11 +52,11 @@ The course has no specific prerequisites. Coding itself will be taught from the 
 
 We are available if you need help throughout the semester and are happy to answer your questions. By email, you should expect a reply typically within approximately one working day. Office hours info is provided at the beginning of the syllabus.
 
-### Who to contact
+## Who to contact
 
-If you have a general question about homework/grades or learning material, contact the TA first. If you have a coding/software question or problem, contact the tutor first, then the TA second if needed.
+If you have a general question about class material or homework, contact the TA first. If you have a coding/software question or problem, contact the tutor first. If you have a specific question for the professor outside of these preceding topics, please sign up for an office hours slot.
 
-### How to ask a coding question
+## How to ask a coding question
 
 Given the nature of this course, we do expect a few things of you before you seek assistance with coding questions:
 
@@ -87,7 +87,7 @@ Coursework will be based on free open-source software.
 
 # Assignments and Evaluation
 
-Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing assignments, and group data/code assignments. Assignments must be submitted via Blackboard by 23:59 on their due date. See the schedule below for assignment due dates, and see the "assignments" folder for instructions.
+Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. See the schedule below for assignment due dates and see the "assignments" folder for instructions.
 
 Active participation is expected (and graded) in the classroom. Most weeks, the instructor will provide a set of in-class prompts derived from the assigned readings. Groups will have 30 minutes in-class to prepare a 10 minute presentation to answer those prompts, then present it. Every group member is expected to speak, at least briefly, as part of these exercises.
 
