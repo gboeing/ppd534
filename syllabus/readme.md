@@ -17,6 +17,10 @@ Office hours: Thursday 14:00-15:00, RGL 201B ([you must sign-up online](https://
 
 Classroom location and meeting times are [available here](https://classes.usc.edu/)
 
+TA: Kurt Wyatt (kdaum at usc dot edu)
+
+Tutor: Peter Mannino (pmannino at usc dot edu)
+
 
 
 
