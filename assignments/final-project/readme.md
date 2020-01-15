@@ -2,7 +2,7 @@
 
 ## Overview
 
-The final project is a cumulative and applied assignment that requires you to use the skills you developed over the entire semester. I want you to develop an interesting research question that can be answered using the statistics, modeling, and visualization methods we have learned in this course.
+The final project is a cumulative and applied assignment that requires you to use the skills you developed over the entire semester. I want you to develop an interesting research question then answer it using the statistics, modeling, and visualization methods we have learned in this course.
 
 ## Instructions
 
