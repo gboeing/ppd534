@@ -207,7 +207,7 @@ Group assignment 4 due the following Wed
 
 ### Module 8
 
-**Mar 05 - APIs and Sentiment**
+**Mar 05 - Qualitative Methods and Sentiment**
 
 Readings to be completed prior to class:
 
