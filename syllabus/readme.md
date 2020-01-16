@@ -17,7 +17,7 @@ Office hours: Thurs 14:00-15:00, RGL 201B ([you must sign-up online](https://www
 
 Classroom location and meeting times are [available here](https://classes.usc.edu/)
 
-TA: Kurt Wyatt (kdaum at usc dot edu)
+TA: Kurt Wyatt (email: kdaum at usc dot edu; office hours: Wed 11:00-12:00, RGL lounge)
 
 Tutor: Peter Mannino (email: pmannino at usc dot edu; office hours: Tue 11:00-12:00, RGL lounge)
 
@@ -60,9 +60,9 @@ We are available if you need help throughout the semester and are happy to answe
 
 If you have a general question about class material or homework, contact the TA first. If you have a coding/software question or problem, contact the tutor first. If you have a specific question for the professor outside of these preceding topics, please sign up for an office hours slot.
 
-## How to ask a coding question
+## How to ask a technical question
 
-Given the nature of this course, we do expect a few things of you before you seek assistance with coding questions:
+Given the nature of this course, we do expect a few things of you before you seek assistance with coding/data questions:
 
   1. Close all open programs, restart your computer, then try your task again
   2. Search google and stackoverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
