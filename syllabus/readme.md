@@ -13,13 +13,13 @@ Email: boeing at usc dot edu
 
 Web: [https://geoffboeing.com](https://geoffboeing.com)
 
-Office hours: Thursday 14:00-15:00, RGL 201B ([you must sign-up online](https://www.wejoinin.com/sheets/vqcmr/))
+Office hours: Thurs 14:00-15:00, RGL 201B ([you must sign-up online](https://www.wejoinin.com/sheets/vqcmr/))
 
 Classroom location and meeting times are [available here](https://classes.usc.edu/)
 
 TA: Kurt Wyatt (kdaum at usc dot edu)
 
-Tutor: Peter Mannino (pmannino at usc dot edu)
+Tutor: Peter Mannino (email: pmannino at usc dot edu; office hours: Tue 11:00-12:00, RGL lounge)
 
 
 
