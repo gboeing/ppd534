@@ -19,4 +19,4 @@ Briefly summarize Macdonald's social and political history of the ACS with a sho
 
 ### Reading Response 2
 
-TBD
+Briefly summarize how Python compares to other programming languages and why it has grown in popularity in recent years. Then, reflect on how coding might be useful in your own professional or academic life, now or in the future. If you have prior coding experience, you can draw on that too. If you do not, consider what new avenues coding literacy may open up for you.
