@@ -20,3 +20,7 @@ Briefly summarize Macdonald's social and political history of the ACS with a sho
 ### Reading Response 2
 
 Briefly summarize how Python compares to other programming languages and why it has grown in popularity in recent years. Then, reflect on how coding might be useful in your own professional or academic life, now or in the future. If you have prior coding experience, you can draw on that too. If you do not, consider what new avenues coding literacy may open up for you.
+
+### Reading Response 3
+
+What are descriptive statistics useful for? How can they be used to mislead? Provide an example from your own experience of a time when descriptive statistics were used to deceive or mislead the public, whether intentionally or unintentionally (consider recent news stories, political issues, advocacy groups, etc).
