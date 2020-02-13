@@ -24,3 +24,7 @@ Briefly summarize how Python compares to other programming languages and why it 
 ### Reading Response 3
 
 What are descriptive statistics useful for? How can they be used to mislead? Provide an example from your own experience of a time when descriptive statistics were used to deceive or mislead the public, whether intentionally or unintentionally (consider recent news stories, political issues, advocacy groups, etc).
+
+### Reading Response 4
+
+What are Tufte's key lessons for effective data visualization and why? Provide an example from your own experience of an excellent visualization in the real world: what did it do and how did it do it well? Then do the same for a bad visualization in your opinion. Consider sources from the news, politics, research, etc.
