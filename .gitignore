@@ -1,4 +1,5 @@
 *.pdf
+*.png
 modules/data/*
 !modules/data/*.csv
 modules/data/*-clean.csv
