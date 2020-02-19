@@ -278,7 +278,7 @@ Group assignment 5 due the following Wed
 Readings to be completed prior to class:
 
   - Okasha ch. 5 & 7
-  - FiveThirtyEight: [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/)
+  - Sismondo ch. 13 & 16
   - Krizek et al 2009
 
 Reading response 9 due the night before class
