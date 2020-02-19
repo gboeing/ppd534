@@ -205,24 +205,19 @@ Group assignment 4 due the following Wed
 
 
 
-### Module 8
+## Module 8
 
-**Mar 05 - Qualitative Methods and Sentiment**
+**Mar 05 - Qualitative Methods in Practice**
 
 Readings to be completed prior to class:
 
   - Wheelan ch. 5-7
-  - Schweitzer twitter
 
 
 
 ## Module 9
 
 **Mar 12 - Mid-Term Exam**
-
-Readings to be completed prior to class:
-
-  - Urdan ch. 4-5
 
 In class: complete the mid-term exam. You are allowed to bring in a single 8.5x11 sheet of paper with hand-written notes. Exam will be pen + paper, with a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
@@ -252,8 +247,8 @@ Reading response 6 due the night before class
 
 Readings to be completed prior to class:
 
-  - Urdan ch. 6-7
   - Wheelan ch. 8-10
+  - Urdan ch. 4-7
   - Jurjevich - Navigating Statistical Uncertainty
   - WSJ article (on blackboard) + [CityObservatory](http://cityobservatory.org/no-youth_exodus_signal-noise/) response
 
@@ -267,8 +262,8 @@ Reading response 7 due the night before class
 
 Readings to be completed prior to class:
 
+  - Wheelan ch. 4, 11-13
   - Urdan ch. 8, 9, 13
-  - Wheelan ch. 11-13
 
 Reading response 8 due the night before class
 
