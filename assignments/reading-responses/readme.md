@@ -28,3 +28,9 @@ What are descriptive statistics useful for? How can they be used to mislead? Pro
 ### Reading Response 4
 
 What are Tufte's key lessons for effective data visualization and why? Provide an example from your own experience of an excellent visualization in the real world: what did it do and how did it do it well? Then do the same for a bad visualization in your opinion. Consider sources from the news, politics, research, etc.
+
+## Reading Response 5
+
+  1. In your own words, define the two spatial data models and briefly discuss how non-spatial data is associated with each.
+  2. What are the ethical implications of spatial data visualization? Why does Gimond (in agreement with Tukey) suggest that maps can serve the purpose of "propaganda"?
+  3. Where does spatial data analysis/visualization fit within the specific questions/projects you hope to address in your career? (Use about 1/2 page for this third sub-prompt)
