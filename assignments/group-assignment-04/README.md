@@ -1,4 +1,4 @@
-# Group Assignment 4: Mapping
+# Group Assignment 4: Spatial Data
 
 Due Wed 4 Mar by 23:59 via Blackboard submission.
 
