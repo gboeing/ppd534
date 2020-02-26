@@ -8,4 +8,4 @@ Join two datasets together (either a pandas merge or a geopandas spatial join). 
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
-Make sure your notebook runs from the top without any errors and that all the visuals can be seen inline (without me having to re-run your notebook). Then submit your notebook, (optional) web map file, and your data file, all zipped together, via Blackboard.
+Make sure your notebook runs from the top without any errors and that all the visuals can be seen inline (without me having to re-run your notebook). Then submit your notebook and your data file, all zipped together, via Blackboard.
