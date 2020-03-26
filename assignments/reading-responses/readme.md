@@ -47,4 +47,7 @@ Then respond to the following prompt (approx 1/2 page): thinking about your grou
 
 ### Reading Response 7
 
-T.B.D.
+Answer both of the following:
+
+  1. What claims did the Wall Street Journal article make and why did their evidence not support those claims?
+  2. Humans tend to have a hard time reasoning with and expressing uncertainty. Reflect on an example from your own experience of a time that someone made a prediction or developed a policy without properly dealing with their own uncertainty. Did it have any unforeseen/unintended consequences or negative ramifications? What could they have done differently, given only what they knew at the time?
