@@ -1,6 +1,6 @@
 # Group Assignment 5: Regression
 
-Due Wed 15 Apr by 23:59 via Blackboard submission.
+Due Sun 19 Apr by 23:59 via Blackboard submission.
 
 You will analyze the data you downloaded in assignment 1, and optionally other new data as needed. Create a new Jupyter notebook. Use geopandas to load your data set and clean/process it as needed. Using the techniques we learned in class, do the following:
 
