@@ -51,3 +51,12 @@ Answer both of the following:
 
   1. What claims did the Wall Street Journal article make and why did their evidence not support those claims?
   2. Humans tend to have a hard time reasoning with and expressing uncertainty. Reflect on an example from your own experience of a time that someone made a prediction or developed a policy without properly dealing with their own uncertainty. Did it have any unforeseen/unintended consequences or negative ramifications? What could they have done differently, given only what they knew at the time?
+
+### Reading Response 8
+
+First, respond to just 1 of the following 2 prompts (approx 1/2 page):
+
+  1. When can we feel safe making claims about causation?
+  2. What dangers lie in making causal claims and why must we be careful as data-driven storytellers?
+
+Then, everyone responds to the following prompt (approx 1/2 page): describe an example from your studies/work/personal life where a causal claim was made, but shouldn't have been. Why was it inappropriate for the speaker/writer to imply causation?
