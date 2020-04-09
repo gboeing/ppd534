@@ -7,7 +7,7 @@ You will analyze the data you downloaded in assignment 1, and optionally other n
   1. conduct a inferential analysis such as difference-in-means or estimate a population parameter from a sample
   2. estimate and interpret a regression model
 
-Each step above should be followed by a markdown cell that succinctly explains your analysis, why you set it up the way you did, and how you interpret its results. This interpretation should include some induction (that is, interpret your coefficients numerically in terms of sign, size, and significance) and some abduction (that is, inference to the best explanation: how would you explain what's happening numerically here in the context of theory and your own real-world experience?). For your regression model, explain how you specified it and why.
+Each step above should be followed by a markdown cell that succinctly explains your analysis, why you set it up the way you did, and how you interpret its results. This interpretation should include some induction (that is, interpret your coefficients numerically in terms of sign, size, and significance) and some abduction (that is, inference to the best explanation: how would you explain what's happening numerically here in the context of theory and your own real-world experience?). Tell us a story about the real world using your results. For your regression model, also explain how you specified it and why.
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
