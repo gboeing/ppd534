@@ -60,3 +60,7 @@ First, respond to just 1 of the following 2 prompts (approx 1/2 page):
   2. What dangers lie in making causal claims and why must we be careful as data-driven storytellers?
 
 Then, everyone responds to the following prompt (approx 1/2 page): describe an example from your studies/work/personal life where a causal claim was made, but shouldn't have been. Why was it inappropriate for the speaker/writer to imply causation?
+
+### Reading Response 9
+
+The readings discuss the concept of scientism. What is it and what is the risk of scientism in urban planning? Where does non-scientific-evidence based knowledge belong in urban planning/policymaking processes?
