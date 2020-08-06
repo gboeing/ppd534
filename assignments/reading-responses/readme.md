@@ -64,3 +64,7 @@ Then, everyone responds to the following prompt (approx 1/2 page): describe an e
 ### Reading Response 9
 
 The readings discuss the concept of scientism. What is it and what is the risk of scientism in urban planning? Where does non-scientific-evidence based knowledge belong in urban planning/policymaking processes?
+
+### Reading Response 10
+
+What is Kitchin's main argument about smart city technology and urban research? What is an example of a smart city technology that caused a social harm? Whom did this technology harm and for whom was it good? Reflect on its creators' intentions and how they fell short of advancing the public good.
