@@ -1,6 +1,6 @@
 **Data, Evidence, and Communication for the Public Good**
 
-USC PPD534 / Spring 2020 / 4 units
+USC PPD534 / Fall 2020 / 4 units
 
 
 
@@ -13,20 +13,18 @@ Email: boeing at usc dot edu
 
 Web: [https://geoffboeing.com](https://geoffboeing.com)
 
-Office hours: Thurs 14:00-15:00, RGL 201B ([you must sign-up online](https://www.wejoinin.com/sheets/vqcmr/))
+Office hours: Thurs 17:30-18:30, Zoom ([you must sign-up online](https://www.wejoinin.com/sheets/vqcmr/))
 
 Classroom location and meeting times are [available here](https://classes.usc.edu/)
 
-TA: Kurt Wyatt (email: kdaum at usc dot edu; office hours: Wed 11:00-12:00, RGL lounge)
-
-Tutor: Peter Mannino (email: pmannino at usc dot edu; office hours: Tue 11:00-12:00, RGL lounge)
+TA: Kurt Wyatt (email: kdaum at usc dot edu; office hours: Wed 11:00-12:00, Zoom)
 
 
 
 
 # Course Description
 
-This course provides you with a toolkit for telling stories with urban data. It will introduce basic code, stats, and reasoning with evidence.
+This course provides you with a toolkit for telling stories with urban data. It will introduce basic coding, stats, and reasoning with evidence.
 
 The course takes a computational social science approach to working with data. It uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then on to basic statistics, then hypotheses and the scientific method, and finally a critical assessment of smart cities and urban informatics.
 
@@ -37,7 +35,7 @@ Each week, students will be expected to:
   - Attend the lecture
   - Complete and submit any assigned group projects
 
-The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, it course requires a lot of patience: learning to code will require lots of trial-and-error, self-direction, practice, repetition, and experimentation on your part. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
+The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, this course requires a lot of patience: learning to code will take lots of trial-and-error, self-direction, practice, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
 
 
@@ -58,7 +56,7 @@ We are available if you need help throughout the semester and are happy to answe
 
 ## Who to contact
 
-If you have a general question about class material or homework, contact the TA first. If you have a coding/software question or problem, contact the tutor first. If you have a specific question for the professor outside of these preceding topics, please sign up for an office hours slot.
+If you have a question about class material, homework, or a coding/data problem, contact the TA first. If you have a specific question for the professor outside of those categories, please sign up for an office hours slot to chat.
 
 ## How to ask a technical question
 
@@ -69,7 +67,7 @@ Given the nature of this course, we do expect a few things of you before you see
   3. Go back through the relevant lecture materials to look for any insights
   4. Go back through the assigned reading materials to look for any insights
 
-If the above steps haven't solved your problem, send an email (or drop by office hours) and include the following information:
+If the above steps haven't solved your problem, send an email (or attend office hours) and include the following information:
 
   1. A detailed description of what you're trying to do, why, and how
   2. A [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
@@ -91,19 +89,17 @@ Coursework will be based on free open-source software.
 
 # Assignments and Evaluation
 
-Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. See the schedule below for assignment due dates and see the "assignments" folder for instructions.
-
-Active participation is expected (and graded) in the classroom. Most weeks, the instructor will provide a set of in-class prompts derived from the assigned readings. Groups will have 30 minutes in-class to prepare a 10 minute presentation to answer those prompts, then present it. Every group member is expected to speak, at least briefly, as part of these exercises.
+Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. See the schedule below for assignment due dates and see the "assignments" folder for instructions. Active participation is expected (and graded) in the classroom.
 
 Final grades will be assigned according to the following, for a total of 1000 points:
 
-  - 200 points: 10 individual reading responses @ 20 points each
+  - 200 points: 8 individual reading responses @ 20 points each
   - 300 points: 5 group projects @ 60 points each
   - 200 points: midterm exam
   - 200 points: final group project
   - 100 points: active participation in classroom and team work
 
-Assignments are due by 23:59 pacific time on their due date, to be submitted via blackboard. Late assignment submissions will be deducted 20% per day. Late final project submissions will not be accepted or graded.
+Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted 20% per day. Late final project submissions will not be accepted or graded.
 
 
 
@@ -112,11 +108,10 @@ Assignments are due by 23:59 pacific time on their due date, to be submitted via
 
 ## Module 1
 
-**Jan 16 - Welcome/Intro to Computation**
+**Aug 20 - Welcome/Intro to Computation**
 
 Readings to be completed prior to class:
 
-  - If you're on Windows, read the [command prompt guide](http://dosprompt.info/) "basics" and "folders" sections. If you're on Mac, read [navigating the terminal](https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855)
   - JupyterLab user guide sections on the [interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) and the [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
 
 Pre-Survey
@@ -125,7 +120,7 @@ Pre-Survey
 
 ## Module 2
 
-**Jan 23 - Collecting Data: Census, Websites, Portals**
+**Aug 27 - Collecting Data: Census, Websites, Portals**
 
 Readings to be completed prior to class:
 
@@ -141,20 +136,17 @@ Group assignment 1 due the following Wed
 
 ## Module 3
 
-**Jan 30 - Coding Bootcamp I**
+**Sep 3 - Coding Bootcamp I**
 
 Readings to be completed prior to class:
 
-  - Python Is Eating the World
   - Downey ch. 1-3
-
-Reading response 2 due the night before class
 
 
 
 ## Module 4
 
-**Feb 06 - Coding Bootcamp II**
+**Sep 10 - Coding Bootcamp II**
 
 Readings to be completed prior to class:
 
@@ -166,26 +158,26 @@ Group assignment 2 due the following Wed
 
 ## Module 5
 
-**Feb 13 - Data Cleaning and Descriptive Stats**
+**Sep 17 - Data Cleaning and Descriptive Stats**
 
 Readings to be completed prior to class:
 
   - Wheelan ch. 2-3
   - Urdan ch. 2-3
 
-Reading response 3 due the night before class
+Reading response 2 due the night before class
 
 
 
 ## Module 6
 
-**Feb 20 - Data Visualization**
+**Sep 24 - Data Visualization**
 
 Readings to be completed prior to class:
 
   - Tufte ch. 1-3
 
-Reading response 4 due the night before class
+Reading response 3 due the night before class
 
 Group assignment 3 due the following Wed
 
@@ -193,13 +185,13 @@ Group assignment 3 due the following Wed
 
 ## Module 7
 
-**Feb 27 - Spatial Analysis and Mapping**
+**Oct 1 - Spatial Analysis and Mapping**
 
 Readings to be completed prior to class:
 
   - Gimond ch. 1, 2, 9
 
-Reading response 5 due the night before class
+Reading response 4 due the night before class
 
 Group assignment 4 due the following Wed
 
@@ -207,7 +199,7 @@ Group assignment 4 due the following Wed
 
 ## Module 8
 
-**Mar 05 - Qualitative Methods in Practice**
+**Oct 8 - Qualitative Methods in Practice**
 
 Readings to be completed prior to class:
 
@@ -217,33 +209,27 @@ Readings to be completed prior to class:
 
 ## Module 9
 
-**Mar 12 - Mid-Term Exam**
+**Oct 15 - Mid-Term Exam**
 
-In class: complete the mid-term exam. You are allowed to bring in a single 8.5x11 sheet of paper with hand-written notes. Exam will be pen + paper, with a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
-
-
-
-## Spring Break
-
-**Mar 19 - No Class**
+Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
 
 
 ## Module 10
 
-**Mar 26 - Social Science and the Scientific Method**
+**Oct 22 - Social Science and the Scientific Method**
 
 Readings to be completed prior to class:
 
   - Okasha ch. 1-4
 
-Reading response 6 due the night before class
+Reading response 5 due the night before class
 
 
 
 ## Module 11
 
-**Apr 02 - Hypotheses, Inference, Confidence, Uncertainty**
+**Oct 29 - Hypotheses, Inference, Confidence, Uncertainty**
 
 Readings to be completed prior to class:
 
@@ -252,20 +238,20 @@ Readings to be completed prior to class:
   - Jurjevich - Navigating Statistical Uncertainty
   - WSJ article (on blackboard) + [CityObservatory](http://cityobservatory.org/no-youth_exodus_signal-noise/) response
 
-Reading response 7 due the night before class
+Reading response 6 due the night before class
 
 
 
 ## Module 12
 
-**Apr 09 - Statistical Models**
+**Nov 5 - Statistical Models**
 
 Readings to be completed prior to class:
 
   - Wheelan ch. 4, 11-13
   - Urdan ch. 8, 9, 13
 
-Reading response 8 due the night before class
+Reading response 7 due the night before class
 
 Group assignment 5 due the following Wed
 
@@ -273,42 +259,22 @@ Group assignment 5 due the following Wed
 
 ## Module 13
 
-**Apr 16 - Scientific Discourse, Politics, and Evidence-Based Planning**
+**Nov 12 - Smart Cities, Scientific Discourse, and Ethics**
 
 Readings to be completed prior to class:
 
   - Okasha ch. 5 & 7
-  - Krizek et al 2009
-
-Reading response 9 due the night before class
-
-
-
-## Module 14
-
-**Apr 23 - Smart Cities, Civic Tech, and Ethics**
-
-Readings to be completed prior to class:
-
   - Kitchin: Ethics of Smart Cities
   - Mattern: [A City Is Not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/)
-  - Mattern: [Methodolatry and the Art of Measure](https://placesjournal.org/article/methodolatry-and-the-art-of-measure/)
 
-Reading response 10 due the night before class
-
+Reading response 8 due the night before class
 
 
-## Module 15
-
-**Apr 30 - Group Presentations + Workshop**
-
-Post-Survey
 
 
 ## Exam Week
 
-**May 06 - Final Group Projects Due**
-
+**Nov 18 - Final Group Projects Due**
 
 
 
