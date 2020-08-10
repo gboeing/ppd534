@@ -93,8 +93,8 @@ Per USC guidelines, for each course unit the university expects 2 hours of out-o
 
 Final grades will be assigned according to the following, for a total of 1000 points:
 
-  - 200 points: 8 individual reading responses @ 20 points each
-  - 300 points: 5 group projects @ 60 points each
+  - 200 points: 8 individual reading responses × 25 points each
+  - 300 points: 5 group projects × 60 points each
   - 200 points: midterm exam
   - 200 points: final group project
   - 100 points: active participation in classroom and team work
