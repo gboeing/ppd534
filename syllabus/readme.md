@@ -7,15 +7,13 @@ USC PPD534 / Fall 2020 / 4 units
 
 # Instructor Info
 
-Prof. Geoff Boeing
+[Prof. Geoff Boeing](https://geoffboeing.com)
 
 Email: boeing at usc dot edu
 
-Web: [https://geoffboeing.com](https://geoffboeing.com)
+Office hours: Thurs 17:30-18:30, Zoom ([you must sign-up in advance online](https://www.wejoinin.com/sheets/vqcmr/))
 
-Office hours: Thurs 17:30-18:30, Zoom ([you must sign-up online](https://www.wejoinin.com/sheets/vqcmr/))
-
-Classroom location and meeting times are [available here](https://classes.usc.edu/)
+Classroom location and meeting times are [available online](https://classes.usc.edu/)
 
 TA: Kurt Wyatt (email: kdaum at usc dot edu; office hours: Wed 11:00-12:00, Zoom)
 
