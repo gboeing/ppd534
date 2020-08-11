@@ -1,6 +1,6 @@
 # Assignment 2: Coding Logic
 
-Due Wed 12 Feb by 23:59 via Blackboard submission.
+See syllabus for due date.
 
 1. You will create your first complete Jupyter notebook in order to work with loops, conditionals, iteration, and functions. Review *Think Python* section 4.8 to develop a plan and section 6.2 on incremental development. Also review the code in the notebook from this class session.
 2. You will write four functions to work with prime numbers. A prime number is any whole number greater than 1 that has no positive divisors besides 1 and itself. So, a prime number a) must be an integer, b) must be greater than 1, and c) must be divisible only by 1 and itself.

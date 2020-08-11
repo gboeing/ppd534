@@ -2,7 +2,7 @@
 
 ## Instructions
 
-These exercises are designed to help you reflect critically on the weekly reading material and come to class prepared to discuss. Each reading response should be submitted as a PDF file, 1 page long, composed in 12-point Times New Roman font and single-spaced. Submit it via Blackboard by 23:59 the day before class.
+These exercises are designed to help you reflect critically on the weekly reading material and come to class prepared to discuss. Each reading response should be submitted as a PDF file, 1 page long, single-spaced, composed in 12-point Times New Roman font. Submit it via Blackboard by 23:59 the day before class.
 
 The reading responses will be graded according to the following criteria:
 
@@ -19,24 +19,22 @@ Briefly summarize Macdonald's social and political history of the ACS with a sho
 
 ### Reading Response 2
 
-Briefly summarize how Python compares to other programming languages and why it has grown in popularity in recent years. Then, reflect on how coding might be useful in your own professional or academic life, now or in the future. If you have prior coding experience, you can draw on that too. If you do not, consider what new avenues coding literacy may open up for you.
+What are descriptive statistics useful for? How can they be used to mislead? Provide an example from your own experience of a time when descriptive statistics were used to deceive or mislead the public, whether intentionally or unintentionally (consider recent news stories, political issues, advocacy groups, etc).
 
 ### Reading Response 3
 
-What are descriptive statistics useful for? How can they be used to mislead? Provide an example from your own experience of a time when descriptive statistics were used to deceive or mislead the public, whether intentionally or unintentionally (consider recent news stories, political issues, advocacy groups, etc).
+What are Tufte's key lessons for effective data visualization and why? Provide an example from your own experience of an excellent visualization in the real world: what did it do and how did it do it well? Then do the same for a bad visualization in your opinion. Consider sources from the news, politics, research, etc.
 
 ### Reading Response 4
 
-What are Tufte's key lessons for effective data visualization and why? Provide an example from your own experience of an excellent visualization in the real world: what did it do and how did it do it well? Then do the same for a bad visualization in your opinion. Consider sources from the news, politics, research, etc.
-
-### Reading Response 5
+Respond to all 3 of the following prompts:
 
   1. In your own words, define the two spatial data models and briefly discuss how non-spatial data is associated with each.
   2. What are the ethical implications of spatial data visualization? Why does Gimond (in agreement with Tukey) suggest that maps can serve the purpose of "propaganda"?
-  3. Where does spatial data analysis/visualization fit within the specific questions/projects you hope to address in your career? (Use about 1/2 page for this third sub-prompt)
-  
-  
-### Reading Response 6
+  3. Where does spatial data analysis/visualization fit within the specific questions/projects you hope to address in your career?
+
+
+### Reading Response 5
 
 Respond to just *1* of the following *2* prompts (approx 1/2 page):
 
@@ -45,26 +43,22 @@ Respond to just *1* of the following *2* prompts (approx 1/2 page):
 
 Then respond to the following prompt (approx 1/2 page): thinking about your group's final project (or another research project you're affiliated with) reflect on how you might use scientific inference to understand or explain the phenomenon you are investigating (you can consider deduction, induction, IBE, causation, etc -- whatever is relevant or useful to you).
 
-### Reading Response 7
+### Reading Response 6
 
-Answer both of the following:
+Answer both of the following prompts:
 
   1. What claims did the Wall Street Journal article make and why did their evidence not support those claims?
   2. Humans tend to have a hard time reasoning with and expressing uncertainty. Reflect on an example from your own experience of a time that someone made a prediction or developed a policy without properly dealing with their own uncertainty. Did it have any unforeseen/unintended consequences or negative ramifications? What could they have done differently, given only what they knew at the time?
 
-### Reading Response 8
+### Reading Response 7
 
 First, respond to just 1 of the following 2 prompts (approx 1/2 page):
 
   1. When can we feel safe making claims about causation?
   2. What dangers lie in making causal claims and why must we be careful as data-driven storytellers?
 
-Then, everyone responds to the following prompt (approx 1/2 page): describe an example from your studies/work/personal life where a causal claim was made, but shouldn't have been. Why was it inappropriate for the speaker/writer to imply causation?
+Then respond to the following prompt (approx 1/2 page): describe an example from your studies/work/personal life where a causal claim was made, but shouldn't have been. Why was it inappropriate for the speaker/writer to imply causation?
 
-### Reading Response 9
-
-The readings discuss the concept of scientism. What is it and what is the risk of scientism in urban planning? Where does non-scientific-evidence based knowledge belong in urban planning/policymaking processes?
-
-### Reading Response 10
+### Reading Response 8
 
 What is Kitchin's main argument about smart city technology and urban research? What is an example of a smart city technology that caused a social harm? Whom did this technology harm and for whom was it good? Reflect on its creators' intentions and how they fell short of advancing the public good.

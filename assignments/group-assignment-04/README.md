@@ -1,6 +1,6 @@
-# Group Assignment 4: Spatial Data
+# Group Assignment 4: Spatial Analysis
 
-Due Wed 4 Mar by 23:59 via Blackboard submission.
+See syllabus for due date.
 
 You will analyze the data you downloaded in assignment 1, and optionally other new data as needed. Create a new Jupyter notebook. Use geopandas to load your data set and clean/process it as needed.
 
@@ -8,4 +8,4 @@ Join two datasets together (either a pandas merge or a geopandas spatial join). 
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
-Make sure your notebook runs from the top without any errors and that all the visuals can be seen inline (without me having to re-run your notebook). Then submit your notebook and your data file, all zipped together, via Blackboard.
+Make sure your notebook runs from the top without any errors and that all the visuals can be seen inline (without me having to re-run your notebook). Then submit your notebook and your data file(s), all zipped together, via Blackboard.
