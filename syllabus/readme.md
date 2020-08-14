@@ -279,10 +279,34 @@ Reading response 8 due the night before class
 
 # Academic Conduct and Support
 
+I encourage you to review this list of [resources](https://docs.google.com/document/d/1dhNi37jDc5eWO9nEgnhztWMP0Qjo5NFAwHHGkgdnkBg/) compiled by Price School students and info about the USC [Homelessness Initiative](https://homelessness.usc.edu/general-resources/).
+
 ## Accommodations and Extensions
 
-Any student requesting academic accommodations based on a disability or ongoing mental health concern is required to register with Disability Services and Programs (DSP) each semester. A letter of verification for approved accommodations can be obtained from DSP. Please be sure the letter is delivered to the instructor as early in the semester as possible, as the accommodation can only be implemented upon receipt of the letter. Visit DSP's [web site](https://dsp.usc.edu/) for more details. For further support, I encourage you to contact USC Support and Advocacy (uscsupport@usc.edu). To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with these official accommodation letters. If you need to request a *one-time emergency* extension (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to the due date*: 1) provide written documentation (such as an official doctor's note) explaining that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
+Any student requesting academic accommodations based on a disability or ongoing mental health concern is required to register with Disability Services and Programs (DSP) each semester. A letter of verification for approved accommodations can be obtained from DSP. Please be sure the letter is delivered to the instructor as early in the semester as possible, as the accommodation can only be implemented upon receipt of the letter. Visit DSP's [web site](https://dsp.usc.edu/) for more details. For further support, I encourage you to contact USC Support and Advocacy (uscsupport@usc.edu). To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with these official accommodation letters. If you need to request a *one-time emergency* extension (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to the due date*: 1) provide written documentation, such as an official doctor's note, explaining that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
 
-## Academic Integrity
+## Academic Conduct
 
-USC seeks to maintain an optimal learning environment. General principles of academic honesty include the concept of respect for the intellectual property of others, the expectation that individual work will be submitted unless otherwise allowed by an instructor, and the obligations both to protect one's own academic work from misuse by others as well as to avoid using another's work as one's own. Plagiarism (presenting someone else's ideas or work as your own, either verbatim or recast in your own words) is a serious academic offense with serious consequences. This includes submitting code that someone else wrote. All students are expected to understand and abide by these principles. See the [student handbook](https://scampus.usc.edu) for more details.
+Plagiarism, presenting someone else's ideas as your own, either verbatim or recast in your own words, is a serious academic offense with serious consequences. Please familiarize yourself with the discussion of plagiarism in SCampus in Part B, Section 11, "Behavior Violating University Standards" https://policy.usc.edu/scampus-part-b. Other forms of academic dishonesty are equally unacceptable. See additional information in SCampus and university policies on scientific misconduct, https://policy.usc.edu/scientific-misconduct.
+
+## Support Systems
+
+Counseling and Mental Health - (213) 740-9355 – 24/7 on call, https://studenthealth.usc.edu/counseling Free and confidential mental health treatment for students, including short-term psychotherapy, group counseling, stress fitness workshops, and crisis intervention.
+
+National Suicide Prevention Lifeline - 1 (800) 273-8255 – 24/7 on call, https://suicidepreventionlifeline.org Free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week.
+
+Relationship and Sexual Violence Prevention Services (RSVP) - (213) 740-9355(WELL), press "0" after hours – 24/7 on call, https://studenthealth.usc.edu/sexual-assault Free and confidential therapy services, workshops, and training for situations related to gender-based harm.
+
+Office of Equity and Diversity (OED) - (213) 740-5086 | Title IX – (213) 821-8298 https://equity.usc.edu, https://titleix.usc.edu Information about how to get help or help someone affected by harassment or discrimination, rights of protected classes, reporting options, and additional resources for students, faculty, staff, visitors, and applicants.
+
+Reporting Incidents of Bias or Harassment - (213) 740-5086 or (213) 821-8298, https://usc-advocate.symplicity.com/care_report Avenue to report incidents of bias, hate crimes, and microaggressions to the Office of Equity and Diversity |Title IX for appropriate investigation, supportive measures, and response.
+
+The Office of Disability Services and Programs - (213) 740-0776, https://dsp.usc.edu Support and accommodations for students with disabilities. Services include assistance in providing readers/notetakers/interpreters, special accommodations for test taking needs, assistance with architectural barriers, assistive technology, and support for individual needs.
+
+USC Campus Support and Intervention - (213) 821-4710, https://campussupport.usc.edu Assists students and families in resolving complex personal, financial, and academic issues adversely affecting their success as a student.
+
+Diversity at USC - (213) 740-2101, https://diversity.usc.edu Information on events, programs and training, the Provost's Diversity and Inclusion Council, Diversity Liaisons for each academic school, chronology, participation, and various resources for students.
+
+USC Emergency - UPC: (213) 740-4321, HSC: (323) 442-1000 – 24/7 on call, https://dps.usc.edu, https://emergency.usc.edu Emergency assistance and avenue to report a crime. Latest updates regarding safety, including ways in which instruction will be continued if an officially declared emergency makes travel to campus infeasible.
+
+USC Department of Public Safety - UPC: (213) 740-6000, HSC: (323) 442-120 – 24/7 on call, https://dps.usc.edu Non-emergency assistance or information.
