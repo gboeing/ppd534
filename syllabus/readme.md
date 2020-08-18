@@ -22,9 +22,7 @@ TA: Kurt Wyatt (email: kdaum at usc dot edu; office hours: Wed 11:00-12:00, Zoom
 
 # Course Description
 
-This course provides you with a toolkit for telling stories with urban data. It will introduce basic coding, stats, and reasoning with evidence.
-
-The course takes a computational social science approach to working with data. It uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then on to basic statistics, then hypotheses and the scientific method, and finally a critical assessment of smart cities and urban informatics.
+This course provides you with a toolkit for telling stories with urban data. It will introduce basic coding, stats, and reasoning with evidence. The course takes a computational social science approach to working with data. It uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then on to basic statistics, then hypotheses and the scientific method, and finally a critical assessment of smart cities and urban informatics.
 
 Each week, students will be expected to:
 
@@ -33,7 +31,7 @@ Each week, students will be expected to:
   - Attend the lecture
   - Complete and submit any assigned group projects
 
-The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, this course requires a lot of patience: learning to code will take lots of trial-and-error, self-direction, practice, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
+The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, this course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
 
 
@@ -68,10 +66,10 @@ Given the nature of this course, we do expect a few things of you before you see
 If the above steps haven't solved your problem, send an email (or attend office hours) and include the following information:
 
   1. A detailed description of what you're trying to do, why, and how
-  2. A [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
+  2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
   3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
 
-We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your code problem.
+We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your problem.
 
 
 
@@ -87,7 +85,7 @@ Coursework will be based on free open-source software.
 
 # Assignments and Evaluation
 
-Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. See the schedule below for assignment due dates and see the "assignments" folder for instructions. Active participation is expected (and graded) in the classroom.
+Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week: please budget your time accordingly. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. See the schedule below for assignment due dates and see the "assignments" folder for instructions. Active participation is expected (and graded) in the classroom.
 
 Final grades will be assigned according to the following, for a total of 1000 points:
 
@@ -279,11 +277,11 @@ Reading response 8 due the night before class
 
 # Academic Conduct and Support
 
-I encourage you to review this list of [resources](https://docs.google.com/document/d/1dhNi37jDc5eWO9nEgnhztWMP0Qjo5NFAwHHGkgdnkBg/) compiled by Price School students and info about the USC [Homelessness Initiative](https://homelessness.usc.edu/general-resources/).
+I encourage you to review this list of [resources](https://docs.google.com/document/d/1dhNi37jDc5eWO9nEgnhztWMP0Qjo5NFAwHHGkgdnkBg/) compiled by Price School students, and info about the USC [Homelessness Initiative](https://homelessness.usc.edu/general-resources/).
 
 ## Accommodations and Extensions
 
-Any student requesting academic accommodations based on a disability or ongoing mental health concern is required to register with Disability Services and Programs (DSP) each semester. A letter of verification for approved accommodations can be obtained from DSP. Please be sure the letter is delivered to the instructor as early in the semester as possible, as the accommodation can only be implemented upon receipt of the letter. Visit DSP's [web site](https://dsp.usc.edu/) for more details. For further support, I encourage you to contact USC Support and Advocacy (uscsupport@usc.edu). To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with these official accommodation letters. If you need to request a *one-time emergency* extension (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to the due date*: 1) provide written documentation, such as an official doctor's note, explaining that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
+Any student requesting academic accommodations based on a disability or ongoing mental health concern is required to register with Disability Services and Programs (DSP) each semester. A letter of verification for approved accommodations can be obtained from DSP. Please be sure the letter is delivered to the instructor as early in the semester as possible, as the accommodation can only be implemented upon receipt of the letter. Visit DSP's [web site](https://dsp.usc.edu/) for more details. For further support, I encourage you to contact USC Support and Advocacy (uscsupport@usc.edu). To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with these official accommodation letters. If you need to request a *one-time emergency* extension to an assignment (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, explaining that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
 
 ## Academic Conduct
 
