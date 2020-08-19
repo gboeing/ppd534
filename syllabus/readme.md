@@ -186,6 +186,7 @@ Group assignment 3 due the following Wed
 Readings to be completed prior to class:
 
   - Gimond ch. 1, 2, 9
+  - Wheelan ch. 5, 7
 
 Reading response 4 due the night before class
 
@@ -199,7 +200,9 @@ Group assignment 4 due the following Wed
 
 Readings to be completed prior to class:
 
-  - Wheelan ch. 5-7
+  - Shah and Corley - Building Better Theory
+  - Sandercock - Who Knows
+  - Morgan and Smircich - The Case for Qualitative Research
 
 
 
