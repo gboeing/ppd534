@@ -2,7 +2,7 @@
 
 ## Overview
 
-Today we'll introduce the basics of loading and cleaning data, then understanding patterns in them with descriptive statistics.
+Today we'll introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
 ## Getting started
 

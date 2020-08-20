@@ -2,7 +2,7 @@
 
 ## Overview
 
-Today we'll introduce the basics of visualizing data for exploratory analysis - looking visually for summaries, patterns, and trends.
+Today we'll introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
 ## Getting started
 
