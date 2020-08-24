@@ -15,7 +15,7 @@ Office hours: Thurs 17:30-18:30, Zoom ([you must sign-up in advance online](http
 
 Classroom location and meeting times are [available online](https://classes.usc.edu/)
 
-TA: Kurt Wyatt (email: kdaum at usc dot edu; office hours: Wed 11:00-12:00, Zoom)
+TA: Kurt Wyatt (email: kdaum at usc dot edu; office hours: Wed 17:00-18:00, Zoom)
 
 
 
