@@ -8,7 +8,7 @@
 # >>> docker push gboeing/ppd534
 #
 # Run Jupyter Lab in this container:
-# >>> docker run --rm -it -p 8888:8888 -v "$PWD$":/home/jovyan/work gboeing/ppd534
+# >>> docker run --rm -it -p 8888:8888 -v "$PWD":/home/jovyan/work gboeing/ppd534
 ##############################################################################
 
 FROM jupyter/base-notebook
