@@ -172,6 +172,7 @@ Reading response 2 due the night before class
 Readings to be completed prior to class:
 
   - Tufte ch. 1-3
+  - [Rost, how to pick colors blog post](https://blog.datawrapper.de/beautifulcolors/)
 
 Reading response 3 due the night before class
 
