@@ -250,6 +250,7 @@ Readings to be completed prior to class:
 
   - Wheelan ch. 4, 11-13
   - Urdan ch. 8, 9, 13
+  - optional fun reading about [p-hacking](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking)
 
 Reading response 7 due the night before class
 
