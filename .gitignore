@@ -1,5 +1,6 @@
 *.pdf
 *.png
+!modules/module07/img/utm_zones.png
 modules/data/*
 !modules/data/*.csv
 modules/data/*-clean.csv
