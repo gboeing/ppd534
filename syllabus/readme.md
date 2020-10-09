@@ -254,7 +254,7 @@ Readings to be completed prior to class:
 
 Reading response 7 due the night before class
 
-Group assignment 5 due the following Wed
+Group assignment 5 due Nov 15
 
 
 
