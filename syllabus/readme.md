@@ -123,6 +123,7 @@ Readings to be completed prior to class:
   - Wheelan intro + ch. 1
   - Urdan ch. 1
   - Macdonald ACS (2006)
+  - *Optional* census counts reading from [LA Times](https://www.latimes.com/california/story/2020-10-11/california-census-count-challenges)
 
 Reading response 1 due the night before class
 
