@@ -123,6 +123,7 @@ Readings to be completed prior to class:
   - Wheelan intro + ch. 1
   - Urdan ch. 1
   - Macdonald ACS (2006)
+  - *Optional* census counts reading from [LA Times](https://www.latimes.com/california/story/2020-10-11/california-census-count-challenges)
 
 Reading response 1 due the night before class
 
@@ -172,7 +173,7 @@ Reading response 2 due the night before class
 Readings to be completed prior to class:
 
   - Tufte ch. 1-3
-  - [Rost, how to pick colors blog post](https://blog.datawrapper.de/beautifulcolors/)
+  - [Rost, blog post on choosing colors](https://blog.datawrapper.de/colors/)
 
 Reading response 3 due the night before class
 
@@ -250,11 +251,11 @@ Readings to be completed prior to class:
 
   - Wheelan ch. 4, 11-13
   - Urdan ch. 8, 9, 13
-  - optional fun reading about [p-hacking](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking)
+  - optional reading about [p-hacking](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking)
 
 Reading response 7 due the night before class
 
-Group assignment 5 due the following Wed
+Group assignment 5 due Nov 15
 
 
 
