@@ -99,6 +99,8 @@ Assignments must be submitted via Blackboard by 23:59 pacific time on their due 
 
 Group assignments leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help us assign participation grades.
 
+Review the student handbook for expectations on academic integrity. In your reading responses (and all other homework), make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation, as in the example above. In other contexts, use a formal reference to make your citation clear.
+
 
 
 
@@ -204,13 +206,11 @@ Group assignment 4 due the following Wed
 
 ## Module 8
 
-**Oct 8 - Qualitative Methods in Practice**
+**Oct 8 - APIs**
 
 Readings to be completed prior to class:
 
-  - Shah and Corley - Building Better Theory
-  - Sandercock - Who Knows
-  - Morgan and Smircich - The Case for Qualitative Research
+  - TBD
 
 
 
@@ -288,8 +288,6 @@ Reading response 8 due the night before class
 
 
 # Academic Conduct and Support
-
-Review the student handbook for expectations on academic integrity. In your reading responses (and all other homework), make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation, as in the example above. In other contexts, use a formal reference to make your citation clear.
 
 ## Accommodations and Extensions
 

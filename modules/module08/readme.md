@@ -1,5 +1,5 @@
-# Module 8: Qualitative methods
+# Module 8: APIs
 
 ## Overview
 
-Today we'll introduce qualitative research and its various methods.
+Today we'll introduce working with APIs to collect quantitative and qualitative data and conduct sentiment analyses. We will work with OSMnx, cenpy, contextily, and Twitter.
