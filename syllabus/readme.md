@@ -76,9 +76,9 @@ We do not ask for this to be pedantic. Rather, we need it to be able to help you
 
 # Materials
 
-Due to copyright, course reading materials will be shared on blackboard for enrolled students to freely download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class.
-
 Coursework will be based on free open-source software.
+
+Copyrighted course reading materials are available via blackboard for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class.
 
 
 
@@ -90,17 +90,23 @@ Per USC guidelines, for each course unit the university expects 2 hours of out-o
 Final grades will be assigned according to the following, for a total of 1000 points:
 
   - 200 points: 8 individual reading responses × 25 points each
-  - 300 points: 5 group projects × 60 points each
+  - 300 points: 5 group assignments × 60 points each
   - 200 points: midterm exam
   - 200 points: final group project
   - 100 points: active participation in classroom and team work
 
-Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted 20% per day. Late final project submissions will not be accepted or graded.
+Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted 20% per day. Late final project submissions will not be accepted or graded. It is your responsibility to ensure that all submissions have gone through, so please visually confirm successful submission in the system.
+
+Group assignments leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help us assign participation grades.
 
 
 
 
 # Schedule
+
+All reading materials are available on blackboard if no link is provided here.
+
+
 
 ## Module 1
 
@@ -120,10 +126,10 @@ Pre-Survey
 
 Readings to be completed prior to class:
 
-  - Wheelan intro + ch. 1
-  - Urdan ch. 1
-  - Macdonald ACS (2006)
-  - *Optional* census counts reading from [LA Times](https://www.latimes.com/california/story/2020-10-11/california-census-count-challenges)
+  - Wheelan, Naked Statistics, intro + ch. 1
+  - Urdan, Statistics in Plain English, ch. 1
+  - Macdonald, The American Community Survey
+  - *Optional* reading about census counts from [LA Times](https://www.latimes.com/california/story/2020-10-11/california-census-count-challenges)
 
 Reading response 1 due the night before class
 
@@ -137,7 +143,7 @@ Group assignment 1 due the following Wed
 
 Readings to be completed prior to class:
 
-  - Downey ch. 1-3
+  - Downey, Think Python, ch. 1-3
 
 
 
@@ -172,8 +178,8 @@ Reading response 2 due the night before class
 
 Readings to be completed prior to class:
 
-  - Tufte ch. 1-3
-  - [Rost, blog post on choosing colors](https://blog.datawrapper.de/colors/)
+  - Tufte, Visual Display of Quantitative Information, ch. 1-3
+  - Rost, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
 
 Reading response 3 due the night before class
 
@@ -187,7 +193,7 @@ Group assignment 3 due the following Wed
 
 Readings to be completed prior to class:
 
-  - Gimond ch. 1, 2, 9
+  - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9
   - Wheelan ch. 5, 7
 
 Reading response 4 due the night before class
@@ -222,7 +228,7 @@ Exam will comprise a mix of multiple choice and short-answer questions, includin
 
 Readings to be completed prior to class:
 
-  - Okasha ch. 1-4
+  - Okasha, Philosophy of Science, ch. 1-4
 
 Reading response 5 due the night before class
 
@@ -236,7 +242,7 @@ Readings to be completed prior to class:
 
   - Wheelan ch. 8-10
   - Urdan ch. 4-7
-  - Jurjevich - Navigating Statistical Uncertainty
+  - Jurjevich et al, Navigating Statistical Uncertainty
   - WSJ article (on blackboard) + [CityObservatory](http://cityobservatory.org/no-youth_exodus_signal-noise/) response
 
 Reading response 6 due the night before class
@@ -251,7 +257,7 @@ Readings to be completed prior to class:
 
   - Wheelan ch. 4, 11-13
   - Urdan ch. 8, 9, 13
-  - optional reading about [p-hacking](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking)
+  - *Optional* reading about [p-hacking](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking)
 
 Reading response 7 due the night before class
 
@@ -261,13 +267,13 @@ Group assignment 5 due Nov 15
 
 ## Module 13
 
-**Nov 12 - Smart Cities, Scientific Discourse, and Ethics**
+**Nov 12 - Smart Cities, Ethics, and Evidence-Based Planning**
 
 Readings to be completed prior to class:
 
-  - Okasha ch. 5 & 7
-  - Kitchin: Ethics of Smart Cities
-  - Mattern: [A City Is Not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/)
+  - Okasha ch. 5, 7
+  - Kitchin, The Ethics of Smart Cities and Urban Science
+  - Mattern, [A City Is Not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/)
 
 Reading response 8 due the night before class
 
@@ -283,7 +289,9 @@ Reading response 8 due the night before class
 
 # Academic Conduct and Support
 
-I encourage you to review this list of [resources](https://docs.google.com/document/d/1dhNi37jDc5eWO9nEgnhztWMP0Qjo5NFAwHHGkgdnkBg/) compiled by Price School students, and info about the USC [Homelessness Initiative](https://homelessness.usc.edu/general-resources/).
+Review the student handbook for expectations on academic integrity. In your reading responses (and all other homework), make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. In the reading responses, you can keep citations simple. For example, you might write: "In this week's readings, Li argued that rents will fall in neighborhoods with more new housing starts, but, in contrast, Gonzalez claimed that 'new housing starts are not associated with lower rents but are associated with the displacement of low-income populations' (p. 145) in Los Angeles County."
+
+If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation, as in the example above. In other contexts, use a formal reference to make your citation clear.
 
 ## Accommodations and Extensions
 
