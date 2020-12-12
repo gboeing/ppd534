@@ -289,9 +289,7 @@ Reading response 8 due the night before class
 
 # Academic Conduct and Support
 
-Review the student handbook for expectations on academic integrity. In your reading responses (and all other homework), make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. In the reading responses, you can keep citations simple. For example, you might write: "In this week's readings, Li argued that rents will fall in neighborhoods with more new housing starts, but, in contrast, Gonzalez claimed that 'new housing starts are not associated with lower rents but are associated with the displacement of low-income populations' (p. 145) in Los Angeles County."
-
-If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation, as in the example above. In other contexts, use a formal reference to make your citation clear.
+Review the student handbook for expectations on academic integrity. In your reading responses (and all other homework), make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation, as in the example above. In other contexts, use a formal reference to make your citation clear.
 
 ## Accommodations and Extensions
 
