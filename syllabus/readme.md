@@ -129,8 +129,8 @@ Pre-Survey
 Readings to be completed prior to class:
 
   - Wheelan, Naked Statistics, intro + ch. 1
-  - Urdan, Statistics in Plain English, ch. 1
-  - Macdonald, The American Community Survey
+  - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
+  - Macdonald. The American Community Survey. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944360608976768). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944360608976768).
   - *Optional* reading about census counts from [LA Times](https://www.latimes.com/california/story/2020-10-11/california-census-count-challenges)
 
 Reading response 1 due the night before class
@@ -145,7 +145,7 @@ Group assignment 1 due the following Wed
 
 Readings to be completed prior to class:
 
-  - Downey, Think Python, ch. 1-3
+  - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 
 
@@ -155,7 +155,7 @@ Readings to be completed prior to class:
 
 Readings to be completed prior to class:
 
-  - Downey ch. 4-7
+  - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 Group assignment 2 due the following Wed
 
@@ -167,8 +167,8 @@ Group assignment 2 due the following Wed
 
 Readings to be completed prior to class:
 
-  - Wheelan ch. 2-3
-  - Urdan ch. 2-3
+  - Wheelan, Naked Statistics, ch. 2-3
+  - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
 Reading response 2 due the night before class
 
@@ -195,8 +195,8 @@ Group assignment 3 due the following Wed
 
 Readings to be completed prior to class:
 
-  - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9
-  - Wheelan ch. 5, 7
+  - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/).
+  - Wheelan, Naked Statistics, ch. 5, 7
 
 Reading response 4 due the night before class
 
@@ -210,7 +210,7 @@ Group assignment 4 due the following Wed
 
 Readings to be completed prior to class:
 
-  - TBD
+  - Boeing, Off the Grid and Back Again. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2020.1819382). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2020.1819382).
 
 
 
@@ -240,10 +240,10 @@ Reading response 5 due the night before class
 
 Readings to be completed prior to class:
 
-  - Wheelan ch. 8-10
-  - Urdan ch. 4-7
-  - Jurjevich et al, Navigating Statistical Uncertainty
-  - WSJ article (on blackboard) + [CityObservatory](http://cityobservatory.org/no-youth_exodus_signal-noise/) response
+  - Wheelan, Naked Statistics, ch. 8-10
+  - Urdan, Statistics in Plain English, ch. 4-7. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
+  - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
+  - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on blackboard) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
 Reading response 6 due the night before class
 
@@ -255,9 +255,8 @@ Reading response 6 due the night before class
 
 Readings to be completed prior to class:
 
-  - Wheelan ch. 4, 11-13
-  - Urdan ch. 8, 9, 13
-  - *Optional* reading about [p-hacking](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking)
+  - Wheelan, Naked Statistics, ch. 4 + 11-13
+  - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
 Reading response 7 due the night before class
 
@@ -271,9 +270,9 @@ Group assignment 5 due Nov 15
 
 Readings to be completed prior to class:
 
-  - Okasha ch. 5, 7
-  - Kitchin, The Ethics of Smart Cities and Urban Science
-  - Mattern, [A City Is Not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/)
+  - Okasha, Philosophy of Science, ch. 5, 7
+  - Kitchin, The Ethics of Smart Cities and Urban Science. [Direct link](https://doi.org/10.1098/rsta.2016.0115). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1098/rsta.2016.0115).
+  - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
 Reading response 8 due the night before class
 
