@@ -29,5 +29,3 @@ dependencies:
   - seaborn
   - statsmodels
   - textblob
-  - xlrd
-  - xlwt
