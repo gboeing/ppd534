@@ -1,6 +1,6 @@
 **Data, Evidence, and Communication for the Public Good**
 
-USC PPD534 / Fall 2020 / 4 units
+USC PPD534 / Fall 2021 / 4 units
 
 
 
@@ -112,7 +112,7 @@ All reading materials are available on blackboard if no link is provided here.
 
 ## Module 1
 
-**Aug 20 - Welcome/Intro to Computation**
+**Aug 20 - Welcome**
 
 Readings to be completed prior to class:
 
@@ -124,7 +124,7 @@ Pre-Survey
 
 ## Module 2
 
-**Aug 27 - Collecting Data: Census, Websites, Portals**
+**Aug 27 - Research design and data collection**
 
 Readings to be completed prior to class:
 

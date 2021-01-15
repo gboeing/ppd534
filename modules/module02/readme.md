@@ -1,4 +1,4 @@
-# Module 2: Collecting Data
+# Module 2: Research design and data collection
 
 This week we will discuss basic concepts and terms in statistics. We will introduce the US census and its methods. Then we will discuss sources of data including the decennial census, the ACS, and government data portals.
 
@@ -16,4 +16,3 @@ Resources:
   - HUD Data: https://www.huduser.gov/portal/pdrdatas_landing.html
   - American Time Use Survey: https://www.bls.gov/tus/
   - LEHD: https://lehd.ces.census.gov/
-  
