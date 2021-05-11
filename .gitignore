@@ -1,10 +1,11 @@
 *.pdf
 *.png
 !modules/module07/img/utm_zones.png
-modules/data/*
-!modules/data/*.csv
-modules/data/*-clean.csv
-!modules/data/tl_2017_06_tract/
+
+data/*
+!data/*.csv
+data/*-clean.csv
+!data/tl_2017_06_tract/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
