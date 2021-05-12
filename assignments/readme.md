@@ -1,6 +1,6 @@
 # Assignments
 
-See the schedule in the syllabus for all assignment due dates. Submissions are due by 23:59 on their due date.
+See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 23:59 on their due date.
 
 Group assignments need only one submission per group, so nominate a single submitter to submit on behalf of the whole group.
 

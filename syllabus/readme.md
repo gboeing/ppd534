@@ -4,19 +4,17 @@ USC PPD534 / Fall 2021 / 4 units
 
 
 
-
 # Instructor Info
 
 [Prof. Geoff Boeing](https://geoffboeing.com)
 
 Email: boeing at usc dot edu
 
-Office hours: Thurs 17:30-18:30, Zoom ([you must sign-up in advance online](https://www.wejoinin.com/sheets/vqcmr/))
+Office hours: Tue 16:30-17:30, RGL 301A
 
-Classroom location and meeting times are [available online](https://classes.usc.edu/)
+Classroom location and meeting times are [listed online](https://classes.usc.edu/)
 
 TA: Kurt Wyatt (email: kdaum at usc dot edu; office hours: Wed 17:00-18:00, Zoom)
-
 
 
 
@@ -35,7 +33,6 @@ The course has no specific prerequisites. Coding itself will be taught from the 
 
 
 
-
 # Learning Objectives
 
   - Write simple code to manipulate, analyze, and visualize urban data
@@ -45,14 +42,13 @@ The course has no specific prerequisites. Coding itself will be taught from the 
 
 
 
-
 # Questions and Assistance
 
-We are available if you need help throughout the semester and are happy to answer your questions. By email, you should expect a reply typically within approximately one working day. Office hours info is provided at the beginning of the syllabus.
+We are available if you need help throughout the semester and are happy to answer your questions. Please ask course-related questions in our course's Slack channel: you should expect a reply typically within two working days. If you have a sensitive personal matter to discuss, please ask by email. Office hours info is provided at the beginning of the syllabus.
 
 ## Who to contact
 
-If you have a question about class material, homework, or a coding/data problem, contact the TA first. If you have a specific question for the professor outside of those categories, please sign up for an office hours slot to chat.
+If you have a question about class material, homework, or a coding/data problem: post on Slack or drop by the TA's office hours. If you have a specific question for the professor outside of those categories, please drop by his office hours to chat.
 
 ## How to ask a technical question
 
@@ -63,14 +59,13 @@ Given the nature of this course, we do expect a few things of you before you see
   3. Go back through the relevant lecture materials to look for any insights
   4. Go back through the assigned reading materials to look for any insights
 
-If the above steps haven't solved your problem, send an email (or attend office hours) and include the following information:
+If the above steps haven't solved your problem, post on Slack (or attend office hours) and include the following information:
 
   1. A detailed description of what you're trying to do, why, and how
-  2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
+  2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code/tracebacks)
   3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
 
 We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your problem.
-
 
 
 
@@ -82,41 +77,39 @@ Copyrighted course reading materials are available via blackboard for enrolled s
 
 
 
-
 # Assignments and Evaluation
 
 Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week: please budget your time accordingly. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. See the schedule below for assignment due dates and see the "assignments" folder for instructions. Active participation is expected (and graded) in the classroom.
 
-Final grades will be assigned according to the following, for a total of 1000 points:
+Final grades will be weighted as follows:
 
-  - 200 points: 8 individual reading responses × 25 points each
-  - 300 points: 5 group assignments × 60 points each
-  - 200 points: midterm exam
-  - 200 points: final group project
-  - 100 points: active participation in classroom and team work
+  - 20%: eight individual reading responses
+  - 30%: five group assignments
+  - 20%: individual midterm exam
+  - 20%: final group project
+  - 10%: active participation in classroom/Slack and team work
 
-Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted 20% per day. Late final project submissions will not be accepted or graded. It is your responsibility to ensure that all submissions have gone through, so please visually confirm successful submission in the system.
+Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted one letter grade per day. Late final project submissions will not be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late. You can expect grades to be posted within two weeks. Grades are non-negotiable.
 
 Group assignments leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help us assign participation grades.
 
-Review the student handbook for expectations on academic integrity. In your reading responses (and all other homework), make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation, as in the example above. In other contexts, use a formal reference to make your citation clear.
-
+Review the student handbook for expectations on academic integrity. In your reading responses (and all other homework), make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
 
 
 
 # Schedule
 
-All reading materials are available on blackboard if no link is provided here.
-
-
-
 ## Module 1
 
-**Aug 20 - Welcome**
+**Aug 26 - Introduction**
+
+We introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework.
 
 Readings to be completed prior to class:
 
-  - JupyterLab user guide sections on the [interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) and the [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
+  - Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
+  - If you're on Windows, read [this guide](http://dosprompt.info/)'s "basics" and "folders" sections. If you're on Mac, read [this guide](https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855).
+  - Conda [user guide](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html)
 
 Pre-Survey
 
@@ -124,14 +117,15 @@ Pre-Survey
 
 ## Module 2
 
-**Aug 27 - Research design and data collection**
+**Sep 2 - Research design and data collection**
+
+We discuss basic concepts and terms in statistics, introduce research design, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
 Readings to be completed prior to class:
 
   - Wheelan, Naked Statistics, intro + ch. 1
-  - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
+  - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
   - Macdonald. The American Community Survey. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944360608976768). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944360608976768).
-  - *Optional* reading about census counts from [LA Times](https://www.latimes.com/california/story/2020-10-11/california-census-count-challenges)
 
 Reading response 1 due the night before class
 
@@ -141,17 +135,22 @@ Group assignment 1 due the following Wed
 
 ## Module 3
 
-**Sep 3 - Coding Bootcamp I**
+**Sep 9 - Coding Bootcamp I**
+
+We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
 Readings to be completed prior to class:
 
+  - JupyterLab user guide sections on the [interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) and the [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 
 
 ## Module 4
 
-**Sep 10 - Coding Bootcamp II**
+**Sep 16 - Coding Bootcamp II**
+
+We introduce the basics of Python control: using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
 Readings to be completed prior to class:
 
@@ -163,7 +162,9 @@ Group assignment 2 due the following Wed
 
 ## Module 5
 
-**Sep 17 - Data Cleaning and Descriptive Stats**
+**Sep 23 - Data Cleaning and Descriptive Stats**
+
+We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
 Readings to be completed prior to class:
 
@@ -176,7 +177,9 @@ Reading response 2 due the night before class
 
 ## Module 6
 
-**Sep 24 - Data Visualization**
+**Sep 30 - Data Visualization**
+
+We introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
 Readings to be completed prior to class:
 
@@ -191,7 +194,9 @@ Group assignment 3 due the following Wed
 
 ## Module 7
 
-**Oct 1 - Spatial Analysis and Mapping**
+**Oct 7 - Spatial Data**
+
+We introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
 
 Readings to be completed prior to class:
 
@@ -204,19 +209,25 @@ Group assignment 4 due the following Wed
 
 
 
+## Fall Recess
+
+**Oct 14 - No class**
+
+
+
 ## Module 8
 
-**Oct 8 - APIs**
+**Oct 21 - Qualitative Methods in Practice**
 
 Readings to be completed prior to class:
 
-  - Boeing, Off the Grid and Back Again. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2020.1819382). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2020.1819382).
+  - TBD
 
 
 
 ## Module 9
 
-**Oct 15 - Mid-Term Exam**
+**Oct 28 - Mid-Term Exam**
 
 Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
@@ -224,7 +235,9 @@ Exam will comprise a mix of multiple choice and short-answer questions, includin
 
 ## Module 10
 
-**Oct 22 - Social Science and the Scientific Method**
+**Nov 4 - Social Science and the Scientific Method**
+
+We introduce science, social science, the scientific method, inference, prediction and explanation, and instrumentalism.
 
 Readings to be completed prior to class:
 
@@ -236,7 +249,9 @@ Reading response 5 due the night before class
 
 ## Module 11
 
-**Oct 29 - Hypotheses, Inference, Confidence, Uncertainty**
+**Nov 11 - Inference and Uncertainty**
+
+We introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty.
 
 Readings to be completed prior to class:
 
@@ -251,7 +266,9 @@ Reading response 6 due the night before class
 
 ## Module 12
 
-**Nov 5 - Statistical Models**
+**Nov 18 - Statistical Models**
+
+We introduce specifying, estimating, interpreting, and reporting regression models.
 
 Readings to be completed prior to class:
 
@@ -264,9 +281,17 @@ Group assignment 5 due Nov 15
 
 
 
+## Thanksgiving Week
+
+**Nov 25 - No class**
+
+
+
 ## Module 13
 
-**Nov 12 - Smart Cities, Ethics, and Evidence-Based Planning**
+**Dec 2 - Smart Cities, Ethics, and Evidence-Based Planning**
+
+We introduce the social context and limitations of science as it applies to real-world urban planning practice, then consider the smart cities paradigm and the roles of civic tech, techno-utopianism, and ethics.
 
 Readings to be completed prior to class:
 
@@ -278,11 +303,9 @@ Reading response 8 due the night before class
 
 
 
-
 ## Exam Week
 
-**Nov 18 - Final Group Projects Due**
-
+**Dec 8 - Final Group Projects Due**
 
 
 
@@ -294,7 +317,9 @@ Any student requesting academic accommodations based on a disability or ongoing 
 
 ## Academic Conduct
 
-Plagiarism, presenting someone else's ideas as your own, either verbatim or recast in your own words, is a serious academic offense with serious consequences. Please familiarize yourself with the discussion of plagiarism in SCampus in Part B, Section 11, "Behavior Violating University Standards" https://policy.usc.edu/scampus/. Other forms of academic dishonesty are equally unacceptable. See additional information in SCampus and university policies on scientific misconduct, https://policy.usc.edu/scientific-misconduct.
+Recording a university class is forbidden without the express permission of the instructor and announcement to the class. Recording can inhibit future free discussion and thus infringe on the academic freedom of other students as well as the instructor.
+
+Plagiarism, presenting someone else's ideas as your own, either verbatim or recast in your own words, is a serious academic offense with serious consequences. Please familiarize yourself with the discussion of plagiarism in SCampus in Part B, Section 11, "Behavior Violating University Standards" https://policy.usc.edu/scampus-part-b. Other forms of academic dishonesty are equally unacceptable. See additional information in SCampus and university policies on scientific misconduct, https://policy.usc.edu/scientific-misconduct.
 
 ## Support Systems
 

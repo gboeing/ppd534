@@ -1,6 +1,4 @@
-# Module 2: Research design and data collection
-
-This week we will discuss basic concepts and terms in statistics. We will introduce the US census and its methods. Then we will discuss sources of data including the decennial census, the ACS, and government data portals.
+# Research Design and Data Collection
 
 Resources:
 
