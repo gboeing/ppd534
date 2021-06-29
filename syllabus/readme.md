@@ -37,7 +37,7 @@ The course has no specific prerequisites. Coding itself will be taught from the 
 
   - Write simple code to manipulate, analyze, and visualize urban data
   - Understand how to use basic descriptive and inferential statistics to evaluate and interpret social science evidence
-  - Tell stories using a combination of text and visuals about public issues using data and evidence
+  - Tell stories about public issues with a combination of text and visuals using data and evidence
   - Evaluate the politics and ethics underlying how technology and innovation impact cities and planning processes
 
 
@@ -55,15 +55,16 @@ If you have a question about class material, homework, or a coding/data problem:
 Given the nature of this course, we do expect a few things of you before you seek assistance with coding/data questions:
 
   1. Close all open programs, restart your computer, then try your task again
-  2. Search google and stackoverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
+  2. Search Google and StackOverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
   3. Go back through the relevant lecture materials to look for any insights
   4. Go back through the assigned reading materials to look for any insights
+  5. Ask your teammates if they have any insight
 
 If the above steps haven't solved your problem, post on Slack (or attend office hours) and include the following information:
 
   1. A detailed description of what you're trying to do, why, and how
   2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code/tracebacks)
-  3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
+  3. What you've already tried to do to solve your problem and what you have learned from it so far (specifically, explain the results of steps 1-4 above, including relevant links from StackOverflow etc)
 
 We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your problem.
 
@@ -73,7 +74,7 @@ We do not ask for this to be pedantic. Rather, we need it to be able to help you
 
 Coursework will be based on free open-source software.
 
-Copyrighted course reading materials are available via blackboard for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class.
+Copyrighted course reading materials are available via Blackboard for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class.
 
 
 
@@ -258,7 +259,7 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, ch. 8-10
   - Urdan, Statistics in Plain English, ch. 4-7. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
   - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
-  - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on blackboard) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
+  - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Blackboard) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
 Reading response 6 due the night before class
 

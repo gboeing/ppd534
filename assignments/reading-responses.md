@@ -1,5 +1,7 @@
 # Reading Responses
 
+See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 23:59 on their due date.
+
 ## Instructions
 
 These exercises ask you to reflect critically on the weekly reading material and come to class prepared to discuss. Each reading response should be submitted as a PDF file, 1 page long, single-spaced, composed in 12-point Times New Roman font. Submit it via Blackboard by 23:59 the day before class.

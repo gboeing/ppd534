@@ -1,31 +1,30 @@
-name: base
+name: ppd534
+
 channels:
   - conda-forge
-  - defaults
+
 dependencies:
   - beautifulsoup4
   - bokeh
-  - bottleneck
   - cartopy
-  - cython
+  - contextily
   - dill
   - folium
   - geopandas
   - jupyterlab
   - mapclassify
-  - networkx
   - nltk
-  - numexpr
-  - numpy
+  - openpyxl
   - osmnx
+  - pandana
+  - pandas
   - pillow
-  - pip
-  - pyproj
   - pysal
   - python == 3.*
   - rasterio
+  - rtree
+  - seaborn
   - scikit-learn
   - scipy
-  - seaborn
   - statsmodels
-  - textblob
+  - urbanaccess
