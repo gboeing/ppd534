@@ -218,19 +218,19 @@ Group assignment 4 due the following Wed
 
 ## Module 8
 
-**Oct 21 - Qualitative Methods in Practice**
+**Oct 21 - Mid-Term Exam**
 
-Readings to be completed prior to class:
-
-  - TBD
+Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
 
 
 ## Module 9
 
-**Oct 28 - Mid-Term Exam**
+**Oct 28 - Qualitative Methods in Practice**
 
-Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
+Readings to be completed prior to class:
+
+  - TBD
 
 
 
