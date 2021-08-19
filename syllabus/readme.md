@@ -14,7 +14,7 @@ Office hours: Tue 16:30-17:30, RGL 301A
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu/)
 
-TA: Kurt Wyatt (email: kdaum at usc dot edu; office hours: Wed 17:00-18:00, Zoom)
+TAs: Alycia Cheng (email: ascheng at usc dot edu; office hours: TBD), Jaehyun Ha (email: jaehyunh at usc dot edu; office hours: TBD)
 
 
 
