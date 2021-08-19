@@ -5,7 +5,7 @@ You need a laptop for this course, but all the required software is free and ope
 
 ## Get to know your terminal
 
-Your computer comes with a "terminal" app that lets you type commands for your computer to run (on Windows, the terminal is called "command prompt"). Before you complete the initial software setup below, make sure you have read Module 1's assigned readings on how to use the terminal.
+Your computer comes with a "terminal" app that lets you type commands for your computer to run (on Windows, the terminal is the "Anaconda command prompt"). Before you complete the initial software setup below, make sure you have read Module 1's assigned readings on how to use the terminal.
 
 
 ## Initial software setup
@@ -17,7 +17,7 @@ Install and configure the software by following the steps below.
 
 ### Step 1: Git
 
-Download and install [git](https://git-scm.com/downloads). Then, on your computer, open a terminal window, change directories to your desktop, and clone the course repo to your desktop by running the following command in your terminal:
+Download and install [git](https://git-scm.com/downloads). You can use the default options. Then, on your computer, open a terminal window, change directories to your desktop, and clone the course repo to your desktop by running the following command in your terminal:
 
 ```
 git clone https://github.com/gboeing/ppd534.git
