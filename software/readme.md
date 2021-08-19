@@ -40,7 +40,7 @@ conda activate ppd534
 python -m ipykernel install --sys-prefix --name ppd534 --display-name "Python (ppd534)"
 ```
 
-You now have a conda environment with all the packages needed for this course, and a Jupyter kernel installed in the environment.
+Some of these steps take a long time to execute. Just let it run until it's done. You now have a conda environment with all the packages needed for this course, and a Jupyter kernel installed in the environment.
 
 
 ## How to run Jupyter
