@@ -17,7 +17,7 @@ Install and configure the software by following the steps below.
 
 ### Step 1: Git
 
-Download and install [git](https://git-scm.com/downloads). You can use the default options. Then, on your computer, open a terminal window, change directories to your desktop, and clone the course repo to your desktop by running the following command in your terminal:
+Download and install [git](https://git-scm.com/downloads) (64-bit, use default options). Then, on your computer, open a terminal window, change directories to your desktop, and clone the course repo to your desktop by running the following command in your terminal:
 
 ```
 git clone https://github.com/gboeing/ppd534.git
@@ -28,7 +28,7 @@ You now have a `ppd534` folder on your desktop containing the course repo.
 
 ### Step 2: Conda
 
-Download and install [miniconda](https://docs.conda.io/en/latest/miniconda.html). Then open a terminal window (or Anaconda command prompt if on Windows), change directories to the `ppd534` folder on your desktop, and run the following commands, one at a time:
+Download and install [miniconda](https://docs.conda.io/en/latest/miniconda.html) (64-bit, use default options). Then open a terminal window (or Anaconda command prompt if on Windows), change directories to the `ppd534` folder on your desktop, and run the following commands, one at a time:
 
 ```
 git pull
