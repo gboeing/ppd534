@@ -1,4 +1,4 @@
-# Assignment 2: Coding Logic
+# Group Assignment 2: Coding Logic
 
 See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 23:59 on their due date. Group assignments need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
 
