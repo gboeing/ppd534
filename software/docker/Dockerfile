@@ -3,9 +3,6 @@
 #
 # Build image from this Dockerfile:
 # >>> bash docker-build.sh
-# >>> docker login
-# >>> docker tag gboeing/ppd534 gboeing/ppd534:latest
-# >>> docker push gboeing/ppd534
 #
 # Run Jupyter Lab in this container:
 # >>> docker run --rm -it -p 8888:8888 -v "$PWD":/home/jovyan/work gboeing/ppd534
