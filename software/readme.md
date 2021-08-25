@@ -15,16 +15,16 @@ At the beginning of the semester, you need to do a one-time setup process to ins
 Install and configure the software by following the steps below.
 
 
-### Step 1a: Rosetta Terminal (M1 Macs Only)
+### Step 0: (Only if you own a Mac with an M1 chip)
 
-If you are using a Mac with an M1 chip, you will need to create a copy of your terminal that emulates an x86 terminal. If you are not using an M1 Mac, skip ahead to Step 1b. If you do not know whether your Mac has an M1 chip or an Intel chip, the “Chip” field in System Information will tell you.
+If you are using a Mac with an M1 chip, you will need to create a copy of your terminal that emulates an x86 terminal. If you are not using an M1 Mac, skip ahead to Step 1. If you do not know whether your Mac has an M1 chip or an Intel chip, the "Chip" field in System Information will tell you.
 
-To create an emulated x86 terminal, go to Finder, find and control-click on Terminal, and select “Duplicate”. Name your duplicated terminal “Rosetta Terminal”. Rosetta is Apple’s x86 emulator. Control-click on Rosetta Terminal, select “Get Info”, and check the box that says “Open using Rosetta”. 
+To create an emulated x86 terminal, go to Finder, find and control-click on Terminal, and select "Duplicate". Name your duplicated terminal "Rosetta Terminal". Rosetta is Apple's x86 emulator. Control-click on Rosetta Terminal, select "Get Info", and check the box that says "Open using Rosetta".
 
-Make sure to only use Rosetta Terminal for the rest of the installation process and for future coursework. 
+Make sure to use only this Rosetta Terminal for the rest of the installation process and for all future coursework.
 
 
-### Step 1b: Git
+### Step 1: Git
 
 Download and install [git](https://git-scm.com/downloads) (64-bit, use default options). Then, on your computer, open a terminal window, change directories to your desktop, and clone the course repo to your desktop by running the following command in your terminal:
 
