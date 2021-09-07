@@ -14,7 +14,9 @@ Office hours: Tue 16:30-17:30, RGL 301A
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu/)
 
-TAs: Alycia Cheng (email: ascheng at usc dot edu; office hours: Thu 13:00-14:00pm, RGL 105 student lounge), Jaehyun Ha (email: jaehyunh at usc dot edu; office hours: Wed 13:00-14:00pm, RGL 105 student lounge)
+TAs:
+  - Alycia Cheng (email: ascheng at usc dot edu, office hours: Thu 13:00-14:00, RGL 105 student lounge)
+  - Jaehyun Ha (email: jaehyunh at usc dot edu, office hours: Wed 13:00-14:00, RGL 105 student lounge)
 
 
 
