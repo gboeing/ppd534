@@ -229,6 +229,8 @@ Exam will comprise a mix of multiple choice and short-answer questions, includin
 
 **Oct 28 - Qualitative Methods in Practice**
 
+Guest lecture by Marisa Turesky.
+
 Readings to be completed prior to class:
 
   - TBD
