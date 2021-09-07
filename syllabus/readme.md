@@ -94,8 +94,6 @@ Assignments must be submitted via Blackboard by 23:59 pacific time on their due 
 
 Group assignments leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help us assign participation grades.
 
-Review the student handbook for expectations on academic integrity. In your reading responses (and all other homework), make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
-
 
 
 # Schedule
@@ -321,6 +319,8 @@ Any student requesting academic accommodations based on a disability or ongoing 
 Recording a university class is forbidden without the express permission of the instructor and announcement to the class. Recording can inhibit future free discussion and thus infringe on the academic freedom of other students as well as the instructor.
 
 Plagiarism, presenting someone else's ideas as your own, either verbatim or recast in your own words, is a serious academic offense with serious consequences. Please familiarize yourself with the discussion of plagiarism in SCampus in Part B, Section 11, "Behavior Violating University Standards" https://policy.usc.edu/scampus-part-b. Other forms of academic dishonesty are equally unacceptable. See additional information in SCampus and university policies on scientific misconduct, https://policy.usc.edu/scientific-misconduct.
+
+Make sure you review the student handbook for expectations on academic integrity, and never commit [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). It is serious academic misconduct. In all your assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
 
 ## Support Systems
 
