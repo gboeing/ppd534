@@ -121,7 +121,7 @@ Pre-Survey
 
 **Sep 2 - Research design and data collection**
 
-We discuss basic concepts and terms in statistics, introduce research design, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
+We introduce research design including qualitative and quantitative methods, discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
 Readings to be completed prior to class:
 
@@ -181,7 +181,7 @@ Reading response 2 due the night before class
 
 **Sep 30 - Data Visualization**
 
-We introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
+We introduce the foundational concepts and best practices of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
 Readings to be completed prior to class:
 
@@ -198,7 +198,7 @@ Group assignment 3 due the following Wed
 
 **Oct 7 - Spatial Data**
 
-We introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
+We introduce the foundational concepts of loading spatial data, projecting them, analyzing them, and mapping them.
 
 Readings to be completed prior to class:
 
@@ -229,7 +229,7 @@ Exam will comprise a mix of multiple choice and short-answer questions, includin
 
 **Oct 28 - Qualitative Methods in Practice**
 
-Guest lecture by Marisa Turesky.
+We introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
 
 Readings to be completed prior to class:
 
@@ -241,7 +241,7 @@ Readings to be completed prior to class:
 
 **Nov 4 - Social Science and the Scientific Method**
 
-We introduce science, social science, the scientific method, inference, prediction and explanation, and instrumentalism.
+We introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
 
 Readings to be completed prior to class:
 
@@ -255,7 +255,7 @@ Reading response 5 due the night before class
 
 **Nov 11 - Inference and Uncertainty**
 
-We introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty.
+We introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty. We discuss the limitations of this framework and how other methods, such as qualitative research, can help us build knowledge.
 
 Readings to be completed prior to class:
 
@@ -295,7 +295,7 @@ Group assignment 5 due Nov 15
 
 **Dec 2 - Smart Cities, Ethics, and Evidence-Based Planning**
 
-We introduce the social context and limitations of science as it applies to real-world urban planning practice, then consider the smart cities paradigm and the roles of civic tech, techno-utopianism, and ethics.
+We introduce the social context and limitations of science as it applies to real-world urban planning practice, then critically engage the smart cities paradigm and the roles of civic tech, techno-utopianism, politics, power, and ethics. We discuss how qualitative and quantitative methods work together for evidence-based planning.
 
 Readings to be completed prior to class:
 
