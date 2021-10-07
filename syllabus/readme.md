@@ -233,7 +233,9 @@ We introduce qualitative methods including study design, implementation, qualita
 
 Readings to be completed prior to class:
 
-  - TBD
+  - Creswell, J. W. and Cheryl N. Poth. 2018 (4th  ed). "Chapter 2: Philosophical Assumptions and Interpretive Frameworks" in Qualitative Inquiry and Research Design: Choosing from Among Five Traditions . Thousand Oaks: Sage pp. 15-40.
+  - Isoke, Z. 2011. The politics of homemaking: Black feminist transformations of a cityscape. Transforming Anthropology, 19(2), 117-130.
+  - *Optional*: Miner, Horace. 1956. Body Ritual Among the Nacirema. De Gruyter.
 
 
 
