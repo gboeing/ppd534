@@ -1,6 +1,6 @@
 # Reading Responses
 
-See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 23:59 on their due date.
+See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 13:59 on their due date.
 
 ## Instructions
 
