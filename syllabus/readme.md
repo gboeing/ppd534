@@ -215,6 +215,8 @@ Reading response 4 due the night before class
 
 Group assignment 4 due October 13
 
+
+
 ## Module 8
 
 **Oct 21 - Mid-Term Exam**
@@ -289,6 +291,8 @@ Reading response 7 due before the start of class
 
 Group assignment 5 due Nov 24
 
+
+
 ## Module 13
 
 **Dec 2 - Smart Cities, Ethics, and Evidence-Based Planning**
@@ -303,11 +307,15 @@ Readings to be completed prior to class:
 
 Reading response 8 due before the start of class
 
+In class: complete course evaluations and group peer assessments
+
 
 
 ## Exam Week
 
 **Dec 8 - Final Group Projects Due**
+
+See the assignments folder for details and deadlines.
 
 
 
