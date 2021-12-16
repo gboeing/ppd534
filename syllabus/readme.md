@@ -1,6 +1,6 @@
 **Data, Evidence, and Communication for the Public Good**
 
-USC PPD534 / Fall 2021 / 4 units
+USC PPD534 / Fall 2022 / 4 units
 
 
 
@@ -93,9 +93,11 @@ Final grades will be weighted as follows:
   - 20%: final group project
   - 10%: active participation in classroom/Slack and team work
 
-Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted one letter grade per day. Late final project submissions will not be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late. You can expect grades to be posted within two weeks. Grades are non-negotiable.
+See the schedule below for due dates. Submit everything via Blackboard. Reading responses are due by 13:59:00 pacific time and group assignments/projects are due by 23:59:00 pacific time on their due dates. We will grant you a 24 hour, no questions asked, grace period to submit late without penalty. The submission window closes completely after this grace period and no further submissions will be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late.
 
-Group assignments leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help us assign participation grades.
+Grades in this course represent holistic qualitative assessments of your performance relative to both the assignments' instructions as well as your peers' performance given the same instructions and time. Grades are non-negotiable. You can expect grades to be posted within two weeks of the assignment's due date.
+
+Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help me assign participation grades.
 
 
 
@@ -129,9 +131,7 @@ Readings to be completed prior to class:
   - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
   - Macdonald. The American Community Survey. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944360608976768). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944360608976768).
 
-Reading response 1 due the night before class
-
-Group assignment 1 due the following Wed
+Reading response 1 due the day before class.
 
 
 
@@ -146,6 +146,8 @@ Readings to be completed prior to class:
   - JupyterLab user guide sections on the [interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) and the [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
+Group assignment 1 due the day before class.
+
 
 
 ## Module 4
@@ -157,8 +159,6 @@ We introduce the basics of Python control: using loops, conditionals, and functi
 Readings to be completed prior to class:
 
   - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
-
-Group assignment 2 due the following Wed
 
 
 
@@ -173,7 +173,7 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, ch. 2-3
   - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
-Reading response 2 due the night before class
+Reading response 2 due the day before class. Group assignment 2 due the day before class.
 
 
 
@@ -188,9 +188,7 @@ Readings to be completed prior to class:
   - Tufte, Visual Display of Quantitative Information, ch. 1-3
   - Rost, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
 
-Reading response 3 due the night before class
-
-Group assignment 3 due the following Wed
+Reading response 3 due the day before class.
 
 
 
@@ -205,7 +203,7 @@ Readings to be completed prior to class:
   - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
   - Wheelan, Naked Statistics, ch. 5, 7
 
-Reading response 4 due the night before class
+Reading response 4 due the night before class. Group assignment 3 due the day before class.
 
 
 
@@ -213,7 +211,9 @@ Reading response 4 due the night before class
 
 **Oct 14 - No class**
 
-Group assignment 4 due October 13
+Group assignment 4 due the day before class.
+
+
 
 
 
@@ -249,7 +249,7 @@ Readings to be completed prior to class:
 
   - Okasha, Philosophy of Science, ch. 1-4
 
-Reading response 5 due before the start of class
+Reading response 5 due the day before class.
 
 
 
@@ -266,7 +266,7 @@ Readings to be completed prior to class:
   - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
   - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Blackboard) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
-Reading response 6 due before the start of class
+Reading response 6 due the day before class.
 
 
 
@@ -281,7 +281,7 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, ch. 4 + 11-13
   - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
-Reading response 7 due before the start of class
+Reading response 7 due the day before class.
 
 
 
@@ -289,7 +289,9 @@ Reading response 7 due before the start of class
 
 **Nov 25 - No class**
 
-Group assignment 5 due Nov 24
+Group assignment 5 due the day before class.
+
+
 
 
 
@@ -305,7 +307,7 @@ Readings to be completed prior to class:
   - Kitchin, The Ethics of Smart Cities and Urban Science. [Direct link](https://doi.org/10.1098/rsta.2016.0115). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1098/rsta.2016.0115).
   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
-Reading response 8 due before the start of class
+Reading response 8 due the day before class.
 
 In class: complete course evaluations and group peer assessments
 
@@ -327,7 +329,7 @@ Any student requesting academic accommodations based on a disability or ongoing 
 
 ## Academic Conduct
 
-Recording a university class is forbidden without the express permission of the instructor and announcement to the class. Recording can inhibit future free discussion and thus infringe on the academic freedom of other students as well as the instructor.
+Recording a university class in any form is forbidden without the express written permission of the instructor and announcement to the class. Recording can inhibit future free discussion and thus infringe on the academic freedom of other students as well as the instructor.
 
 Plagiarism, presenting someone else's ideas as your own, either verbatim or recast in your own words, is a serious academic offense with serious consequences. Please familiarize yourself with the discussion of plagiarism in SCampus in Part B, Section 11, "Behavior Violating University Standards" https://policy.usc.edu/scampus-part-b. Other forms of academic dishonesty are equally unacceptable. See additional information in SCampus and university policies on scientific misconduct, https://policy.usc.edu/scientific-misconduct.
 

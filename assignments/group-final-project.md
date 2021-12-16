@@ -1,6 +1,6 @@
 # Final Project
 
-See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 23:59 on their due date. Group assignments need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
+See the schedule in the syllabus for all assignment due dates and expectations. Group assignments need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
 
 ## Overview
 
@@ -24,4 +24,4 @@ Write a narrative paper (illustrated with your data visualizations) telling the 
 
 ## Submission
 
-See syllabus for due date. Via Blackboard, submit a zip file containing the narrative (as PDF), your visualization and map image files, web maps (if any), and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Late final project submissions will not be accepted or graded, so try to submit a little early just to be safe.
+Via Blackboard, submit a zip file containing the narrative (as PDF), your visualization and map image files, web maps (if any), and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline.
