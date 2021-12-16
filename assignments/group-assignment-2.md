@@ -1,6 +1,6 @@
 # Group Assignment 2: Coding Logic
 
-See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 23:59 on their due date. Group assignments need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
+See the schedule in the syllabus for all assignment due dates and expectations. Group assignments need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
 
 1. You will create your first complete Jupyter notebook in order to work with loops, conditionals, iteration, and functions. Review *Think Python* section 4.8 to develop a plan and section 6.2 on incremental development. Also review the code in the notebook from this class session.
 2. You will write four functions to work with prime numbers. A prime number is any whole number greater than 1 that has no positive divisors besides 1 and itself. So, a prime number a) must be an integer, b) must be greater than 1, and c) must be divisible only by 1 and itself.
