@@ -1,3 +1,4 @@
+.DS_Store
 *.pdf
 *.png
 !modules/module07/img/utm_zones.png
