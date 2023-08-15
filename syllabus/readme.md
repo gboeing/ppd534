@@ -1,6 +1,6 @@
 **Data, Evidence, and Communication for the Public Good**
 
-USC PPD534 / Fall 2022 / 4 units
+USC PPD534 / Fall 2023 / 4 units
 
 
 
@@ -10,14 +10,13 @@ USC PPD534 / Fall 2022 / 4 units
 
 Email: boeing at usc dot edu
 
-Office hours: Tue 16:30-17:30, RGL 301A
+Office hours: Mon 12:00-13:00, RGL 301A
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu/)
 
-TAs:
+TA:
 
-  - Alycia Cheng (email: ascheng at usc dot edu, office hours: Thu 13:00-14:00, RGL 105 student lounge)
-  - Jaehyun Ha (email: jaehyunh at usc dot edu, office hours: Wed 13:00-14:00, RGL 105 student lounge)
+  - Wendy Zhou (email: yuquanzh at usc dot edu, office hours: TBD, location)
 
 
 
@@ -105,7 +104,7 @@ Group exercises leverage your diversity of skills and life experiences. We expec
 
 ## Module 1
 
-**Aug 26 - Introduction**
+**Aug 22 - Introduction**
 
 We introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework.
 
@@ -121,7 +120,7 @@ Pre-Survey
 
 ## Module 2
 
-**Sep 2 - Research design and data collection**
+**Aug 29 - Research design and data collection**
 
 We introduce research design including qualitative and quantitative methods, discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
@@ -137,7 +136,7 @@ Reading response 1 due the day before class.
 
 ## Module 3
 
-**Sep 9 - Coding Bootcamp I**
+**Sep 5 - Coding Bootcamp I**
 
 We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
@@ -152,7 +151,7 @@ Group assignment 1 due the day before class.
 
 ## Module 4
 
-**Sep 16 - Coding Bootcamp II**
+**Sep 12 - Coding Bootcamp II**
 
 We introduce the basics of Python control: using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
@@ -164,7 +163,7 @@ Readings to be completed prior to class:
 
 ## Module 5
 
-**Sep 23 - Data Cleaning and Descriptive Stats**
+**Sep 19 - Data Cleaning and Descriptive Stats**
 
 We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
@@ -179,7 +178,7 @@ Reading response 2 due the day before class. Group assignment 2 due the day befo
 
 ## Module 6
 
-**Sep 30 - Data Visualization**
+**Sep 26 - Data Visualization**
 
 We introduce the foundational concepts and best practices of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
@@ -194,7 +193,7 @@ Reading response 3 due the day before class.
 
 ## Module 7
 
-**Oct 7 - Spatial Data**
+**Oct 3 - Spatial Data**
 
 We introduce the foundational concepts of loading spatial data, projecting them, analyzing them, and mapping them.
 
@@ -207,19 +206,17 @@ Reading response 4 due the night before class. Group assignment 3 due the day be
 
 
 
-## Fall Recess
+## Workshop Day
 
-**Oct 14 - No class**
+**Oct 10 - Workshop Day**
 
 Group assignment 4 due the day before class.
 
 
 
-
-
 ## Module 8
 
-**Oct 21 - Mid-Term Exam**
+**Oct 17 - Mid-Term Exam**
 
 Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
@@ -227,21 +224,27 @@ Exam will comprise a mix of multiple choice and short-answer questions, includin
 
 ## Module 9
 
-**Oct 28 - Qualitative Methods in Practice**
+**Oct 24 - Qualitative Methods in Practice**
 
 We introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
 
 Readings to be completed prior to class:
 
-  - Creswell, J. W. and Cheryl N. Poth. 2018 (4th  ed). "Chapter 2: Philosophical Assumptions and Interpretive Frameworks" in Qualitative Inquiry and Research Design: Choosing from Among Five Traditions . Thousand Oaks: Sage pp. 15-40.
-  - Isoke, Z. 2011. The politics of homemaking: Black feminist transformations of a cityscape. Transforming Anthropology, 19(2), 117-130.
-  - *Optional*: Miner, Horace. 1956. Body Ritual Among the Nacirema. De Gruyter.
+  - TBD
+
+
+
+## No class
+
+**Oct 31 - No class**
+
+TBD
 
 
 
 ## Module 10
 
-**Nov 4 - Social Science and the Scientific Method**
+**Nov 7 - Social Science and the Scientific Method**
 
 We introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
 
@@ -255,7 +258,7 @@ Reading response 5 due the day before class.
 
 ## Module 11
 
-**Nov 11 - Inference and Uncertainty**
+**Nov 14 - Inference and Uncertainty**
 
 We introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty. We discuss the limitations of this framework and how other methods, such as qualitative research, can help us build knowledge.
 
@@ -272,7 +275,7 @@ Reading response 6 due the day before class.
 
 ## Module 12
 
-**Nov 18 - Statistical Models**
+**Nov 21 - Statistical Models**
 
 We introduce specifying, estimating, interpreting, and reporting regression models.
 
@@ -285,19 +288,9 @@ Reading response 7 due the day before class.
 
 
 
-## Thanksgiving Week
-
-**Nov 25 - No class**
-
-Group assignment 5 due the day before class.
-
-
-
-
-
 ## Module 13
 
-**Dec 2 - Smart Cities, Ethics, and Evidence-Based Planning**
+**Nov 28 - Smart Cities, Ethics, and Evidence-Based Planning**
 
 We introduce the social context and limitations of science as it applies to real-world urban planning practice, then critically engage the smart cities paradigm and the roles of civic tech, techno-utopianism, politics, power, and ethics. We discuss how qualitative and quantitative methods work together for evidence-based planning.
 
@@ -309,13 +302,15 @@ Readings to be completed prior to class:
 
 Reading response 8 due the day before class.
 
+Group assignment 5 due the day before class.
+
 In class: complete course evaluations and group peer assessments
 
 
 
 ## Exam Week
 
-**Dec 8 - Final Group Projects Due**
+**Dec 5 - Final Group Projects Due**
 
 See the assignments folder for details and deadlines.
 
