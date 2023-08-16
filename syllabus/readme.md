@@ -230,15 +230,15 @@ We introduce qualitative methods including study design, implementation, qualita
 
 Readings to be completed prior to class:
 
-  - TBD
+  - T.B.D.
+
+Reading response 5 due the day before class.
 
 
 
 ## No class
 
 **Oct 31 - No class**
-
-TBD
 
 
 
@@ -252,7 +252,7 @@ Readings to be completed prior to class:
 
   - Okasha, Philosophy of Science, ch. 1-4
 
-Reading response 5 due the day before class.
+Reading response 6 due the day before class.
 
 
 
@@ -269,7 +269,7 @@ Readings to be completed prior to class:
   - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
   - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Blackboard) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
-Reading response 6 due the day before class.
+Reading response 7 due the day before class.
 
 
 
@@ -284,7 +284,7 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, ch. 4 + 11-13
   - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
-Reading response 7 due the day before class.
+Reading response 8 due the day before class.
 
 
 
@@ -299,8 +299,6 @@ Readings to be completed prior to class:
   - Okasha, Philosophy of Science, ch. 5, 7
   - Kitchin, The Ethics of Smart Cities and Urban Science. [Direct link](https://doi.org/10.1098/rsta.2016.0115). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1098/rsta.2016.0115).
   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
-
-Reading response 8 due the day before class.
 
 Group assignment 5 due the day before class.
 
