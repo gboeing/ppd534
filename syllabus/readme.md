@@ -10,9 +10,9 @@ USC PPD534 / Fall 2023 / 4 units
 
 Email: boeing at usc dot edu
 
-Office hours: Mon 12:00-13:00, RGL 301A
+Office hours: Mon 12:30-13:30, RGL 301A
 
-Classroom location and meeting times are [listed online](https://classes.usc.edu/)
+Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
 TA:
 
@@ -92,9 +92,9 @@ Final grades will be weighted as follows:
   - 20%: final group project
   - 10%: active participation in classroom/Slack and team work
 
-See the schedule below for due dates. Submit everything via Blackboard. Reading responses are due by 13:59:00 pacific time and group assignments/projects are due by 23:59:00 pacific time on their due dates. We will grant you a 24 hour, no questions asked, grace period to submit late without penalty. The submission window closes completely after this grace period and no further submissions will be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT well before it is due. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late.
+See the schedule below for due dates. Submit everything via Blackboard. Assignments are due by 23:59:00 pacific time on their stated due dates. Late submissions are deducted 25% per day late. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT well before it is due. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please doubly confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late. Note that late final project submissions will not be accepted or graded.
 
-Grades in this course reflect your demonstrated understanding of and competency with the material. They do not necessarily reflect the amount of time or effort you put in (consider: if the course were easy for you and you quickly completed the assignments perfectly, you wouldn't want a D just because you didn't have to expend much effort). Grades also account for your adherence to the assignments' instructions and your peers' performance given the same instructions and time. Grades are non-negotiable. You can expect them to be posted within two weeks of the assignment's due date.
+Grades in this course reflect how you have demonstrated and communicated your understanding of and competency in the material. They account for your adherence to the assignments' instructions and your peers' performance given the same instructions and time. Grades do not necessarily reflect the amount of time or effort you put in, because we cannot observe you 24 hours a day to monitor your time and effort. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and consider seeking tutoring. Grades are non-negotiable. You can expect them to be posted within two weeks of the assignment's due date.
 
 Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help me assign participation grades.
 
@@ -111,8 +111,7 @@ We introduce the course, the syllabus, the semester's expectations and schedule,
 Readings to be completed prior to class:
 
   - Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
-  - If you're on Windows, read [this guide](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/). If you're on Mac, read [this guide](https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855).
-  - Conda [user guide](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html)
+  - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
 Pre-Survey
 
@@ -320,7 +319,9 @@ See the assignments folder for details and deadlines.
 
 USC welcomes students with disabilities into all of the University's educational programs. The Office of Student Accessibility Services (OSAS) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at OSAS's [web site](https://osas.usc.edu/). You may contact OSAS at (213) 740-0776 or via email at osasfrontdesk@usc.edu.
 
-To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with official LOAs. If you need to request a *one-time emergency* extension to an assignment (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, explaining that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
+To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with official LOAs. If you need to request a *one-time emergency* extension to an assignment (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, explaining why you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
+
+Course content and classroom discussion may deal with topics that you find difficult or upsetting but are relevant to the course. It is your responsibility to review the syllabus to be aware of upcoming content so you can prepare for it adequately. Contact OSAS for an LOA if you require an accommodation.
 
 ## Academic Conduct
 
@@ -331,6 +332,8 @@ The University of Southern California is foremost a learning community committed
 This course will follow the expectations for academic integrity as stated in the USC Student Handbook. All students are expected to submit assignments that are original work and prepared specifically for the course/section in this academic term. You may not submit work written by others or "recycle" work prepared for other courses without obtaining written permission from the instructor(s). Students suspected of engaging in academic misconduct will be reported to the Office of Academic Integrity. Other violations of academic misconduct include, but are not limited to, cheating, plagiarism, fabrication (e.g., falsifying data), knowingly assisting others in acts of academic dishonesty, and any act that gains or is intended to gain an unfair academic advantage. The impact of academic dishonesty is far-reaching and is considered a serious offense against the university and could result in outcomes such as failure on the assignment, failure in the course, suspension, or even expulsion from the university. For more information about academic integrity see the student handbook or the Office of Academic Integrity's website, and university policies on Research and Scholarship Misconduct.
 
 Make sure you review the student handbook for expectations on academic integrity, and never commit [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). It is serious academic misconduct. In all your assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
+
+Content generated from AI, machine learning, or similar algorithmic tools cannot be submitted in this course. A violation of this policy constitutes academic misconduct.
 
 ## Support Systems
 
