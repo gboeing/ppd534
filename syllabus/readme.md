@@ -14,9 +14,10 @@ Office hours: Mon 12:30-13:30, RGL 301A
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
-TA:
+TAs:
 
   - Wendy Zhou (email: yuquanzh at usc dot edu, office hours: TBD, location)
+  - Jessica Kweon (email: kweony at usc dot edu, office hours: TBD, location)
 
 
 
