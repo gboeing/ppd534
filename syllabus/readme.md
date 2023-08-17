@@ -1,6 +1,6 @@
 **Data, Evidence, and Communication for the Public Good**
 
-USC PPD534 / Fall 2022 / 4 units
+USC PPD534 / Fall 2023 / 4 units
 
 
 
@@ -10,14 +10,13 @@ USC PPD534 / Fall 2022 / 4 units
 
 Email: boeing at usc dot edu
 
-Office hours: Tue 16:30-17:30, RGL 301A
+Office hours: Mon 12:30-13:30, RGL 301A
 
-Classroom location and meeting times are [listed online](https://classes.usc.edu/)
+Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
-TAs:
+TA:
 
-  - Alycia Cheng (email: ascheng at usc dot edu, office hours: Thu 13:00-14:00, RGL 105 student lounge)
-  - Jaehyun Ha (email: jaehyunh at usc dot edu, office hours: Wed 13:00-14:00, RGL 105 student lounge)
+  - Wendy Zhou (email: yuquanzh at usc dot edu, office hours: TBD, location)
 
 
 
@@ -93,9 +92,9 @@ Final grades will be weighted as follows:
   - 20%: final group project
   - 10%: active participation in classroom/Slack and team work
 
-See the schedule below for due dates. Submit everything via Blackboard. Reading responses are due by 13:59:00 pacific time and group assignments/projects are due by 23:59:00 pacific time on their due dates. We will grant you a 24 hour, no questions asked, grace period to submit late without penalty. The submission window closes completely after this grace period and no further submissions will be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT well before it is due. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late.
+See the schedule below for due dates. Submit everything via Blackboard. Assignments are due by 23:59:00 pacific time on their stated due dates. Late submissions are deducted 25% per day late. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT well before it is due. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please doubly confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late. Note that late final project submissions will not be accepted or graded.
 
-Grades in this course reflect your demonstrated understanding of and competency with the material. They do not necessarily reflect the amount of time or effort you put in (consider: if the course were easy for you and you quickly completed the assignments perfectly, you wouldn't want a D just because you didn't have to expend much effort). Grades also account for your adherence to the assignments' instructions and your peers' performance given the same instructions and time. Grades are non-negotiable. You can expect them to be posted within two weeks of the assignment's due date.
+Grades in this course reflect how you have demonstrated and communicated your understanding of and competency in the material. They account for your adherence to the assignments' instructions and your peers' performance given the same instructions and time. Grades do not necessarily reflect the amount of time or effort you put in, because we cannot observe you 24 hours a day to monitor your time and effort. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and consider seeking tutoring. Grades are non-negotiable. You can expect them to be posted within two weeks of the assignment's due date.
 
 Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help me assign participation grades.
 
@@ -105,15 +104,14 @@ Group exercises leverage your diversity of skills and life experiences. We expec
 
 ## Module 1
 
-**Aug 26 - Introduction**
+**Aug 22 - Introduction**
 
 We introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework.
 
 Readings to be completed prior to class:
 
   - Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
-  - If you're on Windows, read [this guide](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/). If you're on Mac, read [this guide](https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855).
-  - Conda [user guide](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html)
+  - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
 Pre-Survey
 
@@ -121,7 +119,7 @@ Pre-Survey
 
 ## Module 2
 
-**Sep 2 - Research design and data collection**
+**Aug 29 - Research design and data collection**
 
 We introduce research design including qualitative and quantitative methods, discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
@@ -137,7 +135,7 @@ Reading response 1 due the day before class.
 
 ## Module 3
 
-**Sep 9 - Coding Bootcamp I**
+**Sep 5 - Coding Bootcamp I**
 
 We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
@@ -152,7 +150,7 @@ Group assignment 1 due the day before class.
 
 ## Module 4
 
-**Sep 16 - Coding Bootcamp II**
+**Sep 12 - Coding Bootcamp II**
 
 We introduce the basics of Python control: using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
@@ -164,7 +162,7 @@ Readings to be completed prior to class:
 
 ## Module 5
 
-**Sep 23 - Data Cleaning and Descriptive Stats**
+**Sep 19 - Data Cleaning and Descriptive Stats**
 
 We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
@@ -179,7 +177,7 @@ Reading response 2 due the day before class. Group assignment 2 due the day befo
 
 ## Module 6
 
-**Sep 30 - Data Visualization**
+**Sep 26 - Data Visualization**
 
 We introduce the foundational concepts and best practices of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
@@ -194,7 +192,7 @@ Reading response 3 due the day before class.
 
 ## Module 7
 
-**Oct 7 - Spatial Data**
+**Oct 3 - Spatial Data**
 
 We introduce the foundational concepts of loading spatial data, projecting them, analyzing them, and mapping them.
 
@@ -207,19 +205,17 @@ Reading response 4 due the night before class. Group assignment 3 due the day be
 
 
 
-## Fall Recess
+## Workshop Day
 
-**Oct 14 - No class**
+**Oct 10 - Workshop Day**
 
 Group assignment 4 due the day before class.
 
 
 
-
-
 ## Module 8
 
-**Oct 21 - Mid-Term Exam**
+**Oct 17 - Mid-Term Exam**
 
 Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
@@ -227,21 +223,27 @@ Exam will comprise a mix of multiple choice and short-answer questions, includin
 
 ## Module 9
 
-**Oct 28 - Qualitative Methods in Practice**
+**Oct 24 - Qualitative Methods in Practice**
 
 We introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
 
 Readings to be completed prior to class:
 
-  - Creswell, J. W. and Cheryl N. Poth. 2018 (4th  ed). "Chapter 2: Philosophical Assumptions and Interpretive Frameworks" in Qualitative Inquiry and Research Design: Choosing from Among Five Traditions . Thousand Oaks: Sage pp. 15-40.
-  - Isoke, Z. 2011. The politics of homemaking: Black feminist transformations of a cityscape. Transforming Anthropology, 19(2), 117-130.
-  - *Optional*: Miner, Horace. 1956. Body Ritual Among the Nacirema. De Gruyter.
+  - T.B.D.
+
+Reading response 5 due the day before class.
+
+
+
+## No class
+
+**Oct 31 - No class**
 
 
 
 ## Module 10
 
-**Nov 4 - Social Science and the Scientific Method**
+**Nov 7 - Social Science and the Scientific Method**
 
 We introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
 
@@ -249,13 +251,13 @@ Readings to be completed prior to class:
 
   - Okasha, Philosophy of Science, ch. 1-4
 
-Reading response 5 due the day before class.
+Reading response 6 due the day before class.
 
 
 
 ## Module 11
 
-**Nov 11 - Inference and Uncertainty**
+**Nov 14 - Inference and Uncertainty**
 
 We introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty. We discuss the limitations of this framework and how other methods, such as qualitative research, can help us build knowledge.
 
@@ -266,13 +268,13 @@ Readings to be completed prior to class:
   - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
   - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Blackboard) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
-Reading response 6 due the day before class.
+Reading response 7 due the day before class.
 
 
 
 ## Module 12
 
-**Nov 18 - Statistical Models**
+**Nov 21 - Statistical Models**
 
 We introduce specifying, estimating, interpreting, and reporting regression models.
 
@@ -281,23 +283,13 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, ch. 4 + 11-13
   - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
-Reading response 7 due the day before class.
-
-
-
-## Thanksgiving Week
-
-**Nov 25 - No class**
-
-Group assignment 5 due the day before class.
-
-
+Reading response 8 due the day before class.
 
 
 
 ## Module 13
 
-**Dec 2 - Smart Cities, Ethics, and Evidence-Based Planning**
+**Nov 28 - Smart Cities, Ethics, and Evidence-Based Planning**
 
 We introduce the social context and limitations of science as it applies to real-world urban planning practice, then critically engage the smart cities paradigm and the roles of civic tech, techno-utopianism, politics, power, and ethics. We discuss how qualitative and quantitative methods work together for evidence-based planning.
 
@@ -307,7 +299,7 @@ Readings to be completed prior to class:
   - Kitchin, The Ethics of Smart Cities and Urban Science. [Direct link](https://doi.org/10.1098/rsta.2016.0115). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1098/rsta.2016.0115).
   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
-Reading response 8 due the day before class.
+Group assignment 5 due the day before class.
 
 In class: complete course evaluations and group peer assessments
 
@@ -315,7 +307,7 @@ In class: complete course evaluations and group peer assessments
 
 ## Exam Week
 
-**Dec 8 - Final Group Projects Due**
+**Dec 5 - Final Group Projects Due**
 
 See the assignments folder for details and deadlines.
 
@@ -327,7 +319,9 @@ See the assignments folder for details and deadlines.
 
 USC welcomes students with disabilities into all of the University's educational programs. The Office of Student Accessibility Services (OSAS) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at OSAS's [web site](https://osas.usc.edu/). You may contact OSAS at (213) 740-0776 or via email at osasfrontdesk@usc.edu.
 
-To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with official LOAs. If you need to request a *one-time emergency* extension to an assignment (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, explaining that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
+To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with official LOAs. If you need to request a *one-time emergency* extension to an assignment (e.g., due to a major illness or to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, explaining why you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
+
+Course content and classroom discussion may deal with topics that you find difficult or upsetting but are relevant to the course. It is your responsibility to review the syllabus to be aware of upcoming content so you can prepare for it adequately. Contact OSAS for an LOA if you require an accommodation.
 
 ## Academic Conduct
 
@@ -338,6 +332,8 @@ The University of Southern California is foremost a learning community committed
 This course will follow the expectations for academic integrity as stated in the USC Student Handbook. All students are expected to submit assignments that are original work and prepared specifically for the course/section in this academic term. You may not submit work written by others or "recycle" work prepared for other courses without obtaining written permission from the instructor(s). Students suspected of engaging in academic misconduct will be reported to the Office of Academic Integrity. Other violations of academic misconduct include, but are not limited to, cheating, plagiarism, fabrication (e.g., falsifying data), knowingly assisting others in acts of academic dishonesty, and any act that gains or is intended to gain an unfair academic advantage. The impact of academic dishonesty is far-reaching and is considered a serious offense against the university and could result in outcomes such as failure on the assignment, failure in the course, suspension, or even expulsion from the university. For more information about academic integrity see the student handbook or the Office of Academic Integrity's website, and university policies on Research and Scholarship Misconduct.
 
 Make sure you review the student handbook for expectations on academic integrity, and never commit [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). It is serious academic misconduct. In all your assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
+
+Content generated from AI, machine learning, or similar algorithmic tools cannot be submitted in this course. A violation of this policy constitutes academic misconduct.
 
 ## Support Systems
 

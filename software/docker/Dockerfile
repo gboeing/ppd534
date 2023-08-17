@@ -11,19 +11,18 @@
 FROM jupyter/base-notebook
 LABEL maintainer="Geoff Boeing <boeing@usc.edu>"
 LABEL url="https://github.com/gboeing/ppd534"
+LABEL description="USC PPD534 course Docker image"
 
 COPY requirements.txt /tmp/
 
-# configure conda and install packages in one RUN to keep image tidy
-RUN conda config --set show_channel_urls true && \
-    conda config --set channel_priority strict && \
-    conda config --prepend channels conda-forge && \
-    conda update --yes -n base conda && \
-    conda install --update-all --force-reinstall --yes --file /tmp/requirements.txt && \
+# install packages in one RUN to keep image tidy
+RUN mamba update --yes -c conda-forge --strict-channel-priority --no-banner -n base mamba && \
+    mamba install --update-all --force-reinstall --yes -c conda-forge --strict-channel-priority --no-banner --file /tmp/requirements.txt && \
+    rm -f -r -v /opt/conda/share/jupyter/kernels/python3 && \
     python -m ipykernel install --sys-prefix --name ppd534 --display-name "Python (ppd534)" && \
-    conda clean --all --yes && \
-    conda info --all && \
-    conda list && \
+    mamba clean --all --yes --quiet --no-banner && \
+    mamba info --all && \
+    mamba list && \
     jupyter kernelspec list && \
     ipython -c "import osmnx; print('OSMnx version', osmnx.__version__)"
 

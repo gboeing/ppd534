@@ -4,28 +4,14 @@ channels:
   - conda-forge
 
 dependencies:
-  - beautifulsoup4
-  - bokeh
-  - cartopy
-  - cenpy
-  - contextily
-  - dill
-  - folium
   - geopandas
   - jupyterlab
   - mapclassify
-  - nltk
-  - openpyxl
+  - numpy
   - osmnx
-  - pandana
   - pandas
-  - pillow
-  - pysal
   - python == 3.*
-  - rasterio
-  - rtree
   - seaborn
-  - scikit-learn
   - scipy
+  - shapely
   - statsmodels
-  - urbanaccess

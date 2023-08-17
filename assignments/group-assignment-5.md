@@ -11,4 +11,4 @@ Each step above should be followed by a markdown cell that succinctly explains y
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
-Make sure your notebook runs from the top without any errors and that all the visuals/output can be seen inline (without me having to re-run it). Restart your kernel, run all cells, then save/submit your notebook and any data files, zipped, via Blackboard.
+Make sure your notebook runs from the top without any errors and that all the visuals can be seen inline (without me having to re-run your notebook). Click "Edit > Clear all outputs" and then "Runtime > Restart runtime". This clears your memory and re-initializes your notebook. Then click "Runtime > Run all" and make sure everything behaves properly. Then save and submit your notebook and any data files, all zipped together, via Blackboard.
