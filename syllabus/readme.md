@@ -16,7 +16,7 @@ Classroom location and meeting times are [listed online](https://classes.usc.edu
 
 TAs:
 
-  - Wendy Zhou (email: yuquanzh at usc dot edu, office hours: TBD, location)
+  - Wendy Zhou (email: yuquanzh at usc dot edu, office hours: Wed 12:30-13:30, RGL student lounge)
   - Jessica Kweon (email: kweony at usc dot edu, office hours: TBD, location)
 
 
