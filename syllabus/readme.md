@@ -142,7 +142,7 @@ We introduce the basics of Python, a powerful programming language for data anal
 
 Readings to be completed prior to class:
 
-  - JupyterLab user guide sections on the [interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) and the [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
+  - Review the readings from module 1
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 Group assignment 1 due the day before class.
