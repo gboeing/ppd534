@@ -33,7 +33,7 @@ What are the ethical implications of spatial data visualization and why does Gim
 
 ### Reading Response 5
 
-T.B.D.
+Why do Acolin and Kim argue that qualitative methods are important? Desmond's book chapters present a very different style of eviction research than the Eviction Lab's data visualizations do. Which do you find more compelling, and why?
 
 ### Reading Response 6
 
