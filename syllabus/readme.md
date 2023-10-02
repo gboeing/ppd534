@@ -210,7 +210,7 @@ Reading response 4 due the night before class. Group assignment 3 due the day be
 
 **Oct 10 - Workshop Day**
 
-Group assignment 4 due the day before class.
+Group assignment 4 due the day of class.
 
 
 
