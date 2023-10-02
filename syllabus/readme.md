@@ -202,7 +202,7 @@ Readings to be completed prior to class:
   - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
   - Wheelan, Naked Statistics, ch. 5, 7
 
-Reading response 4 due the night before class. Group assignment 3 due the day before class.
+Reading response 4 due the day before class. Group assignment 3 due the day before class.
 
 
 
