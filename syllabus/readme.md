@@ -1,6 +1,6 @@
 **Data, Evidence, and Communication for the Public Good**
 
-USC PPD534 / Fall 2023 / 4 units
+USC PPD534 / Fall 2024 / 4 units
 
 
 
@@ -10,14 +10,14 @@ USC PPD534 / Fall 2023 / 4 units
 
 Email: boeing at usc dot edu
 
-Office hours: Tue 12:30-13:30, RGL 301A
+Office hours: Tue 13:00-14:00, RGL 301A
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
 TAs:
 
-  - Wendy Zhou (email: yuquanzh at usc dot edu, office hours: Wed 12:30-13:30, RGL student lounge)
-  - Jessica Kweon (email: kweony at usc dot edu, office hours: Mon 12:30-13:30, RGL student lounge)
+  - Qifan Shao (email: qifan.shao at usc dot edu, office hours: TBD, RGL student lounge)
+  - Sihan Mao (email: sihanmao at usc dot edu, office hours: TBD, RGL student lounge)
 
 
 
@@ -41,7 +41,7 @@ The course has no specific prerequisites. Coding itself will be taught from the 
   - Write simple code to manipulate, analyze, and visualize urban data
   - Understand how to use basic descriptive and inferential statistics to evaluate and interpret social science evidence
   - Tell stories about public issues with a combination of text and visuals using data and evidence
-  - Evaluate the politics and ethics underlying how technology and innovation impact cities and planning processes
+  - Evaluate the politics and ethics underlying how technology impacts cities and planning processes
 
 
 
@@ -69,7 +69,7 @@ If the above steps haven't solved your problem, post on Slack (or attend office 
   2. A complete [minimal reproducible example](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) of your code so far (never send screenshots of code/tracebacks)
   3. What you've already tried to do to solve your problem and what you have learned from it so far (specifically, explain the results of steps 1-4 above, including relevant links from StackOverflow etc)
 
-We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your problem.
+We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your issue and avoid the [XY Problem](https://en.wikipedia.org/wiki/XY_problem).
 
 
 
@@ -77,13 +77,17 @@ We do not ask for this to be pedantic. Rather, we need it to be able to help you
 
 Coursework will be based on free open-source software.
 
-Copyrighted course reading materials are available via Blackboard for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class. Lectures are supplemental to the assigned reading and are of little value if you haven't taken the time to prepare in advance. So, before class, make sure you have completed the assigned reading, taken thorough notes, and prepared any questions you may have about the material.
+Copyrighted course reading materials are available via Brightspace for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class. Lectures are supplemental to the assigned reading and are of little value if you haven't taken the time to prepare in advance. So, before class, make sure you have completed the assigned reading, taken thorough notes, and prepared any questions you may have about the material.
 
 
 
 # Assignments and Evaluation
 
 The following sections outline the work you agree to do by enrolling in this course. Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week: please budget your time accordingly. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. See the schedule below for assignment due dates and see the "assignments" folder for instructions. Active participation is expected (and graded) in the classroom.
+
+Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination, delegation, accountability, and conflict resolution are challenging but necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help determine the participation grade you earned. See also: [Coping with Hitchhikers and Couch Potatoes on Teams](https://www.cs.cornell.edu/courses/cs3110/2018fa/teams/hitchhikers.html).
+
+## Grades
 
 Final grades will be weighted as follows:
 
@@ -93,11 +97,15 @@ Final grades will be weighted as follows:
   - 20%: final group project
   - 10%: active participation in classroom/Slack and team work
 
-See the schedule below for due dates. Submit everything via Blackboard. Assignments are due by 23:59:00 pacific time on their stated due dates. Late submissions are deducted 25% per day late. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT well before it is due. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please doubly confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late. Note that late final project submissions will not be accepted or graded.
+You can expect grades to be posted within two weeks of the assignment's due date. There is no extra credit. Grades are earned solely based on how well submissions meet the requirements and how well they demonstrate your understanding of and competency in the material. They account for your adherence to the instructions and your peers' performance given the same instructions. Effort and time spent do not factor in to grades, and grades are not negotiable. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services.
 
-Grades in this course reflect how you have demonstrated and communicated your understanding of and competency in the material. They account for your adherence to the assignments' instructions and your peers' performance given the same instructions and time. Grades do not necessarily reflect the amount of time or effort you put in, because we cannot observe you 24 hours a day to monitor your time and effort. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and consider seeking tutoring. Grades are non-negotiable. You can expect them to be posted within two weeks of the assignment's due date.
+## Submission
 
-Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help me assign participation grades.
+See the schedule below for due dates. Submit everything via Brightspace. Assignments are due by 23:59:00 pacific time on their stated due dates. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, excessive file size, or temporary system outages. If you have any technical issues when submitting, contact USC IT for resolution well before it is due.
+
+It is solely the student's responsibility to ensure that all submissions have gone through on time and contain the complete, working, correct files. Double-check and verify correct and successful submission, and fix it if necessary, before the deadline. You are graded solely on what you submit on Brightspace prior to the deadline. The timestamp in the submission system is our only official record: if it says you're late, you're late. Submissions outside of Brightspace (e.g., by email or on Google Drive) will not be accepted or graded. If your data set is too large for the submission system, you may upload *only your data set* to the USC Google Drive and provide a link to it in the first cell of your submitted Jupyter notebook that uses it.
+
+Late submissions are deducted 25% per day late. Note that late final project submissions will not be accepted or graded.
 
 
 
@@ -105,7 +113,7 @@ Group exercises leverage your diversity of skills and life experiences. We expec
 
 ## Module 1
 
-**Aug 22 - Introduction**
+**Aug 27 - Introduction**
 
 We introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework.
 
@@ -120,7 +128,7 @@ Pre-Survey
 
 ## Module 2
 
-**Aug 29 - Research design and data collection**
+**Sep 3 - Research design and data collection**
 
 We introduce research design including qualitative and quantitative methods, discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
@@ -136,7 +144,7 @@ Reading response 1 due the day before class.
 
 ## Module 3
 
-**Sep 5 - Coding Bootcamp I**
+**Sep 10 - Coding Bootcamp I**
 
 We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
@@ -151,7 +159,7 @@ Group assignment 1 due the day before class.
 
 ## Module 4
 
-**Sep 12 - Coding Bootcamp II**
+**Sep 17 - Coding Bootcamp II**
 
 We introduce the basics of Python control: using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
@@ -163,7 +171,7 @@ Readings to be completed prior to class:
 
 ## Module 5
 
-**Sep 19 - Data Cleaning and Descriptive Stats**
+**Sep 24 - Data Cleaning and Descriptive Stats**
 
 We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
@@ -178,7 +186,7 @@ Reading response 2 due the day before class. Group assignment 2 due the day befo
 
 ## Module 6
 
-**Sep 26 - Data Visualization**
+**Oct 1 - Data Visualization**
 
 We introduce the foundational concepts and best practices of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
@@ -193,7 +201,7 @@ Reading response 3 due the day before class.
 
 ## Module 7
 
-**Oct 3 - Spatial Data**
+**Oct 8 - Spatial Data**
 
 We introduce the foundational concepts of loading spatial data, projecting them, analyzing them, and mapping them.
 
@@ -206,17 +214,9 @@ Reading response 4 due the day before class. Group assignment 3 due the day befo
 
 
 
-## Workshop Day
-
-**Oct 10 - Workshop Day**
-
-Group assignment 4 due the day of class.
-
-
-
 ## Module 8
 
-**Oct 17 - Mid-Term Exam**
+**Oct 15 - Mid-Term Exam**
 
 Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
@@ -224,7 +224,21 @@ Exam will comprise a mix of multiple choice and short-answer questions, includin
 
 ## Module 9
 
-**Oct 24 - Qualitative Methods in Practice**
+**Oct 22 - Social Science and the Scientific Method**
+
+We introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
+
+Readings to be completed prior to class:
+
+  - Okasha, Philosophy of Science, ch. 1-4
+
+Reading response 5 due the day before class.
+
+
+
+## Module 10
+
+**Oct 29 - Qualitative Methods in Practice**
 
 We introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
 
@@ -234,33 +248,19 @@ Readings to be completed prior to class:
   - Eviction lab website (maps and data) [Direct link](https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=states&y=2018&z=3.09&lat=37.33&lon=-92.78&lang=en)
   - Acolin A, Kim AM. 2021 “Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City’s periphery.” Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
 
-Reading response 5 due the day before class.
+Reading response 6 due the day before class.
 
 
 
 ## No class
 
-**Oct 31 - No class**
-
-
-
-## Module 10
-
-**Nov 7 - Social Science and the Scientific Method**
-
-We introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
-
-Readings to be completed prior to class:
-
-  - Okasha, Philosophy of Science, ch. 1-4
-
-Reading response 6 due the day before class.
+**Nov 5 - No class (conference travel)**
 
 
 
 ## Module 11
 
-**Nov 14 - Inference and Uncertainty**
+**Nov 12 - Inference and Uncertainty**
 
 We introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty. We discuss the limitations of this framework and how other methods, such as qualitative research, can help us build knowledge.
 
@@ -269,7 +269,7 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, ch. 8-10
   - Urdan, Statistics in Plain English, ch. 4-7. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
   - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
-  - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Blackboard) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
+  - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Brightspace) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
 Reading response 7 due the day before class.
 
@@ -277,7 +277,7 @@ Reading response 7 due the day before class.
 
 ## Module 12
 
-**Nov 21 - Statistical Models**
+**Nov 19 - Statistical Models**
 
 We introduce specifying, estimating, interpreting, and reporting regression models.
 
@@ -290,9 +290,17 @@ Reading response 8 due the day before class.
 
 
 
+## No class
+
+**Nov 26 - No class (happy Thanksgiving)**
+
+Group assignment 5 due the day before class.
+
+
+
 ## Module 13
 
-**Nov 28 - Smart Cities, Ethics, and Evidence-Based Planning**
+**Dec 3 - Smart Cities, Ethics, and Evidence-Based Planning**
 
 We introduce the social context and limitations of science as it applies to real-world urban planning practice, then critically engage the smart cities paradigm and the roles of civic tech, techno-utopianism, politics, power, and ethics. We discuss how qualitative and quantitative methods work together for evidence-based planning.
 
@@ -302,15 +310,13 @@ Readings to be completed prior to class:
   - Kitchin, The Ethics of Smart Cities and Urban Science. [Direct link](https://doi.org/10.1098/rsta.2016.0115). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1098/rsta.2016.0115).
   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
-Group assignment 5 due the day before class.
-
 In class: complete course evaluations and group peer assessments
 
 
 
-## Exam Week
+## Final Project
 
-**Dec 5 - Final Group Projects Due**
+**Dec 6 - Final Group Projects Due**
 
 See the assignments folder for details and deadlines.
 
@@ -336,7 +342,7 @@ This course will follow the expectations for academic integrity as stated in the
 
 Make sure you review the student handbook for expectations on academic integrity, and never commit [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). It is serious academic misconduct. In all your assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
 
-Content generated from AI, machine learning, or similar algorithmic tools cannot be submitted in this course. A violation of this policy constitutes academic misconduct.
+Content generated from AI, machine learning, or similar algorithmic tools including Chat-GPT and Google Translate cannot be submitted in this course. A violation of this policy constitutes academic misconduct.
 
 ## Support Systems
 
