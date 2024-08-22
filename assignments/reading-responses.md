@@ -33,16 +33,16 @@ What are the ethical implications of spatial data visualization and why does Gim
 
 ### Reading Response 5
 
-Why do Acolin and Kim argue that qualitative methods are important? Desmond's book chapters present a very different style of eviction research than the Eviction Lab's data visualizations do. Which do you find more compelling, and why?
-
-### Reading Response 6
-
 First, respond to just 1 of the following 2 prompts (approx 1/2 page):
 
   1. According to Okasha, what is inductive inference and why it is useful despite its flaws?
   2. According to Okasha, what is an anti-realist? Are you one?
 
 Then respond to the following prompt (approx 1/2 page): thinking about your group's final project (or another research project you're affiliated with) reflect on how you might use scientific inference to understand or explain the specific phenomenon you are investigating (you can consider deduction, induction, IBE, causation, etc -- whatever is relevant or useful to you).
+
+### Reading Response 6
+
+Why do Acolin and Kim argue that qualitative methods are important? Desmond's book chapters present a very different style of eviction research than the Eviction Lab's data visualizations do. Which do you find more compelling, and why?
 
 ### Reading Response 7
 
