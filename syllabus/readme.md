@@ -232,7 +232,9 @@ Reading response 6 due the day before class.
 
 
 
-## Nov 5 - No class (conference travel)
+## Nov 5 - No class
+
+Class canceled due to conference travel.
 
 
 
