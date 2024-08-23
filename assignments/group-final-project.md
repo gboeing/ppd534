@@ -1,6 +1,6 @@
 # Final Project
 
-See the schedule in the syllabus for all assignment due dates and expectations. Group assignments need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
+See the schedule in the syllabus for all assignment due dates and expectations. Group assignments need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to _all_ the instructions. Please read the instructions carefully.
 
 ## Overview
 

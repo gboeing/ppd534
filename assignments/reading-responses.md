@@ -8,10 +8,10 @@ These exercises ask you to reflect critically on the weekly reading material and
 
 The reading responses will be graded according to the following criteria:
 
-  - Did you make it clear you read and understood the week's assigned reading material
-  - Did you reflect critically and creatively on the reading material in your own words
-  - Did you succinctly and directly respond to the entire prompt without repetition, filler, or fluff
-  - Did you follow the formatting and submission instructions
+- Did you make it clear you read and understood the week's assigned reading material
+- Did you reflect critically and creatively on the reading material in your own words
+- Did you succinctly and directly respond to the entire prompt without repetition, filler, or fluff
+- Did you follow the formatting and submission instructions
 
 ## Prompts
 
@@ -35,8 +35,8 @@ What are the ethical implications of spatial data visualization and why does Gim
 
 First, respond to just 1 of the following 2 prompts (approx 1/2 page):
 
-  1. According to Okasha, what is inductive inference and why it is useful despite its flaws?
-  2. According to Okasha, what is an anti-realist? Are you one?
+1. According to Okasha, what is inductive inference and why it is useful despite its flaws?
+2. According to Okasha, what is an anti-realist? Are you one?
 
 Then respond to the following prompt (approx 1/2 page): thinking about your group's final project (or another research project you're affiliated with) reflect on how you might use scientific inference to understand or explain the specific phenomenon you are investigating (you can consider deduction, induction, IBE, causation, etc -- whatever is relevant or useful to you).
 
@@ -52,7 +52,7 @@ What claims did the Wall Street Journal article make and how/why did their evide
 
 First, respond to just 1 of the following 2 prompts (approx 1/2 page):
 
-  1. According to the Wheelan and Urdan readings, when can we feel safe making claims about causation?
-  2. According to the Wheelan and Urdan readings, what dangers lie in making causal claims and why must we be careful as data-driven storytellers?
+1. According to the Wheelan and Urdan readings, when can we feel safe making claims about causation?
+2. According to the Wheelan and Urdan readings, what dangers lie in making causal claims and why must we be careful as data-driven storytellers?
 
 Then respond to the following prompt (approx 1/2 page): describe an example from your school/work/personal life where a causal claim was made, but shouldn't have been. Why was it inappropriate for the speaker/writer to imply causation?

@@ -2,8 +2,6 @@
 
 USC PPD534 / Fall 2024 / 4 units
 
-
-
 # Instructor Info
 
 [Prof. Geoff Boeing](https://geoffboeing.com)
@@ -16,10 +14,8 @@ Classroom location and meeting times are [listed online](https://classes.usc.edu
 
 TAs:
 
-  - Qifan Shao (email: qifan.shao at usc dot edu, office hours: TBD, RGL student lounge)
-  - Sihan Mao (email: sihanmao at usc dot edu, office hours: TBD, RGL student lounge)
-
-
+- Qifan Shao (email: qifan.shao at usc dot edu, office hours: TBD, RGL student lounge)
+- Sihan Mao (email: sihanmao at usc dot edu, office hours: TBD, RGL student lounge)
 
 # Course Description
 
@@ -27,23 +23,19 @@ This course provides you with a toolkit for telling stories with urban data. It 
 
 Each week, students will be expected to:
 
-  - Complete and be prepared to discuss all assigned readings
-  - Complete and submit any assigned reading responses
-  - Attend the lecture
-  - Complete and submit any assigned group projects
+- Complete and be prepared to discuss all assigned readings
+- Complete and submit any assigned reading responses
+- Attend the lecture
+- Complete and submit any assigned group projects
 
 The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, this course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
-
-
 # Learning Objectives
 
-  - Write simple code to manipulate, analyze, and visualize urban data
-  - Understand how to use basic descriptive and inferential statistics to evaluate and interpret social science evidence
-  - Tell stories about public issues with a combination of text and visuals using data and evidence
-  - Evaluate the politics and ethics underlying how technology impacts cities and planning processes
-
-
+- Write simple code to manipulate, analyze, and visualize urban data
+- Understand how to use basic descriptive and inferential statistics to evaluate and interpret social science evidence
+- Tell stories about public issues with a combination of text and visuals using data and evidence
+- Evaluate the politics and ethics underlying how technology impacts cities and planning processes
 
 # Questions and Assistance
 
@@ -57,29 +49,25 @@ If you have a question about class material, homework, or a coding/data problem:
 
 Given the nature of this course, we do expect a few things of you before you seek assistance with coding/data questions:
 
-  1. Close all open programs, restart your computer, then try your task again
-  2. Search Google and StackOverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
-  3. Go back through the relevant lecture materials to look for any insights
-  4. Go back through the assigned reading materials to look for any insights
-  5. Ask your teammates if they have any insight
+1. Close all open programs, restart your computer, then try your task again
+2. Search Google and StackOverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
+3. Go back through the relevant lecture materials to look for any insights
+4. Go back through the assigned reading materials to look for any insights
+5. Ask your teammates if they have any insight
 
 If the above steps haven't solved your problem, post on Slack (or attend office hours) and include the following information:
 
-  1. A detailed description of what you're trying to do, why, and how
-  2. A complete [minimal reproducible example](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) of your code so far (never send screenshots of code/tracebacks)
-  3. What you've already tried to do to solve your problem and what you have learned from it so far (specifically, explain the results of steps 1-4 above, including relevant links from StackOverflow etc)
+1. A detailed description of what you're trying to do, why, and how
+2. A complete [minimal reproducible example](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) of your code so far (never send screenshots of code/tracebacks)
+3. What you've already tried to do to solve your problem and what you have learned from it so far (specifically, explain the results of steps 1-4 above, including relevant links from StackOverflow etc)
 
 We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your issue and avoid the [XY Problem](https://en.wikipedia.org/wiki/XY_problem).
-
-
 
 # Materials
 
 Coursework will be based on free open-source software.
 
 Copyrighted course reading materials are available via Brightspace for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class. Lectures are supplemental to the assigned reading and are of little value if you haven't taken the time to prepare in advance. So, before class, make sure you have completed the assigned reading, taken thorough notes, and prepared any questions you may have about the material.
-
-
 
 # Assignments and Evaluation
 
@@ -91,11 +79,11 @@ Group exercises leverage your diversity of skills and life experiences. We expec
 
 Final grades will be weighted as follows:
 
-  - 20%: eight individual reading responses
-  - 30%: five group assignments
-  - 20%: individual midterm exam
-  - 20%: final group project
-  - 10%: active participation in classroom/Slack and team work
+- 20%: eight individual reading responses
+- 30%: five group assignments
+- 20%: individual midterm exam
+- 20%: final group project
+- 10%: active participation in classroom/Slack and team work
 
 You can expect grades to be posted within two weeks of the assignment's due date. There is no extra credit. Grades are earned solely based on how well submissions meet the requirements and how well they demonstrate your understanding of and competency in the material. They account for your adherence to the instructions and your peers' performance given the same instructions. Effort and time spent do not factor in to grades, and grades are not negotiable. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services.
 
@@ -103,11 +91,9 @@ You can expect grades to be posted within two weeks of the assignment's due date
 
 See the schedule below for due dates. Submit everything via Brightspace. Assignments are due by 23:59:00 pacific time on their stated due dates. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, excessive file size, or temporary system outages. If you have any technical issues when submitting, contact USC IT for resolution well before it is due.
 
-It is solely the student's responsibility to ensure that all submissions have gone through on time and contain the complete, working, correct files. Double-check and verify correct and successful submission, and fix it if necessary, before the deadline. You are graded solely on what you submit on Brightspace prior to the deadline. The timestamp in the submission system is our only official record: if it says you're late, you're late. Submissions outside of Brightspace (e.g., by email or on Google Drive) will not be accepted or graded. If your data set is too large for the submission system, you may upload *only your data set* to the USC Google Drive and provide a link to it in the first cell of your submitted Jupyter notebook that uses it.
+It is solely the student's responsibility to ensure that all submissions have gone through on time and contain the complete, working, correct files. Double-check and verify correct and successful submission, and fix it if necessary, before the deadline. You are graded solely on what you submit on Brightspace prior to the deadline. The timestamp in the submission system is our only official record: if it says you're late, you're late. Submissions outside of Brightspace (e.g., by email or on Google Drive) will not be accepted or graded. If your data set is too large for the submission system, you may upload _only your data set_ to the USC Google Drive and provide a link to it in the first cell of your submitted Jupyter notebook that uses it.
 
 Late submissions are deducted 25% per day late. Note that late final project submissions will not be accepted or graded.
-
-
 
 # Schedule
 
@@ -117,12 +103,10 @@ We introduce the course, the syllabus, the semester's expectations and schedule,
 
 Readings to be completed prior to class:
 
-  - Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
-  - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
+- Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
+- TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
 Pre-course survey and Slack introductions
-
-
 
 ## Sep 3 - Research Design and Data Collection
 
@@ -130,13 +114,11 @@ We introduce research design including qualitative and quantitative methods, dis
 
 Readings to be completed prior to class:
 
-  - Wheelan, Naked Statistics, intro + ch. 1
-  - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
-  - Macdonald. The American Community Survey. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944360608976768). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944360608976768).
+- Wheelan, Naked Statistics, intro + ch. 1
+- Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
+- Macdonald. The American Community Survey. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944360608976768). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944360608976768).
 
 Reading response 1 due the day before class.
-
-
 
 ## Sep 10 - Coding Bootcamp I
 
@@ -144,12 +126,10 @@ We introduce the basics of Python, a powerful programming language for data anal
 
 Readings to be completed prior to class:
 
-  - Review the readings from module 1
-  - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
+- Review the readings from module 1
+- Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 Group assignment 1 due the day before class.
-
-
 
 ## Sep 17 - Coding Bootcamp II
 
@@ -157,9 +137,7 @@ We introduce the basics of Python control: using loops, conditionals, and functi
 
 Readings to be completed prior to class:
 
-  - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
-
-
+- Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 ## Sep 24 - Data Cleaning and Descriptive Stats
 
@@ -167,12 +145,10 @@ We introduce the basics of loading and cleaning data, then discovering patterns 
 
 Readings to be completed prior to class:
 
-  - Wheelan, Naked Statistics, ch. 2-3
-  - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
+- Wheelan, Naked Statistics, ch. 2-3
+- Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
 Reading response 2 due the day before class. Group assignment 2 due the day before class.
-
-
 
 ## Oct 1 - Data Visualization
 
@@ -180,12 +156,10 @@ We introduce the foundational concepts and best practices of visualizing data fo
 
 Readings to be completed prior to class:
 
-  - Tufte, Visual Display of Quantitative Information, ch. 1-3
-  - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
+- Tufte, Visual Display of Quantitative Information, ch. 1-3
+- Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
 
 Reading response 3 due the day before class.
-
-
 
 ## Oct 8 - Spatial Data
 
@@ -193,18 +167,14 @@ We introduce the foundational concepts of loading spatial data, projecting them,
 
 Readings to be completed prior to class:
 
-  - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
-  - Wheelan, Naked Statistics, ch. 5, 7
+- Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
+- Wheelan, Naked Statistics, ch. 5, 7
 
 Reading response 4 due the day before class. Group assignment 3 due the day before class.
-
-
 
 ## Oct 15 - Mid-Term Exam
 
 Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
-
-
 
 ## Oct 22 - Social Science and the Scientific Method
 
@@ -212,11 +182,9 @@ We introduce social science, the scientific method, inference, prediction and ex
 
 Readings to be completed prior to class:
 
-  - Okasha, Philosophy of Science, ch. 1-4
+- Okasha, Philosophy of Science, ch. 1-4
 
 Reading response 5 due the day before class.
-
-
 
 ## Oct 29 - Qualitative Methods in Practice
 
@@ -224,19 +192,15 @@ We introduce qualitative methods including study design, implementation, qualita
 
 Readings to be completed prior to class:
 
-  - Desmond, Matthew. Evicted: Poverty and Profit in the American City. Prologue, Chapter 1, and Chapter 8. New York: Broadway Books, 2017.
-  - Eviction lab website (maps and data) [Direct link](https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=states&y=2018&z=3.09&lat=37.33&lon=-92.78&lang=en)
-  - Acolin A, Kim AM. 2021 “Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City’s periphery.” Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
+- Desmond, Matthew. Evicted: Poverty and Profit in the American City. Prologue, Chapter 1, and Chapter 8. New York: Broadway Books, 2017.
+- Eviction lab website (maps and data) [Direct link](https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=states&y=2018&z=3.09&lat=37.33&lon=-92.78&lang=en)
+- Acolin A, Kim AM. 2021 “Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City’s periphery.” Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
 
 Reading response 6 due the day before class.
-
-
 
 ## Nov 5 - No class
 
 Class canceled due to conference travel.
-
-
 
 ## Nov 12 - Inference and Uncertainty
 
@@ -244,14 +208,12 @@ We introduce a statistical framework for hypothesis testing, inference, confiden
 
 Readings to be completed prior to class:
 
-  - Wheelan, Naked Statistics, ch. 8-10
-  - Urdan, Statistics in Plain English, ch. 4-7. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
-  - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
-  - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Brightspace) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
+- Wheelan, Naked Statistics, ch. 8-10
+- Urdan, Statistics in Plain English, ch. 4-7. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
+- Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
+- WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Brightspace) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
 Reading response 7 due the day before class.
-
-
 
 ## Nov 19 - Statistical Models
 
@@ -259,18 +221,14 @@ We introduce specifying, estimating, interpreting, and reporting regression mode
 
 Readings to be completed prior to class:
 
-  - Wheelan, Naked Statistics, ch. 4 + 11-13
-  - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
+- Wheelan, Naked Statistics, ch. 4 + 11-13
+- Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
 Reading response 8 due the day before class.
-
-
 
 ## Nov 26 - Workshop Day
 
 Group assignment 5 due the day before class.
-
-
 
 ## Dec 3 - Smart Cities, Ethics, and Evidence-Based Planning
 
@@ -278,19 +236,15 @@ We introduce the social context and limitations of science as it applies to real
 
 Readings to be completed prior to class:
 
-  - Okasha, Philosophy of Science, ch. 5, 7
-  - Kitchin, The Ethics of Smart Cities and Urban Science. [Direct link](https://doi.org/10.1098/rsta.2016.0115). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1098/rsta.2016.0115).
-  - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
+- Okasha, Philosophy of Science, ch. 5, 7
+- Kitchin, The Ethics of Smart Cities and Urban Science. [Direct link](https://doi.org/10.1098/rsta.2016.0115). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1098/rsta.2016.0115).
+- Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
 In class: complete course evaluations and group peer assessments
-
-
 
 ## Dec 6 - Final Group Projects Due
 
 See the assignments folder for details and deadlines.
-
-
 
 # Academic Conduct and Support
 
@@ -298,7 +252,7 @@ See the assignments folder for details and deadlines.
 
 USC welcomes students with disabilities into all of the University's educational programs. The Office of Student Accessibility Services (OSAS) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at OSAS's [web site](https://osas.usc.edu/). You may contact OSAS at (213) 740-0776 or via email at osasfrontdesk@usc.edu.
 
-To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with official LOAs. If you need to request a *one-time emergency* extension to an assignment (e.g., due to a major illness requiring hospitalization or due to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, explaining why you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
+To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with official LOAs. If you need to request a _one-time emergency_ extension to an assignment (e.g., due to a major illness requiring hospitalization or due to a death in the family) you must do the following proactively _prior to its due date_: 1) provide written documentation, such as an official doctor's note, explaining why you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
 
 Course content and classroom discussion may deal with topics that you find difficult or upsetting but are relevant to the course. It is your responsibility to review the syllabus to be aware of upcoming content so you can prepare for it adequately. Contact OSAS for an LOA if you require an accommodation.
 
@@ -310,7 +264,7 @@ The University of Southern California is foremost a learning community committed
 
 This course will follow the expectations for academic integrity as stated in the USC Student Handbook. All students are expected to submit assignments that are original work and prepared specifically for the course/section in this academic term. You may not submit work written by others or "recycle" work prepared for other courses without obtaining written permission from the instructor(s). Students suspected of engaging in academic misconduct will be reported to the Office of Academic Integrity. Other violations of academic misconduct include, but are not limited to, cheating, plagiarism, fabrication (e.g., falsifying data), knowingly assisting others in acts of academic dishonesty, and any act that gains or is intended to gain an unfair academic advantage. The impact of academic dishonesty is far-reaching and is considered a serious offense against the university and could result in outcomes such as failure on the assignment, failure in the course, suspension, or even expulsion from the university. For more information about academic integrity see the student handbook or the Office of Academic Integrity's website, and university policies on Research and Scholarship Misconduct.
 
-Make sure you review the student handbook for expectations on academic integrity, and never commit [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). It is serious academic misconduct. In all your assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
+Make sure you review the student handbook for expectations on academic integrity, and never commit [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). It is serious academic misconduct. In all your assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use _quote_ marks and _cite_ them. If you refer to their ideas in your own words, you must _cite_ them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
 
 Content generated from AI, machine learning, or similar algorithmic tools including Chat-GPT and Google Translate cannot be submitted in this course. A violation of this policy constitutes academic misconduct.
 
