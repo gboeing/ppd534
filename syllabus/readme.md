@@ -111,9 +111,7 @@ Late submissions are deducted 25% per day late. Note that late final project sub
 
 # Schedule
 
-## Module 1
-
-**Aug 27 - Introduction**
+## Aug 27 - Introduction
 
 We introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework.
 
@@ -122,13 +120,11 @@ Readings to be completed prior to class:
   - Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
   - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
-Pre-Survey
+Pre-course survey and Slack introductions
 
 
 
-## Module 2
-
-**Sep 3 - Research design and data collection**
+## Sep 3 - Research Design and Data Collection
 
 We introduce research design including qualitative and quantitative methods, discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
@@ -142,9 +138,7 @@ Reading response 1 due the day before class.
 
 
 
-## Module 3
-
-**Sep 10 - Coding Bootcamp I**
+## Sep 10 - Coding Bootcamp I
 
 We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
@@ -157,9 +151,7 @@ Group assignment 1 due the day before class.
 
 
 
-## Module 4
-
-**Sep 17 - Coding Bootcamp II**
+## Sep 17 - Coding Bootcamp II
 
 We introduce the basics of Python control: using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
@@ -169,9 +161,7 @@ Readings to be completed prior to class:
 
 
 
-## Module 5
-
-**Sep 24 - Data Cleaning and Descriptive Stats**
+## Sep 24 - Data Cleaning and Descriptive Stats
 
 We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
@@ -184,9 +174,7 @@ Reading response 2 due the day before class. Group assignment 2 due the day befo
 
 
 
-## Module 6
-
-**Oct 1 - Data Visualization**
+## Oct 1 - Data Visualization
 
 We introduce the foundational concepts and best practices of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
@@ -199,9 +187,7 @@ Reading response 3 due the day before class.
 
 
 
-## Module 7
-
-**Oct 8 - Spatial Data**
+## Oct 8 - Spatial Data
 
 We introduce the foundational concepts of loading spatial data, projecting them, analyzing them, and mapping them.
 
@@ -214,17 +200,13 @@ Reading response 4 due the day before class. Group assignment 3 due the day befo
 
 
 
-## Module 8
-
-**Oct 15 - Mid-Term Exam**
+## Oct 15 - Mid-Term Exam
 
 Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
 
 
-## Module 9
-
-**Oct 22 - Social Science and the Scientific Method**
+## Oct 22 - Social Science and the Scientific Method
 
 We introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
 
@@ -236,9 +218,7 @@ Reading response 5 due the day before class.
 
 
 
-## Module 10
-
-**Oct 29 - Qualitative Methods in Practice**
+## Oct 29 - Qualitative Methods in Practice
 
 We introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
 
@@ -252,15 +232,11 @@ Reading response 6 due the day before class.
 
 
 
-## No class
-
-**Nov 5 - No class (conference travel)**
+## Nov 5 - No class (conference travel)
 
 
 
-## Module 11
-
-**Nov 12 - Inference and Uncertainty**
+## Nov 12 - Inference and Uncertainty
 
 We introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty. We discuss the limitations of this framework and how other methods, such as qualitative research, can help us build knowledge.
 
@@ -275,9 +251,7 @@ Reading response 7 due the day before class.
 
 
 
-## Module 12
-
-**Nov 19 - Statistical Models**
+## Nov 19 - Statistical Models
 
 We introduce specifying, estimating, interpreting, and reporting regression models.
 
@@ -290,17 +264,13 @@ Reading response 8 due the day before class.
 
 
 
-## No class
-
-**Nov 26 - No class (happy Thanksgiving)**
+## Nov 26 - Workshop Day
 
 Group assignment 5 due the day before class.
 
 
 
-## Module 13
-
-**Dec 3 - Smart Cities, Ethics, and Evidence-Based Planning**
+## Dec 3 - Smart Cities, Ethics, and Evidence-Based Planning
 
 We introduce the social context and limitations of science as it applies to real-world urban planning practice, then critically engage the smart cities paradigm and the roles of civic tech, techno-utopianism, politics, power, and ethics. We discuss how qualitative and quantitative methods work together for evidence-based planning.
 
@@ -314,9 +284,7 @@ In class: complete course evaluations and group peer assessments
 
 
 
-## Final Project
-
-**Dec 6 - Final Group Projects Due**
+## Dec 6 - Final Group Projects Due
 
 See the assignments folder for details and deadlines.
 
