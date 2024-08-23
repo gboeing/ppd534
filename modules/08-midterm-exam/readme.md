@@ -1,1 +1,0 @@
-# Mid-Term Exam
