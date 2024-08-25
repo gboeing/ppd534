@@ -14,7 +14,7 @@ Classroom location and meeting times are [listed online](https://classes.usc.edu
 
 TAs:
 
-- Qifan Shao (email: qifan.shao at usc dot edu, office hours: TBD, RGL student lounge)
+- Qifan Shao (email: qifan.shao at usc dot edu, office hours: Thurs 11:00-12:00, RGL student lounge)
 - Sihan Mao (email: sihanmao at usc dot edu, office hours: TBD, RGL student lounge)
 
 # Course Description
