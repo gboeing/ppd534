@@ -110,6 +110,8 @@ Pre-course survey and Slack introductions
 
 ## Sep 3 - Research Design and Data Collection
 
+Reading response 1 due the day before class.
+
 We introduce research design including qualitative and quantitative methods, discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
 Readings to be completed prior to class:
@@ -118,9 +120,9 @@ Readings to be completed prior to class:
 - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 - Macdonald. The American Community Survey. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944360608976768). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944360608976768).
 
-Reading response 1 due the day before class.
-
 ## Sep 10 - Coding Bootcamp I
+
+Group assignment 1 due the day before class.
 
 We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
@@ -128,8 +130,6 @@ Readings to be completed prior to class:
 
 - Review the readings from module 1
 - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
-
-Group assignment 1 due the day before class.
 
 ## Sep 17 - Coding Bootcamp II
 
@@ -141,6 +141,8 @@ Readings to be completed prior to class:
 
 ## Sep 24 - Data Cleaning and Descriptive Stats
 
+Reading response 2 due the day before class. Group assignment 2 due the day before class.
+
 We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
 Readings to be completed prior to class:
@@ -148,9 +150,9 @@ Readings to be completed prior to class:
 - Wheelan, Naked Statistics, ch. 2-3
 - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
-Reading response 2 due the day before class. Group assignment 2 due the day before class.
-
 ## Oct 1 - Data Visualization
+
+Reading response 3 due the day before class.
 
 We introduce the foundational concepts and best practices of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
@@ -159,9 +161,9 @@ Readings to be completed prior to class:
 - Tufte, Visual Display of Quantitative Information, ch. 1-3
 - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
 
-Reading response 3 due the day before class.
-
 ## Oct 8 - Spatial Data
+
+Reading response 4 due the day before class. Group assignment 3 due the day before class.
 
 We introduce the foundational concepts of loading spatial data, projecting them, analyzing them, and mapping them.
 
@@ -170,13 +172,15 @@ Readings to be completed prior to class:
 - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
 - Wheelan, Naked Statistics, ch. 5, 7
 
-Reading response 4 due the day before class. Group assignment 3 due the day before class.
-
 ## Oct 15 - Mid-Term Exam
+
+Group assignment 4 due the day before class.
 
 Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
 ## Oct 22 - Social Science and the Scientific Method
+
+Reading response 5 due the day before class.
 
 We introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
 
@@ -184,9 +188,9 @@ Readings to be completed prior to class:
 
 - Okasha, Philosophy of Science, ch. 1-4
 
-Reading response 5 due the day before class.
-
 ## Oct 29 - Qualitative Methods in Practice
+
+Reading response 6 due the day before class.
 
 We introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
 
@@ -196,13 +200,13 @@ Readings to be completed prior to class:
 - Eviction lab website (maps and data) [Direct link](https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=states&y=2018&z=3.09&lat=37.33&lon=-92.78&lang=en)
 - Acolin A, Kim AM. 2021 “Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City’s periphery.” Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
 
-Reading response 6 due the day before class.
-
 ## Nov 5 - No class
 
 Class canceled due to conference travel.
 
 ## Nov 12 - Inference and Uncertainty
+
+Reading response 7 due the day before class.
 
 We introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty. We discuss the limitations of this framework and how other methods, such as qualitative research, can help us build knowledge.
 
@@ -213,9 +217,9 @@ Readings to be completed prior to class:
 - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
 - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Brightspace) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
-Reading response 7 due the day before class.
-
 ## Nov 19 - Statistical Models
+
+Reading response 8 due the day before class.
 
 We introduce specifying, estimating, interpreting, and reporting regression models.
 
@@ -223,8 +227,6 @@ Readings to be completed prior to class:
 
 - Wheelan, Naked Statistics, ch. 4 + 11-13
 - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
-
-Reading response 8 due the day before class.
 
 ## Nov 26 - Workshop Day
 
