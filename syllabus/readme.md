@@ -246,7 +246,7 @@ In class: complete course evaluations and group peer assessments
 
 ## Dec 6 - Final Group Projects Due
 
-See the assignments folder for details and deadlines.
+See the assignments folder for details.
 
 # Academic Conduct and Support
 
