@@ -221,7 +221,7 @@ Readings to be completed prior to class:
 - Wheelan, Naked Statistics, ch. 4 + 11-13
 - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
-## Nov 25 - Workshop Day
+## Nov 25 - Final Workshop
 
 Group assignment 5 due the day before class.
 
