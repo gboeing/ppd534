@@ -1,4 +1,7 @@
 .DS_Store
+keys.py
+modules/*/cache/*
+uv.lock
 *.pdf
 *.png
 !modules/module07/img/utm_zones.png
