@@ -1,6 +1,6 @@
 **Data, Evidence, and Communication for the Public Good**
 
-USC PPD534 / Fall 2024 / 4 units
+USC PPD534 / Fall 2025 / 4 units
 
 # Instructor Info
 
@@ -28,7 +28,7 @@ Each week, students will be expected to:
 - Attend the lecture
 - Complete and submit any assigned group projects
 
-The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, this course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
+The course has a prerequisite of basic working knowledge of the Python language. This course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
 # Learning Objectives
 
@@ -97,18 +97,19 @@ Late submissions are deducted 25% per day late. Note that late final project sub
 
 # Schedule
 
-## Aug 27 - Introduction
+## Aug 26 - Introduction
 
-We introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework.
+Learning objectives: course policies, the semester's expectations and schedule, and the computing environment for coursework.
 
-Readings to be completed prior to class:
+Pre-class readings/prep:
+  - this syllabus
+  - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
-- Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
-- TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
+Activities and assessments:
+  - in-class problem set 1
+  - pre-course survey and Slack introductions
 
-Pre-course survey and Slack introductions
-
-## Sep 3 - Research Design and Data Collection
+## Sep 2 - Research Design and Data Collection
 
 Reading response 1 due the day before class.
 
@@ -120,26 +121,18 @@ Readings to be completed prior to class:
 - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 - Macdonald. The American Community Survey. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944360608976768). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944360608976768).
 
-## Sep 10 - Coding Bootcamp I
+## Sep 9 - Coding Bootcamp
 
 Group assignment 1 due the day before class.
 
-We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
+We review the basics of Python: variables, loops, conditionals, and functions to control the logic and flow of your code. We work via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
 Readings to be completed prior to class:
 
 - Review the readings from module 1
-- Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
+- Downey, Think Python, ch. 1-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
-## Sep 17 - Coding Bootcamp II
-
-We introduce the basics of Python control: using loops, conditionals, and functions to control the logic and flow of your code's execution.
-
-Readings to be completed prior to class:
-
-- Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
-
-## Sep 24 - Data Cleaning and Descriptive Stats
+## Sep 16 - Data Cleaning and Descriptive Stats
 
 Reading response 2 due the day before class. Group assignment 2 due the day before class.
 
@@ -150,7 +143,7 @@ Readings to be completed prior to class:
 - Wheelan, Naked Statistics, ch. 2-3
 - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
-## Oct 1 - Data Visualization
+## Sep 23 - Data Visualization
 
 Reading response 3 due the day before class.
 
@@ -161,7 +154,9 @@ Readings to be completed prior to class:
 - Tufte, Visual Display of Quantitative Information, ch. 1-3
 - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
 
-## Oct 8 - Spatial Data
+## Sep 30 - Data Visualization Workshop
+
+## Oct 7 - Spatial Data
 
 Reading response 4 due the day before class. Group assignment 3 due the day before class.
 
@@ -172,23 +167,9 @@ Readings to be completed prior to class:
 - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
 - Wheelan, Naked Statistics, ch. 5, 7
 
-## Oct 15 - Mid-Term Exam
+## Oct 14 - Spatial Data Workshop
 
-Group assignment 4 due the day before class.
-
-Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
-
-## Oct 22 - Social Science and the Scientific Method
-
-Reading response 5 due the day before class.
-
-We introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
-
-Readings to be completed prior to class:
-
-- Okasha, Philosophy of Science, ch. 1-4
-
-## Oct 29 - Qualitative Methods in Practice
+## Oct 21 - Qualitative Methods in Practice
 
 Reading response 6 due the day before class.
 
@@ -200,11 +181,23 @@ Readings to be completed prior to class:
 - Eviction lab website (maps and data) [Direct link](https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=states&y=2018&z=3.09&lat=37.33&lon=-92.78&lang=en)
 - Acolin A, Kim AM. 2021 “Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City’s periphery.” Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
 
-## Nov 5 - No class
+## Oct 28 - Mid-Term Exam
 
-Class canceled due to conference travel.
+Group assignment 4 due the day before class.
 
-## Nov 12 - Inference and Uncertainty
+Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
+
+## Nov 4 - Social Science and the Scientific Method
+
+Reading response 5 due the day before class.
+
+We introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
+
+Readings to be completed prior to class:
+
+- Okasha, Philosophy of Science, ch. 1-4
+
+## Nov 11 - Inference and Uncertainty
 
 Reading response 7 due the day before class.
 
@@ -217,7 +210,7 @@ Readings to be completed prior to class:
 - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
 - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Brightspace) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
-## Nov 19 - Statistical Models
+## Nov 18 - Statistical Models
 
 Reading response 8 due the day before class.
 
@@ -228,11 +221,11 @@ Readings to be completed prior to class:
 - Wheelan, Naked Statistics, ch. 4 + 11-13
 - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
-## Nov 26 - Workshop Day
+## Nov 25 - Workshop Day
 
 Group assignment 5 due the day before class.
 
-## Dec 3 - Smart Cities, Ethics, and Evidence-Based Planning
+## Dec 2 - Smart Cities, Ethics, and Evidence-Based Planning
 
 We introduce the social context and limitations of science as it applies to real-world urban planning practice, then critically engage the smart cities paradigm and the roles of civic tech, techno-utopianism, politics, power, and ethics. We discuss how qualitative and quantitative methods work together for evidence-based planning.
 
@@ -244,7 +237,7 @@ Readings to be completed prior to class:
 
 In class: complete course evaluations and group peer assessments
 
-## Dec 6 - Final Group Projects Due
+## Dec 5 - Final Group Projects Due
 
 See the assignments folder for details.
 

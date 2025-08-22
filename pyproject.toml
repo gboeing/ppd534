@@ -1,0 +1,41 @@
+[project]
+authors = [{ name = "Geoff Boeing", email = "boeing@usc.edu" }]
+dependencies = [
+    "folium==0.20.*",
+    "geopandas==1.1.*",
+    "geopy==2.4.*",
+    "jupyterlab==4.4.*",
+    "mapclassify==2.10.*",
+    "numpy==2.3.*",
+    "osmnx[all]==2.0.*",
+    "pandas==2.3.*",
+    "requests==2.32.*",
+    "scipy==1.16.*",
+    "seaborn==0.13.*",
+    "shapely==2.1.*",
+    "statsmodels==0.14.*",
+]
+description = "USC PPD534: Data, Evidence, and Communication for the Public Good"
+license = "MIT"
+license-files = ["LICENSE.txt"]
+name = "PPD534"
+readme = "README.md"
+requires-python = "==3.13.*"
+version = "2025"
+
+[dependency-groups]
+dev = ["nbdime", "pre-commit"]
+
+[tool.ruff]
+cache-dir = "~/.cache/pre-commit/ruff"
+line-length = 100
+
+[tool.ruff.lint]
+extend-select = ["A", "B", "E", "F", "I", "UP", "W"]
+
+[tool.ruff.lint.per-file-ignores]
+# allow intentional errors in bootcamp lecture
+"modules/03-coding-bootcamp-i/lecture.ipynb" = ["B018", "F821"]
+
+[tool.ruff.lint.pycodestyle]
+max-line-length = 110 # line length + 10% since it isn't a hard upper bound
