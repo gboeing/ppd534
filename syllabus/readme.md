@@ -15,7 +15,7 @@ Classroom location and meeting times are [listed online](https://classes.usc.edu
 TAs:
 
 - Qifan Shao (email: qifan.shao at usc dot edu, office hours: Thurs 11:00-12:00, RGL student lounge)
-- Sihan Mao (email: sihanmao at usc dot edu, office hours: Wed 13:00-14:00, RGL student lounge)
+- Sihan Mao (email: sihanmao at usc dot edu, office hours: Mondays 11:00-12:00, RGL student lounge)
 
 # Course Description
 
@@ -93,7 +93,7 @@ See the schedule below for due dates. Submit everything via Brightspace. Assignm
 
 It is solely the student's responsibility to ensure that all submissions have gone through on time and contain the complete, working, correct files. Double-check and verify correct and successful submission, and fix it if necessary, before the deadline. You are graded solely on what you submit on Brightspace prior to the deadline. The timestamp in the submission system is our only official record: if it says you're late, you're late. Submissions outside of Brightspace (e.g., by email or on Google Drive) will not be accepted or graded. If your data set is too large for the submission system, you may upload _only your data set_ to the USC Google Drive and provide a link to it in the first cell of your submitted Jupyter notebook that uses it.
 
-Late submissions are deducted 25% per day late. Note that late final project submissions will not be accepted or graded.
+Late submissions are deducted 25% per day late. You will receive a one hour, no questions asked, grace period following each assignment's deadline during which it will be accepted as "on time" before the 25% late penalty begins. Note that late final project submissions will not be accepted or graded.
 
 # Schedule
 

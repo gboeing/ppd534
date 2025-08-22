@@ -56,3 +56,7 @@ First, respond to just 1 of the following 2 prompts (approx 1/2 page):
 2. According to the Wheelan and Urdan readings, what dangers lie in making causal claims and why must we be careful as data-driven storytellers?
 
 Then respond to the following prompt (approx 1/2 page): describe an example from your school/work/personal life where a causal claim was made, but shouldn't have been. Why was it inappropriate for the speaker/writer to imply causation?
+
+### Reading Response 9 (Optional)
+
+According to Mattern, what is the problem with conceptualizing the city as a computer? What specific ethical principles does Kitchin highlight to mitigate these urban technology problems? In your own experience, what is an example of a smart city technology that caused social harm? Would Mattern's or Kitchin's approaches help mitigate this harm?
