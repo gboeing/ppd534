@@ -35,7 +35,7 @@ extend-select = ["A", "B", "E", "F", "I", "UP", "W"]
 
 [tool.ruff.lint.per-file-ignores]
 # allow intentional errors in bootcamp lecture
-"modules/03-coding-bootcamp/lecture-1.ipynb" = ["B018", "F821"]
+"modules/03-coding-refresher/lecture-1.ipynb" = ["B018", "F821"]
 
 [tool.ruff.lint.pycodestyle]
 max-line-length = 110 # line length + 10% since it isn't a hard upper bound
