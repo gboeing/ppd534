@@ -27,7 +27,7 @@ Each week, students will be expected to:
 - Complete and submit any learning assessments due
 - Attend the class session
 
-The course has a prerequisite of basic working knowledge of the Python language. This course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
+The course presumes a basic working knowledge of the Python language. This course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
 # Learning Objectives
 
