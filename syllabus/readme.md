@@ -159,6 +159,7 @@ Learning objectives: we introduce the basics of loading and cleaning data, then 
 Pre-class prep:
 - Wheelan, Naked Statistics, ch. 2-3
 - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
+- Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb)
 
 Activities and assessments:
 - group assignment 2 due the Sunday before class
