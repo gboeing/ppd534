@@ -14,8 +14,8 @@ Classroom location and meeting times are [listed online](https://classes.usc.edu
 
 TAs:
 
-- Jiaqi Dong (email: dongjiaq at usc dot edu, office hours: Wed 12:30-13:30, location: RGL Student Lounge)
-- Daniele Simon-Thompson (email: simontho at usc dot edu, office hours: time TBD, location TBD)
+- Jiaqi Dong (email: dongjiaq at usc dot edu, office hours: Wed 12:30-13:30, RGL Student Lounge)
+- Daniele Simon-Thompson (email: simontho at usc dot edu, office hours: Mon 13:00-14:00, RGL Student Lounge)
 
 # Course Description
 
