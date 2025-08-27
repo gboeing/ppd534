@@ -199,14 +199,7 @@ Activities and assessments:
 - prep notes 5 due the Sunday before class
 - in-class problem set 6
 
-## Oct 14 - Spatial Data Workshop
-
-Learning objectives: we practice the spatial data skills from the past couple of weeks.
-
-Activities and assessments:
-- in-class group work for assignment 4
-
-## Oct 21 - Qualitative Methods in Practice
+## Oct 14 - Qualitative Methods in Practice
 
 Learning objectives: we introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
 
@@ -216,14 +209,17 @@ Pre-class prep:
 - Acolin A, Kim AM. 2021. Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City's periphery. Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
 
 Activities and assessments:
-- group assignment 4 due the Sunday before class
 - prep notes 6 due the Sunday before class
 
-## Oct 28 - Mid-Term Exam
+## Oct 21 - Mid-Term Exam
 
 See assessments folder for details.
 
-## Nov 4 - Social Science and the Scientific Method
+Activities and assessments:
+- group assignment 4 due the Sunday before class
+- in-class midterm exam
+
+## Oct 28 - Social Science and the Scientific Method
 
 Learning objectives: we introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
 
@@ -234,7 +230,7 @@ Activities and assessments:
 - prep notes 7 due the Sunday before class
 - in-class problem set 7
 
-## Nov 11 - Inference and Uncertainty
+## Nov 4 - Inference and Uncertainty
 
 Learning objectives: we introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty. We discuss the limitations of this framework and how other methods, such as qualitative research, can help us build knowledge.
 
@@ -247,6 +243,10 @@ Pre-class prep:
 Activities and assessments:
 - prep notes 8 due the Sunday before class
 - in-class problem set 8
+
+## Nov 11 - No Class
+
+University holiday
 
 ## Nov 18 - Statistical Models
 
