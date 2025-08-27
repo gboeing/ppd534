@@ -244,7 +244,9 @@ Activities and assessments:
 - prep notes 8 due the Sunday before class
 - in-class problem set 8
 
-## Nov 11 - No Class, University Holiday
+## Nov 11 - No Class
+
+University holiday
 
 ## Nov 18 - Statistical Models
 
