@@ -217,7 +217,7 @@ See assessments folder for details.
 
 Activities and assessments:
 - group assignment 4 due the Sunday before class
-- in-lass midterm exam
+- in-class midterm exam
 
 ## Oct 28 - Social Science and the Scientific Method
 
