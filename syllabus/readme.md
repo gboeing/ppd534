@@ -143,8 +143,9 @@ Activities and assessments:
 Learning objectives: we review the basics of Python including variables, loops, conditionals, and functions to control the logic and flow of your code.
 
 Pre-class prep:
-- Review the readings from module 1
-- *Optional* Downey, Think Python, ch. 1-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
+- *Optional* Review the readings from module 1 again
+- Video lectures "01-coding-bootcamp-1" and "02-coding-bootcamp-2"
+- Downey, Think Python, ch. 1-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 Activities and assessments:
 - group assignment 1 due the Sunday before class
@@ -157,9 +158,10 @@ Activities and assessments:
 Learning objectives: we introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
 Pre-class prep:
+- Video lecture "03-data-cleaning-description"
+- Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb)
 - Wheelan, Naked Statistics, ch. 2-3
 - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
-- Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb)
 
 Activities and assessments:
 - group assignment 2 due the Sunday before class
