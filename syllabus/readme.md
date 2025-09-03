@@ -173,8 +173,9 @@ Activities and assessments:
 Learning objectives: we introduce the foundational concepts and best practices of visualizing data for exploratory analysis, looking visually for summaries, patterns, and trends.
 
 Pre-class prep:
-- Tufte, Visual Display of Quantitative Information, ch. 1-3
+- Video lecture "04-data-visualization"
 - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
+- Tufte, Visual Display of Quantitative Information, ch. 1-3
 
 Activities and assessments:
 - prep notes 4 due the Sunday before class
@@ -193,6 +194,7 @@ Activities and assessments:
 Learning objectives: we introduce the foundational concepts of loading spatial data, projecting them, analyzing them, and mapping them.
 
 Pre-class prep:
+- Video lecture "05-spatial-data"
 - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
 - Wheelan, Naked Statistics, ch. 5, 7
 
