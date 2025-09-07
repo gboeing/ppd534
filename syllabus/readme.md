@@ -138,7 +138,7 @@ Activities and assessments:
 - in-class problem set 2
 - in-class group work for assignment 1
 
-## Sep 9 - Coding Bootcamp
+## Sep 9 - Coding Refresher
 
 Learning objectives: we review the basics of Python including variables, loops, conditionals, and functions to control the logic and flow of your code.
 
