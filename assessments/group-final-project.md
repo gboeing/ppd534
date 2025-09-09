@@ -26,7 +26,7 @@ Write a narrative paper (illustrated with your data visualizations) telling the 
 4. results (lay out your findings and visuals)
 5. discussion (circle back to your question and what your analysis tells you about it, what is the big picture and how are these findings useful)
 
-At the top of the first page, include your names, the date, your project title, and the word count (not including tables, figures, captions, or references). At the end of the paper, describe each group member's contribution to this final project (one sentence each).
+At the top of the first page, include your names, the date, your project title, and the word count (not including tables, figures, captions, or references). At the end of the paper, describe each group member's contribution to this final project (one sentence each). Make sure that your submission adhere to the syllabus policy on AI, plagiarism, and citations.
 
 ## Submission
 
