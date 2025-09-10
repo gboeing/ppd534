@@ -239,6 +239,7 @@ Activities and assessments:
 Learning objectives: we introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty. We discuss the limitations of this framework and how other methods, such as qualitative research, can help us build knowledge.
 
 Pre-class prep:
+- Video lecture "06-inference-uncertainty"
 - Wheelan, Naked Statistics, ch. 8-10
 - Urdan, Statistics in Plain English, ch. 4-7.
 - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
