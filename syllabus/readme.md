@@ -130,7 +130,7 @@ Learning objectives: we introduce research design including qualitative and quan
 
 Pre-class prep:
 - Wheelan, Naked Statistics, intro + ch. 1
-- Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
+- Urdan, Statistics in Plain English, ch. 1.
 - Macdonald. The American Community Survey. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944360608976768). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944360608976768).
 
 Activities and assessments:
@@ -145,7 +145,7 @@ Learning objectives: we review the basics of Python including variables, loops, 
 Pre-class prep:
 - *Optional* Review the readings from module 1 again
 - Video lectures "01-coding-bootcamp-1" and "02-coding-bootcamp-2"
-- Downey, Think Python, ch. 1-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
+- Downey, Think Python, 3rd ed., ch. 1-7. [Direct link](https://greenteapress.com/wp/think-python-3rd-edition/)
 
 Activities and assessments:
 - group assignment 1 due the Sunday before class
@@ -161,7 +161,7 @@ Pre-class prep:
 - Video lecture "03-data-cleaning-description"
 - Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb)
 - Wheelan, Naked Statistics, ch. 2-3
-- Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
+- Urdan, Statistics in Plain English, ch. 2-3.
 
 Activities and assessments:
 - group assignment 2 due the Sunday before class
@@ -240,7 +240,7 @@ Learning objectives: we introduce a statistical framework for hypothesis testing
 
 Pre-class prep:
 - Wheelan, Naked Statistics, ch. 8-10
-- Urdan, Statistics in Plain English, ch. 4-7. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
+- Urdan, Statistics in Plain English, ch. 4-7.
 - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
 - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Brightspace) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
 
@@ -258,7 +258,7 @@ Learning objectives: we introduce specifying, estimating, interpreting, and repo
 
 Pre-class prep:
 - Wheelan, Naked Statistics, ch. 4 + 11-13
-- Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
+- Urdan, Statistics in Plain English, ch. 8, 9, 13.
 
 Activities and assessments:
 - prep notes 9 due the Sunday before class
