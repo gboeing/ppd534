@@ -2,6 +2,8 @@ See the schedule in the syllabus for all due dates, expectations, and policies. 
 
 Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination, delegation, accountability, and conflict resolution are challenging but necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help determine your final grade. See also: [Coping with Hitchhikers and Couch Potatoes on Teams](https://www.cs.cornell.edu/courses/cs3110/2018fa/teams/hitchhikers.html).
 
+For all five group assignment submissions, we expect the work to adhere to the syllabus policy on AI, plagiarism, and citations.
+
 # Group Assignment 1: Collecting Data
 
 This course's final project requires you to identify a research question, collect data, analyze it, and discuss how your findings answer the question.
