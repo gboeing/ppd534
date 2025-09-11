@@ -258,6 +258,7 @@ University holiday
 Learning objectives: we introduce specifying, estimating, interpreting, and reporting regression models.
 
 Pre-class prep:
+- Video lecture "07-statistical-models"
 - Wheelan, Naked Statistics, ch. 4 + 11-13
 - Urdan, Statistics in Plain English, ch. 8, 9, 13.
 
