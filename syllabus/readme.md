@@ -161,7 +161,7 @@ Learning objectives: we introduce the basics of loading and cleaning data, then 
 
 Pre-class prep:
 - Video lecture "03-data-cleaning-description"
-- Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb)
+- Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb) (through the section "Mounting Google Drive locally")
 - Wheelan, Naked Statistics, ch. 2-3
 - Urdan, Statistics in Plain English, ch. 2-3.
 
