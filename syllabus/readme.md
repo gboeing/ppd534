@@ -210,7 +210,7 @@ Activities and assessments:
 Learning objectives: we introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
 
 Pre-class prep:
-- Desmond, Matthew. Evicted: Poverty and Profit in the American City. Prologue, Chapter 1, and Chapter 8. New York: Broadway Books, 2017.
+- Please choose one of the two options to read: Desmond, Matthew. Evicted: Poverty and Profit in the American City. Prologue, Chapter 1, and Chapter 8. New York: Broadway Books, 2017. OR Desmond, Matthew. 2016. Forced Out. The New Yorker. [Direct link](https://www.newyorker.com/magazine/2016/02/08/forced-out)
 - Eviction lab website (maps and data) [Direct link](https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=states&y=2018&z=3.09&lat=37.33&lon=-92.78&lang=en)
 - Acolin A, Kim AM. 2021. Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City's periphery. Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
 
