@@ -6,7 +6,7 @@ The exam will occur in-person during our regularly scheduled class session. See 
 
 ## Session logistics
 
-You must complete the exam with a blue or black ink pen (so make sure to bring one and a backup) and ensure your handwriting is legible so we can read your responses without ambiguity.
+You must complete the exam with a blue or black ink pen (so make sure to bring one plus a backup) and ensure your handwriting is legible so we can read your responses without ambiguity.
 
 You cannot re-enter the classroom if you leave once the exam has begun. If you must leave the room for any reason, turn in your exam for grading on your way out.
 
