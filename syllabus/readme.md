@@ -74,7 +74,7 @@ The following sections outline the work you agree to do by enrolling in this cou
 
 ## Attendance Policy
 
-This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance.
+This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance. There is no accommodation for travel: it's the student's responsibility to know the school schedule before they book travel and to adjust travel dates as needed. 
 
 ## Submission Policy
 
@@ -301,7 +301,7 @@ See the assessments folder for details.
 
 USC welcomes students with disabilities into all of the University’s educational programs. The Office of Student Accessibility Services (OSAS) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at https://osas.usc.edu/. You may contact OSAS at (213) 740-0776 or osasfrontdesk@usc.edu.
 
-To maintain fairness and equity for all students, exceptions to syllabus policies are only granted in accordance with official LOAs. There are no retroactive accommodations negotiable after deadlines. There is no accommodation for travel: it's the student's responsibility to know the school schedule before they book travel and to adjust travel dates as needed. Course content and classroom discussion may deal with topics that you find difficult or upsetting but are relevant to the course. It is your responsibility to review the syllabus to be aware of upcoming content so you can prepare for it adequately. Contact OSAS for an LOA if you require an accommodation.
+To maintain fairness and equity for all students, exceptions to syllabus policies are only granted in accordance with official LOAs and there are no retroactive accommodations negotiable after deadlines. Course content and classroom discussion may deal with topics that you find difficult or upsetting but are relevant to the course's core learning outcomes. It is your responsibility to review the syllabus to be aware of upcoming content so you can prepare for it adequately. Contact OSAS for an LOA if you believe you require an accommodation.
 
 ## Plagiarism and AI
 
