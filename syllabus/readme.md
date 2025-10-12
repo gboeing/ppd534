@@ -244,8 +244,9 @@ Pre-class prep:
 - Video lecture "06-inference-uncertainty"
 - Wheelan, Naked Statistics, ch. 8-10
 - Urdan, Statistics in Plain English, ch. 4-7.
-- Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
 - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Brightspace) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
+- *Optional* The Guardian [article](https://www.theguardian.com/us-news/2025/oct/02/trump-tylenol-autism-expert-analysis)
+- *Optional* Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
 
 Activities and assessments:
 - prep notes 8 due the Sunday before class
