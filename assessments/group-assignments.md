@@ -1,4 +1,4 @@
-See the schedule in the syllabus for all due dates, expectations, and policies. All submissions must adhere to the syllabus policy on AI, plagiarism, and citations. Remember that assignment due dates are final deadlines, not indicators of when you're supposed to work on them. You are given several days to complete assignments that take, at most, a few hours. Procrastinate at your own peril. You will be graded on your adherence to *all* the instructions, so please read them carefully. 
+See the schedule in the syllabus for all due dates, expectations, and policies. All submissions must adhere to the syllabus policy on AI, plagiarism, and citations. Remember that assignment due dates are final deadlines, not indicators of when you're supposed to work on them. You are given several days to complete assignments that take, at most, a few hours. Procrastinate at your own peril. You will be graded on your adherence to *all* the instructions, so please read them carefully.
 
 Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. Written feedback will be provided directly to that submitter, via Brightspace, so ensure you share it with the other group members.
 
@@ -30,7 +30,7 @@ At the end of the notebook, include a markdown cell that identifies each group m
 
 # Group Assignment 3: Data Visualization
 
-You will visualize the data you downloaded in assignment 1. Create a new Jupyter notebook. The first cell of your notebook should be markdown explaining where you found your data set and what it contains.
+You will visualize the data you downloaded in assignment 1. Create a new Jupyter notebook. The first cell of your notebook should be markdown explaining where you found your data set and what it contains. This should include 1) *who* collected, generated, assembled, and maintain the data, 2) *what* variables the data contain, if they are transformed in some important way, and at what level they are aggregated, 3) *when* it was released and what time period it covers, 4) where: what geographical area it covers.
 
 Use pandas to load your data set and clean/process it as needed. Identify at least two variables of interest and calculate relevant descriptive statistics. Using the techniques we learned in class, visualize interesting aspects of your data set. Next, in total, you will create at least 4 visualizations using at least 3 different visualization types (such as bar charts, line charts, scatter plots, or anything else). 1 of your visualizations should be a "bad" visualization (that is, does not follow best practices) and the next one should be an improvement of it.
 
