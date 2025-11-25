@@ -100,7 +100,7 @@ Final grade weighting (there is no extra credit):
   - 25%: ten individual in-class problem sets
   - 25%: individual midterm exam
   - 25%: five group assignments
-  - 10%: final group project and presentation
+  - 10%: final group project
   - 5%:  peer review
 
 Final grade percentage ranges and meaning:
