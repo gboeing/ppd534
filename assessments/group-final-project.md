@@ -30,4 +30,4 @@ At the top of the first page, include your names, the date, your project title, 
 
 ## Submission
 
-Via Brightspace, submit a zip file containing the narrative paper (as PDF), your visualization and map image files, web maps (if any), and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline, and remember that the final project deadline is strict: the submission system completely closes then and there are no extensions or grace period.
+Via Brightspace, submit a zip file containing the narrative paper (as PDF), your visualization and map image files, and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline, and remember that the final project deadline is strict: the submission system completely closes then and there are no extensions or grace period.
