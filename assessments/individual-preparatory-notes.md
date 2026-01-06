@@ -6,5 +6,5 @@ Notetaking is a core life skill for active learning and retention. Here we ask y
 
 Rubric:
   - did you restate in your own words (don't copy/paste) the main points of the main sections of the pre-class prep materials?
-  - did you following the formatting instructions?
+  - did you follow the formatting and submission instructions?
   - did you adhere to the syllabus policies regarding AI, plagiarism, quoting, and citing?

@@ -74,7 +74,7 @@ The following sections outline the work you agree to do by enrolling in this cou
 
 ## Attendance Policy
 
-This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance. There is no accommodation for travel: it's the student's responsibility to know the school schedule before they book travel and to adjust travel dates as needed.
+This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance. Likewise there is no accommodation for travel: it's the student's responsibility to know the school schedule before they book travel and to adjust travel dates as needed.
 
 ## Submission Policy
 
@@ -84,7 +84,9 @@ Please submit early to avoid any last-minute headaches such as slow uploads, con
 
 ## Late Policy and Extensions
 
-The professional world demands punctuality, which we practice in this course through relatively strict deadlines. However, sometimes things come up and we could use a little grace. Each assessment comes with a 12-hour, no-questions-asked grace period following its deadline during which it will be accepted as though on-time (does not apply to exams or final projects). You can submit after that for a 25% penalty until the submission system closes completely 24 hours after the original deadline.
+The professional world demands punctuality, which we practice in this course through relatively strict deadlines. Remember that assignment due dates are final deadlines, not indicators of when you're supposed to work on them. You are given several days to complete assignments that take, at most, a few hours. Procrastinate at your own peril.
+
+However, sometimes things come up and we could use a little grace. Each assessment comes with a 12-hour, no-questions-asked grace period following its deadline during which it will be accepted as though on-time (does not apply to exams or final projects). You can submit after that for a 25% penalty until the submission system closes completely 24 hours after the original deadline.
 
 You additionally have two "free drops" that you can use to drop any individual assessments (does not apply to group work or exams) within 48 hours of its deadline. Just submit a free drop on Brightspace, identify the assessment to drop in the comment box, and we will set its grade to 100%. Do not notify the instructor: you don't have to ask for permission, or justify it, or provide documentation. This offers you some grace without having to share private information about your personal circumstances, family, or health. For example, use a free drop to stay home sick and not worry about losing points for an in-class activity that day. Or use one to take a week off if an emergency occurs, such as sudden hospitalization or a death in the family. But save them for when you really need them: you can't change your free drop after submitting it, and if you require more than these two free drops, you must get an OSAS accommodation for additional extensions.
 
@@ -306,7 +308,9 @@ To maintain fairness and equity for all students, exceptions to syllabus policie
 
 ## Plagiarism and AI
 
-Review the student handbook for expectations on academic integrity and understand what constitutes [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). Do not reproduce any words, images, code, or other content created by another author (including AI) without quote marks and citation. If you instead refer to their ideas in your own words, you must cite them to make it clear whose ideas you're referring to. In this course, any common citation style will do as long as you use it consistently. Content generated from AI or similar tools including ChatGPT and Google Translate may be submitted in this course (except where expressly prohibited) in accordance with the preceding plagiarism guidelines. You are solely responsible for any submitted content: false claims and fake references, regardless of their origin, are academic integrity violations, so review all content carefully before submission.
+Review the student handbook for expectations on academic integrity and understand what constitutes [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). Do not reproduce any words, images, code, or other content created by another author (including AI) without quote marks and citation. If you instead refer to their ideas in your own words, you must cite them to make it clear whose ideas you're referring to. In this course, any common citation style will do as long as you use it consistently, but we recommend APA style to include page numbers for direct quotations in your notes. Students have found this helpful for exam prep. The USC Library and the USC Writing Center provide guides and resources if you have any questions.
+
+Content generated from AI or similar tools including ChatGPT and Google Translate may be submitted in this course (except where expressly prohibited) in accordance with the preceding plagiarism guidelines. You are solely responsible for any submitted content: false claims and fake references, regardless of their origin, are academic integrity violations, so review all content carefully before submission.
 
 ## Academic Conduct
 
