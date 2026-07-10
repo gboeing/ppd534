@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-URL="https://raw.githubusercontent.com/gboeing/ppd534/refs/heads/2026/pyproject.toml"
+URL="https://raw.githubusercontent.com/gboeing/ppd534/refs/heads/main/pyproject.toml"
 
 if [[ -n "${COLAB_RELEASE_TAG:-}" ]]; then
     echo "Running in Google Colab. Installing dependencies."
