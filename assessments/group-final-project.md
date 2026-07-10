@@ -2,7 +2,7 @@
 
 See the schedule in the syllabus for all assignment due dates and expectations. Group assignments need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to _all_ the instructions. Please read the instructions carefully.
 
-The final project is a cumulative and applied group assignment that requires you to collectively use the skills you developed over the entire semester. You will develop an interesting research question then answer it using the statistics, modeling, and visualization methods you have learned in this course.
+The final project is a cumulative and applied group assignment that requires you to collectively use the skills you developed over the entire semester. You will develop an interesting research question then answer it using the statistics, modeling, and visualization methods you have learned in this course. Make sure that you review the feedback on the group assignments and address them in your final project submission to avoid missing points again.
 
 ## Instructions
 
@@ -23,11 +23,11 @@ Write a narrative paper (illustrated with your data visualizations) telling the 
 1. introduction (provide an overview of your entire project)
 2. background (explain the context, prior work, and motivation leading to your question)
 3. methods (explain your data and analyses such that a knowledgeable expert could independently reproduce your study's results without seeing your code)
-4. results (lay out your findings and visuals)
+4. results (lay out your findings and visuals, and have visuals embedded inline with writeup)
 5. discussion (circle back to your question and what your analysis tells you about it, what is the big picture and how are these findings useful)
 
 At the top of the first page, include your names, the date, your project title, and the word count (not including tables, figures, captions, or references). At the end of the paper, describe each group member's contribution to this final project (one sentence each). Make sure that your submission adhere to the syllabus policy on AI, plagiarism, and citations.
 
 ## Submission
 
-Via Brightspace, submit a zip file containing the narrative paper (as PDF), your visualization and map image files, and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline, and remember that the final project deadline is strict: the submission system completely closes then and there are no extensions or grace period.
+Via Brightspace, submit a zip file containing the narrative paper (as PDF, with inline figures), your visualization and map image files, and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline, and remember that the final project deadline is strict: the submission system completely closes then and there are no extensions or grace period.
