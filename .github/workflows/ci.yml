@@ -55,4 +55,4 @@ jobs:
       - name: Test
         run: |
           uv pip check
-          ipython -c "import osmnx"
+          uv run ipython -c "import osmnx"
