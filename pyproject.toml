@@ -36,6 +36,3 @@ force-single-line = true
 
 [tool.ruff.lint.pycodestyle]
 max-line-length = 110 # line length + 10% since it isn't a hard upper bound
-
-[tool.uv]
-required-version = "==0.11.*"
