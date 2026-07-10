@@ -4,7 +4,7 @@ set -euo pipefail
 URL="https://raw.githubusercontent.com/gboeing/ppd534/refs/heads/2026/pyproject.toml"
 
 if [[ -n "${COLAB_RELEASE_TAG:-}" ]]; then
-    echo "Running in Google Colab."
+    echo "Running in Google Colab. Installing dependencies."
     curl -LsSf --output pyproject.toml "$URL"
     which uv
     uv self version
