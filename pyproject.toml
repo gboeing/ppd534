@@ -1,30 +1,36 @@
 [project]
 authors = [{ name = "Geoff Boeing", email = "boeing@usc.edu" }]
-dependencies = [  # pin to minor versions pre-installed on Colab
-    "folium==0.20.*",
-    "geopy==2.4.*",
-    "mapclassify==2.10.*",
-    "osmnx[all]==2.0.*",
-    "seaborn==0.13.*",
-    "statsmodels==0.14.*",
-]
+name = "PPD534"
+version = "2026"
 description = "USC PPD534: Data, Evidence, and Communication for the Public Good"
 license = "MIT"
 license-files = ["LICENSE.txt"]
-name = "PPD534"
 readme = "README.md"
-requires-python = "==3.13.*"
-version = "2025"
+requires-python = "==3.12.*"  # pin to minor version pre-installed on Colab
+dependencies = [  # pin to minor versions pre-installed on Colab
+    "folium==0.20.*",
+    "geopy==2.4.*",
+    "ipykernel",
+    "jedi",
+    "mapclassify==2.10.*",
+    "osmnx[all]==2.1.*",
+    "pip",
+    "seaborn==0.13.*",
+    "statsmodels==0.14.*",
+]
 
 [dependency-groups]
-dev = ["nbdime", "pre-commit"]
+dev = ["nbdime", "prek"]
 
 [tool.ruff]
-cache-dir = "~/.cache/pre-commit/ruff"
+cache-dir = "~/.cache/prek/cache/ruff"
 line-length = 100
 
 [tool.ruff.lint]
 extend-select = ["A", "B", "E", "F", "I", "UP", "W"]
+
+[tool.ruff.lint.isort]
+force-single-line = true
 
 [tool.ruff.lint.per-file-ignores]
 # allow intentional errors in bootcamp lecture

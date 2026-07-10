@@ -5,10 +5,17 @@ repos:
     hooks:
       - id: check-added-large-files
         args: [--maxkb=50]
+      - id: check-ast
       - id: check-case-conflict
+      - id: check-executables-have-shebangs
+      - id: check-illegal-windows-names
+      - id: check-json
       - id: check-merge-conflict
         args: [--assume-in-merge]
+      - id: check-shebang-scripts-are-executable
+      - id: check-symlinks
       - id: check-toml
+      - id: check-xml
       - id: check-yaml
       - id: detect-private-key
       - id: end-of-file-fixer
@@ -17,24 +24,31 @@ repos:
       - id: no-commit-to-branch
       - id: trailing-whitespace
 
-  - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.11.13
-    hooks:
-      - id: ruff-check
-        args: [--fix, --ignore=E501]
-      - id: ruff-format
-
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.37.1
+    rev: v1.38.0
     hooks:
       - id: yamllint
         args:
           - --strict
           - >
             -d={extends: default, rules: {
-            quoted-strings: {quote-type: single, required: only-when-needed}}}
+            line-length: {max: 100},
+            quoted-strings: {quote-type: single,
+                             required: only-when-needed}}}
+
+  - repo: https://github.com/Lucas-C/pre-commit-hooks
+    rev: v1.5.6
+    hooks:
+      - id: remove-tabs
 
   - repo: https://github.com/kynan/nbstripout
-    rev: 0.8.1
+    rev: 0.9.1
     hooks:
       - id: nbstripout
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.15.21
+    hooks:
+      - id: ruff-check
+        args: [--fix, --ignore=E501]
+      - id: ruff-format
