@@ -13,5 +13,5 @@ if [[ -n "${COLAB_RELEASE_TAG:-}" ]]; then
     python -c "import osmnx"
     echo "Finished."
 else
-    echo "Not running in Google Colab."
+    echo "Not running in Google Colab. No action taken."
 fi
