@@ -10,17 +10,14 @@ requires-python = "==3.12.*"  # pin to minor version pre-installed on Colab
 dependencies = [  # pin to minor versions pre-installed on Colab
     "folium==0.20.*",
     "geopy==2.4.*",
-    "ipykernel",
-    "jedi",
     "mapclassify==2.10.*",
     "osmnx[all]==2.1.*",
-    "pip",
     "seaborn==0.13.*",
     "statsmodels==0.14.*",
 ]
 
 [dependency-groups]
-dev = ["nbdime", "prek"]
+dev = ["jupyterlab", "nbdime", "pip", "prek"]
 
 [tool.ruff]
 cache-dir = "~/.cache/prek/cache/ruff"
