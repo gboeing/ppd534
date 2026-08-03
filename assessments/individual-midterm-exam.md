@@ -16,6 +16,6 @@ If you have a clarifying question during the exam, please ask the instructor pri
 
 No books, laptops, phones, or other devices are allowed out during the exam session. Keep them secured in your bag at all times.
 
-You may not bring notes or materials of any kind to the exam. You may however submit midterm notes (1 sheet, front and back) on Brightspace the week before the exam. The TA will approve and print these before the exam, then bring them to the classroom where you may collect yours before the exam begins.
+You may not bring notes or materials of any kind to the exam. You may however submit midterm notes (as a 2-page PDF, i.e., 1 sheet front and back) on Brightspace the week before the exam. The TA will approve and print these before the exam, then bring them to the classroom where you may collect yours before the exam begins. Make sure your name is at the top-left corner so the TA can identify which is yours.
 
 Relax and come to the exam well-rested. If you've been putting in the work all semester, you'll do fine.
