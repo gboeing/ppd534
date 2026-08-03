@@ -8,7 +8,7 @@ USC PPD534 / Fall 2026 / 4 units
 
 Email: boeing at usc dot edu
 
-Office hours: Tue 13:00-14:00, RGL 301A
+Office hours: Tue 13:00-14:00, RGL 301F
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
@@ -33,7 +33,7 @@ The course presumes a basic working knowledge of the Python language. This cours
 
 By the end of this course, students should be proficient in the following core skills and knowledge necessary in the field after graduation.
 
-- Write simple code to manipulate, analyze, and visualize urban data
+- Write simple code (with and without AI) to manipulate, analyze, and visualize urban data
 - Understand how to use basic descriptive and inferential statistics to evaluate and interpret social science evidence
 - Tell stories about public issues with a combination of text and visuals using data and evidence
 - Evaluate the politics and ethics underlying how technology impacts cities and planning processes
@@ -51,7 +51,7 @@ If you have a question about class material, homework, or a coding/data problem:
 Given the nature of this course, we do expect a few things of you before you seek assistance with coding/data questions:
 
 1. Close all open programs, restart your computer, then try your task again
-2. Search Google and StackOverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
+2. Search Google and StackOverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing), and ask AI for suggestions
 3. Go back through the relevant lecture materials to look for any insights
 4. Go back through the assigned reading materials to look for any insights
 5. Ask your teammates if they have any insight
@@ -60,7 +60,7 @@ If the above steps haven't solved your problem, post on Slack (or attend office 
 
 1. A detailed description of what you're trying to do, why, and how
 2. A complete [minimal reproducible example](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) of your code so far (never send screenshots of code/tracebacks)
-3. What you've already tried to do to solve your problem and what you have learned from it so far (specifically, explain the results of steps 1-4 above, including relevant links from StackOverflow etc)
+3. What you've already tried to do to solve your problem and what you have learned from it so far (specifically, explain the results of steps 1-4 above)
 
 We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your issue and avoid the [XY Problem](https://en.wikipedia.org/wiki/XY_problem).
 
@@ -88,7 +88,7 @@ The professional world demands punctuality, which we practice in this course thr
 
 However, sometimes things come up and we could use a little grace. Each assessment comes with a 12-hour, no-questions-asked grace period following its deadline during which it will be accepted as though on-time (does not apply to exams or final projects). You can submit after that for a 25% penalty until the submission system closes completely 24 hours after the original deadline.
 
-You additionally have two "free drops" that you can use to drop any individual assessments (does not apply to group work or exams) within 48 hours of its deadline. Just submit a free drop on Brightspace, identify the assessment to drop in the comment box, and we will set its grade to 100%. Do not notify the instructor: you don't have to ask for permission, or justify it, or provide documentation. This offers you some grace without having to share private information about your personal circumstances, family, or health. For example, use a free drop to stay home sick and not worry about losing points for an in-class activity that day. Or use one to take a week off if an emergency occurs, such as sudden hospitalization or a death in the family. But save them for when you really need them: you can't change your free drop after submitting it, and if you require more than these two free drops, you must get an OSAS accommodation for additional extensions.
+You additionally have two "free drops" that you can use to drop any individual assessments (does not apply to group work or exams) within 48 hours of its original deadline. Just submit a free drop on Brightspace, identify the assessment to drop in the comment box, and we will set its grade to 100%. Do not notify the instructor: you don't have to ask for permission, or justify it, or provide documentation. This offers you some grace without having to share private information about your personal circumstances, family, or health. For example, use a free drop to stay home sick and not worry about losing points for an in-class activity that day. Or use one to take a week off if an emergency occurs, such as sudden hospitalization or a death in the family. But save them for when you really need them: you can't change your free drop after submitting it, and if you require more than these two free drops, you must get an OSAS accommodation for additional extensions.
 
 ## Grading Policy
 
@@ -99,8 +99,8 @@ Posted grades are final and non-negotiable. This policy exists to protect you an
 Final grade weighting (there is no extra credit):
 
   - 10%: ten individual preparatory notes
-  - 25%: ten individual in-class problem sets
-  - 35%: individual midterm exam
+  - 20%: ten individual in-class problem sets
+  - 40%: individual midterm exam
   - 20%: five group assignments
   - 5%:  final group project
   - 5%:  peer review
@@ -115,7 +115,7 @@ Final grade percentage ranges and meaning:
 
 # Schedule
 
-## Aug 26 - Introduction
+## Aug 25 - Introduction
 
 Learning objectives: course policies, the semester's expectations and schedule, and the computing environment for coursework.
 
@@ -128,7 +128,7 @@ Activities and assessments:
 - in-class problem set 1
 - in-class pre-course survey and Slack introductions
 
-## Sep 2 - Research Design and Data Collection
+## Sep 1 - Research Design and Data Collection
 
 Learning objectives: we introduce research design including qualitative and quantitative methods, discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
@@ -142,7 +142,7 @@ Activities and assessments:
 - in-class problem set 2
 - in-class group work for assignment 1
 
-## Sep 9 - Coding Refresher
+## Sep 8 - Coding Refresher
 
 Learning objectives: we review the basics of Python including variables, loops, conditionals, and functions to control the logic and flow of your code.
 
@@ -157,7 +157,7 @@ Activities and assessments:
 - in-class problem set 3
 - in-class group work for assignment 2
 
-## Sep 16 - Data Cleaning and Descriptive Stats
+## Sep 15 - Data Cleaning and Descriptive Stats
 
 Learning objectives: we introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
@@ -172,7 +172,7 @@ Activities and assessments:
 - prep notes 3 due the Sunday before class
 - in-class problem set 4
 
-## Sep 23 - Data Visualization
+## Sep 22 - Data Visualization
 
 Learning objectives: we introduce the foundational concepts and best practices of visualizing data for exploratory analysis, looking visually for summaries, patterns, and trends.
 
@@ -186,14 +186,14 @@ Activities and assessments:
 - in-class problem set 5
 - in-class group work for assignment 3
 
-## Sep 30 - Data Visualization Workshop
+## Sep 29 - Data Workshop
 
 Learning objectives: we practice the data cleaning, description, and visualization skills from the past couple of weeks.
 
 Activities and assessments:
 - in-class group work for assignment 3
 
-## Oct 7 - Spatial Data
+## Oct 6 - Spatial Data
 
 Learning objectives: we introduce the foundational concepts of loading spatial data, projecting them, analyzing them, and mapping them.
 
@@ -207,19 +207,14 @@ Activities and assessments:
 - prep notes 5 due the Sunday before class
 - in-class problem set 6
 
-## Oct 14 - Qualitative Methods in Practice
+## Oct 13 - Spatial Data Workshop
 
-Learning objectives: we introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
-
-Pre-class prep:
-- Please choose one of the two options to read: Desmond, Matthew. Evicted: Poverty and Profit in the American City. Prologue, Chapter 1, and Chapter 8. New York: Broadway Books, 2017. OR Desmond, Matthew. 2016. Forced Out. The New Yorker. [Direct link](https://www.newyorker.com/magazine/2016/02/08/forced-out)
-- Eviction lab website (maps and data) [Direct link](https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=states&y=2018&z=3.09&lat=37.33&lon=-92.78&lang=en)
-- Acolin A, Kim AM. 2021. Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City's periphery. Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
+Learning objectives: we practice the data analysis and spatial analysis skills from the past few weeks.
 
 Activities and assessments:
-- prep notes 6 due the Sunday before class
+- in-class group work for assignment 4
 
-## Oct 21 - Midterm Exam
+## Oct 20 - Midterm Exam
 
 See assessments folder for details.
 
@@ -227,7 +222,18 @@ Activities and assessments:
 - group assignment 4 due the Sunday before class
 - in-class midterm exam
 
-## Oct 28 - Social Science and the Scientific Method
+## Oct 27 - Qualitative Methods in Practice
+
+Learning objectives: we introduce qualitative methods including study design, implementation, qualitative analysis, and the role of qualitative methods in urban planning.
+
+Pre-class prep:
+- Eviction lab website (maps and data) [Direct link](https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=states&y=2018&z=3.09&lat=37.33&lon=-92.78&lang=en)
+- Acolin A, Kim AM. 2021. Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City's periphery. Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
+
+Activities and assessments:
+- prep notes 6 due the Sunday before class
+
+## Nov 3 - Social Science and the Scientific Method
 
 Learning objectives: we introduce social science, the scientific method, inference, prediction and explanation, and instrumentalism. We discuss the roles of qualitative and quantitative methods in constructing actionable knowledge.
 
@@ -238,7 +244,7 @@ Activities and assessments:
 - prep notes 7 due the Sunday before class
 - in-class problem set 7
 
-## Nov 4 - Inference and Uncertainty
+## Nov 10 - Inference and Uncertainty
 
 Learning objectives: we introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty. We discuss the limitations of this framework and how other methods, such as qualitative research, can help us build knowledge.
 
@@ -254,11 +260,7 @@ Activities and assessments:
 - prep notes 8 due the Sunday before class
 - in-class problem set 8
 
-## Nov 11 - No Class
-
-University holiday
-
-## Nov 18 - Statistical Models
+## Nov 17 - Statistical Models
 
 Learning objectives: we introduce specifying, estimating, interpreting, and reporting regression models.
 
@@ -272,7 +274,7 @@ Activities and assessments:
 - in-class problem set 9
 - in-class group work for assignment 5
 
-## Nov 25 - Final Workshop
+## Nov 24 - Modeling Workshop
 
 Learning objectives: we practice the skills from across the semester as we ready our final projects.
 
@@ -280,9 +282,9 @@ Activities and assessments:
 - group assignment 5 due the Sunday before class
 - in-class group work for final projects
 
-## Dec 2 - Smart Cities, Ethics, and Evidence-Based Planning
+## Dec 1 - AI, Tech, Ethics, and Evidence-Based Planning
 
-Learning objectives: we introduce the social context and limitations of science as it applies to real-world urban planning practice, then critically engage the smart cities paradigm and the roles of civic tech, techno-utopianism, politics, power, and ethics. We discuss how qualitative and quantitative methods work together for evidence-based planning.
+Learning objectives: we introduce the social context and limitations of science as it applies to real-world urban planning practice, then critically engage the urban tech paradigm and the roles of AI, civic tech, techno-utopianism, politics, power, and ethics. We discuss how qualitative and quantitative methods work together for evidence-based planning.
 
 Pre-class prep:
 - Okasha, Philosophy of Science, ch. 5, 7
@@ -302,13 +304,13 @@ See the assessments folder for details.
 
 ## Accommodations
 
-USC welcomes students with disabilities into all of the University’s educational programs. The Office of Student Accessibility Services (OSAS) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at https://osas.usc.edu/. You may contact OSAS at (213) 740-0776 or osasfrontdesk@usc.edu.
+USC welcomes students with disabilities into all of the University's educational programs. The Office of Student Accessibility Services (OSAS) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at https://osas.usc.edu/. You may contact OSAS at (213) 740-0776 or osasfrontdesk@usc.edu.
 
 To maintain fairness and equity for all students, exceptions to syllabus policies are only granted in accordance with official LOAs and there are no retroactive accommodations negotiable after deadlines. Course content and classroom discussion may deal with topics that you find difficult or upsetting but are relevant to the course's core learning outcomes. It is your responsibility to review the syllabus to be aware of upcoming content so you can prepare for it adequately. Contact OSAS for an LOA if you believe you require an accommodation.
 
 ## Plagiarism and AI
 
-Review the student handbook for expectations on academic integrity and understand what constitutes [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). Do not reproduce any words, images, code, or other content created by another author (including AI) without quote marks and citation. If you instead refer to their ideas in your own words, you must cite them to make it clear whose ideas you're referring to. In this course, any common citation style will do as long as you use it consistently, but we recommend APA style to include page numbers for direct quotations in your notes. Students have found this helpful for exam prep. The USC Library and the USC Writing Center provide guides and resources if you have any questions.
+Review the student handbook for expectations on academic integrity and understand what constitutes [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). Do not reproduce any words, images, code, or other content created by another author (including AI) without quote marks and citation. If you instead refer to their ideas in your own words, you must cite them to make it clear whose ideas you're referring to. We recommend APA style citations (but any common citation style will suffice), to include page numbers for direct quotations in your notes (also helpful for exam prep). The USC Library and the USC Writing Center provide guides and resources if you have any questions.
 
 Content generated from AI or similar tools including ChatGPT and Google Translate may be submitted in this course (except where expressly prohibited) in accordance with the preceding plagiarism guidelines. You are solely responsible for any submitted content: false claims and fake references, regardless of their origin, are academic integrity violations, so review all content carefully before submission.
 
@@ -337,18 +339,20 @@ Counseling and Mental Health - (213) 740-9355 - 24/7 on call. Free and confident
 
 988 Suicide and Crisis Lifeline - 988 for both calls and text messages - 24/7 on call. The 988 Suicide and Crisis Lifeline (formerly known as the National Suicide Prevention Lifeline) provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week, across the United States. The Lifeline consists of a national network of over 200 local crisis centers, combining custom local care and resources with national standards and best practices. The new, shorter phone number makes it easier for people to remember and access mental health crisis services (though the previous 1 (800) 273-8255 number will continue to function indefinitely) and represents a continued commitment to those in crisis.
 
-CARE-SC: Confidential Advocacy, Resources, and Education Support Center - (213) 740-9355(WELL) - 24/7/365 on call. Confidential advocates, prevention educators, and professional counseling teams work to promote a universal culture of consent, as well as prevent and respond to sexual assault, intimate partner violence, stalking, or other relationship harm. Services available to all USC students at no cost.
+CARE-SC: Confidential Advocacy, Resources, and Education Support Center - (213) 740-9355(WELL) - 24/7/365 on call. Confidential advocates, prevention educators, and professional counseling teams work to promote a universal culture of consent, and prevent and respond to gender- and power-based harm. Services available to all USC students at no cost.
 
 Office of Civil Rights Compliance - (213) 740-5086. Information about how to get help or help someone affected by harassment, discrimination, retaliation on the basis of a protected characteristic, rights of protected classes, reporting options, and additional resources for students, faculty, staff, visitors, and applicants.
 
-USC Report & Response - (213) 740-2500. The USC Report & Response website is the university's central reporting portal for concerns arising in the academic space or workplace.  All concerns will be assessed and referred to the appropriate university office for resolution.  Any questions about USC Report & Response or reporting, in general, can be referred to the Office of Professionalism and Ethics at ope@usc.edu.
+USC Campus Support and Intervention - (213) 740-0411, uscsupport@usc.edu. Assists students and families in resolving complex personal, financial, and academic issues adversely affecting their success as a student.
 
-USC Campus Support and Intervention - (213) 740-0411. Focuses on student success by assisting students in navigating and resolving complex issues through problem solving, presenting options, and connecting to resources.
+USC Emergency Information - https://emergency.usc.edu/. Latest updates regarding safety, including ways in which instruction will be continued if an officially declared emergency makes travel to campus infeasible.
 
-USC Emergency Information. Latest updates regarding safety, including ways in which instruction will be continued if an officially declared emergency makes travel to campus infeasible.
+USC Department of Public Safety - For 24 hour emergency assistance or to report a crime: UPC: (213) 740-4321, HSC: (323)-442-1000. For 24 hour non-emergency assistance or information: UPC: (213) 740-6000, HSC: 323-442-1200.
 
-USC Department of Public Safety. For 24 hour emergency assistance or to report a crime: UPC: (213) 740-4321, HSC: (323)-442-1000. For 24 hour non-emergency assistance or information: UPC: (213) 740-6000, HSC: 323-442-1200.
+Office of the Ombuds - (213) 821-9556 (UPC) / (323) 442-0382 (HSC). A safe and confidential place to share your USC-related issues with a University Ombuds who will work with you to explore options or paths to manage your concern.
 
-Office of the Ombuds - (213) 821-9556 (UPC) / (323-442-0382 (HSC). A safe and confidential place to share your USC-related issues with a University Ombuds who will work with you to explore options or paths to manage your concern.
+Occupational Therapy Faculty Practice - (323) 442-2850 or otfp@med.usc.edu. Lifestyle Redesign services for USC students to support health promoting habits and routines that enhance quality of life and academic performance.
 
-Occupational Therapy Faculty Practice - (323) 442-2850 or otfp@med.usc.edu. ​Confidential Lifestyle Redesign services for USC students to support health promoting habits and routines that enhance quality of life and academic performance. 
+The Office of Sustainability promotes numerous ways for all Trojans to study, work, and live sustainably at USC. Students can access tools, resources, and opportunities on their website and in the Sustainability Hub in the Student Union Building, Suite 101.
+
+USC Report and Response provides a front door to reporting concerns, including an ability to report anonymously, which violate university policies or go against our Unifying Values and helps connect you with the support you need. The website provides a list of confidential resources, supporting offices, and policies that are available to our university community. The Resources page includes information regarding the university’s response in the event of immigration enforcement activity on campus or involving a student or employee.  Additional questions may be directed to the Office of Professionalism and Ethics (OPE) and ope@usc.edu or in reviewing the Office of Professionalism and Ethics website.
