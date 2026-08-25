@@ -33,10 +33,11 @@ The course presumes a basic working knowledge of the Python language. This cours
 
 By the end of this course, students should be proficient in the following core skills and knowledge necessary in the field after graduation.
 
-- Write simple code (with and without AI) to manipulate, analyze, and visualize urban data
-- Understand how to use basic descriptive and inferential statistics to evaluate and interpret social science evidence
-- Tell stories about public issues with a combination of text and visuals using data and evidence
+- Write and understand simple code (with and without AI) to manipulate, analyze, and visualize urban data
+- Use basic descriptive and inferential statistics to evaluate and interpret social science evidence
+- Tell stories about public issues through a combination of text and visuals using data and evidence
 - Evaluate the politics and ethics underlying how technology impacts cities and planning processes
+- Communicate analytics concepts through ad hoc public speaking and in writing without notes or technology aids
 
 # Questions and Assistance
 
