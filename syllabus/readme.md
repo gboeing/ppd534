@@ -75,7 +75,7 @@ The following sections outline the work you agree to do by enrolling in this cou
 
 ## Attendance Policy
 
-This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance. Likewise there is no accommodation for travel: it's the student's responsibility to know the school schedule before they book travel and to adjust travel dates as needed.
+This is an in-person course. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance. Likewise there is no accommodation for travel: it's the student's responsibility to know the school schedule before they book travel and to adjust travel dates as needed. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class.
 
 ## Submission Policy
 
