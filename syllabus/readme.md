@@ -8,7 +8,7 @@ USC PPD534 / Fall 2026 / 4 units
 
 Email: boeing at usc dot edu
 
-Office hours: TBD, RGL 301F
+Office hours: 13:00-14:00, Tuesdays, RGL 301F
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
