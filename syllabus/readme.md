@@ -14,7 +14,7 @@ Classroom location and meeting times are [listed online](https://classes.usc.edu
 
 TAs:
 
-- Eliza Bennett (email: elizab at usc dot edu, office hours: Thursdays at 2 PM, [on zoom](https://usc.zoom.us/j/91341281429?pwd=dEMbmfWhbtHxDZIVKSbBgKSLX8Zepj.1))
+- Eliza Bennett (email: elizab at usc dot edu, office hours: Wednesdays at 10 AM, [on zoom](https://usc.zoom.us/j/91341281429?pwd=dEMbmfWhbtHxDZIVKSbBgKSLX8Zepj.1))
 - Emily Kim (email: emilytki at usc dot edu, office hours: Thursdays at 5 PM, RGL student lounge)
 
 # Course Description
