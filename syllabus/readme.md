@@ -202,6 +202,7 @@ Pre-class prep:
 - Video lecture "05-spatial-data"
 - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
 - Wheelan, Naked Statistics, ch. 5, 7
+- *Optional* The Independent, "UN votes to approve new world map which will show true size of Africa." [Direct link](https://www.independent.co.uk/news/world/new-world-map-un-africa-mercator-b3045558.html).
 
 Activities and assessments:
 - group assignment 3 due the Sunday before class
