@@ -8,6 +8,7 @@ license-files = ["LICENSE.txt"]
 readme = "README.md"
 requires-python = "==3.12.*"  # pin to minor version pre-installed on Colab
 dependencies = [  # pin to minor versions pre-installed on Colab
+    "cenpy==1.0.*",
     "folium==0.20.*",
     "geopy==2.4.*",
     "mapclassify==2.10.*",
