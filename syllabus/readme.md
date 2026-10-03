@@ -16,7 +16,7 @@ TAs:
 
 - Eliza Bennett (email: elizab at usc dot edu, office hours: Wednesdays at 10 AM, [on zoom](https://usc.zoom.us/j/91341281429?pwd=dEMbmfWhbtHxDZIVKSbBgKSLX8Zepj.1))
 - Emily Kim (email: emilytki at usc dot edu, office hours: Thursdays at 5 PM, RGL student lounge)
-- Dhruv Nadkar (email: nadkar at usc dot edu, office hours: Tuesdays from 5:20 - 6:20 PM in person and Saturdays from 10 AM–12 PM [on zoom](https://usc.zoom.us/s/94120650079?pwd=c0fh25gdGFL7UEInErPtWSujT54E0O.1))
+- Dhruv Nadkar (email: nadkar at usc dot edu, office hours: Tuesdays from 5:20 - 6:20 PM in person in RGL101 and Saturdays from 10 AM–12 PM [on zoom](https://usc.zoom.us/s/94120650079?pwd=c0fh25gdGFL7UEInErPtWSujT54E0O.1))
 
 # Course Description
 
