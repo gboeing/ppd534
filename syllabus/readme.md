@@ -231,7 +231,7 @@ Learning objectives: we introduce qualitative methods including study design, im
 
 Pre-class prep:
 - Eviction lab website (maps and data) [Direct link](https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=states&y=2018&z=3.09&lat=37.33&lon=-92.78&lang=en)
-- Acolin A, Kim AM. 2021. Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City's periphery. Environment and Planning B: Urban Analytics and City Science. [Direct link](https://journals.sagepub.com/doi/full/10.1177/2399808321998708)
+- Acolin A, Kim AM. 2021. Algorithmic justice and groundtruthing the remote mapping of informal settlements: The example of Ho Chi Minh City's periphery. Environment and Planning B: Urban Analytics and City Science. [Direct link](https://doi.org/10.1177/2399808321998708) [USC link](https://www-doi-org.libproxy2.usc.edu/10.1177/2399808321998708)
 
 Activities and assessments:
 - prep notes 6 due the Sunday before class
