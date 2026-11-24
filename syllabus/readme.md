@@ -291,7 +291,7 @@ Learning objectives: we introduce the social context and limitations of science 
 
 Pre-class prep:
 - Okasha, Philosophy of Science, ch. 5, 7
-- Kitchin, The Ethics of Smart Cities and Urban Science. [Direct link](https://doi.org/10.1098/rsta.2016.0115). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1098/rsta.2016.0115).
+- Chu and Rouault, Between Hype and Reality: What AI Can and Can’t Fix in City Hall [Direct link](https://www.vitalcitynyc.org/ai-city-government-services-hype-vs-reality/).
 - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
 Activities and assessments:
